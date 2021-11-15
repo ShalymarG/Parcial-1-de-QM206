@@ -1,0 +1,1564 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<cml xmlns="http://www.xml-cml.org/schema/cml2/core">
+<matrix dataType="xsd:decimal" title="Rotation Matrix" columns="4" rows="4">0.906298 0.113236 0.407187 2.70448 -0.180208 0.975006 0.129956 -0.603522 -0.382294 -0.191158 0.904052 -0.0930187 0 0 0 1</matrix>
+<metadataList>
+<metadata name="Maximum Size" content="4.9594"></metadata>
+<metadata name="Window Size" content="9.92913"></metadata>
+<metadata name="Current Frame" content="12"></metadata>
+<metadata name="Label Hydrogen Atoms" content="true"></metadata>
+<metadata name="Show Atom Numbers" content="true"></metadata>
+<metadata name="BasisSet">
+<BasisSet MapLength="20" NumberBasisShells="27" NumberBasisFunctions="48">
+<BasisShell ShellType="0" NumberPrimitives="3">
+<array dataType="xsd:decimal" title="Exponent" size="3">71.6168 13.0451 3.53051 </array>
+<array dataType="xsd:decimal" title="NormalizedCoefficient" size="3">2.70781 2.61888 0.816191 </array>
+<array dataType="xsd:decimal" title="InputCoefficient" size="3">0.154329 0.535328 0.444635 </array>
+</BasisShell>
+<BasisShell ShellType="-1" NumberPrimitives="3">
+<array dataType="xsd:decimal" title="Exponent" size="3">2.94125 0.683483 0.22229 </array>
+<array dataType="xsd:decimal" title="NormalizedCoefficient" size="6">-0.160017 0.214036 0.161536 0.856045 0.538304 0.0852764 </array>
+<array dataType="xsd:decimal" title="InputCoefficient" size="6">-0.0999672 0.399513 0.700115 0.155916 0.607684 0.391957 </array>
+</BasisShell>
+<BasisShell ShellType="0" NumberPrimitives="3">
+<array dataType="xsd:decimal" title="Exponent" size="3">71.6168 13.0451 3.53051 </array>
+<array dataType="xsd:decimal" title="NormalizedCoefficient" size="3">2.70781 2.61888 0.816191 </array>
+<array dataType="xsd:decimal" title="InputCoefficient" size="3">0.154329 0.535328 0.444635 </array>
+</BasisShell>
+<BasisShell ShellType="-1" NumberPrimitives="3">
+<array dataType="xsd:decimal" title="Exponent" size="3">2.94125 0.683483 0.22229 </array>
+<array dataType="xsd:decimal" title="NormalizedCoefficient" size="6">-0.160017 0.214036 0.161536 0.856045 0.538304 0.0852764 </array>
+<array dataType="xsd:decimal" title="InputCoefficient" size="6">-0.0999672 0.399513 0.700115 0.155916 0.607684 0.391957 </array>
+</BasisShell>
+<BasisShell ShellType="0" NumberPrimitives="3">
+<array dataType="xsd:decimal" title="Exponent" size="3">71.6168 13.0451 3.53051 </array>
+<array dataType="xsd:decimal" title="NormalizedCoefficient" size="3">2.70781 2.61888 0.816191 </array>
+<array dataType="xsd:decimal" title="InputCoefficient" size="3">0.154329 0.535328 0.444635 </array>
+</BasisShell>
+<BasisShell ShellType="-1" NumberPrimitives="3">
+<array dataType="xsd:decimal" title="Exponent" size="3">2.94125 0.683483 0.22229 </array>
+<array dataType="xsd:decimal" title="NormalizedCoefficient" size="6">-0.160017 0.214036 0.161536 0.856045 0.538304 0.0852764 </array>
+<array dataType="xsd:decimal" title="InputCoefficient" size="6">-0.0999672 0.399513 0.700115 0.155916 0.607684 0.391957 </array>
+</BasisShell>
+<BasisShell ShellType="0" NumberPrimitives="3">
+<array dataType="xsd:decimal" title="Exponent" size="3">71.6168 13.0451 3.53051 </array>
+<array dataType="xsd:decimal" title="NormalizedCoefficient" size="3">2.70781 2.61888 0.816191 </array>
+<array dataType="xsd:decimal" title="InputCoefficient" size="3">0.154329 0.535328 0.444635 </array>
+</BasisShell>
+<BasisShell ShellType="-1" NumberPrimitives="3">
+<array dataType="xsd:decimal" title="Exponent" size="3">2.94125 0.683483 0.22229 </array>
+<array dataType="xsd:decimal" title="NormalizedCoefficient" size="6">-0.160017 0.214036 0.161536 0.856045 0.538304 0.0852764 </array>
+<array dataType="xsd:decimal" title="InputCoefficient" size="6">-0.0999672 0.399513 0.700115 0.155916 0.607684 0.391957 </array>
+</BasisShell>
+<BasisShell ShellType="0" NumberPrimitives="3">
+<array dataType="xsd:decimal" title="Exponent" size="3">71.6168 13.0451 3.53051 </array>
+<array dataType="xsd:decimal" title="NormalizedCoefficient" size="3">2.70781 2.61888 0.816191 </array>
+<array dataType="xsd:decimal" title="InputCoefficient" size="3">0.154329 0.535328 0.444635 </array>
+</BasisShell>
+<BasisShell ShellType="-1" NumberPrimitives="3">
+<array dataType="xsd:decimal" title="Exponent" size="3">2.94125 0.683483 0.22229 </array>
+<array dataType="xsd:decimal" title="NormalizedCoefficient" size="6">-0.160017 0.214036 0.161536 0.856045 0.538304 0.0852764 </array>
+<array dataType="xsd:decimal" title="InputCoefficient" size="6">-0.0999672 0.399513 0.700115 0.155916 0.607684 0.391957 </array>
+</BasisShell>
+<BasisShell ShellType="0" NumberPrimitives="3">
+<array dataType="xsd:decimal" title="Exponent" size="3">71.6168 13.0451 3.53051 </array>
+<array dataType="xsd:decimal" title="NormalizedCoefficient" size="3">2.70781 2.61888 0.816191 </array>
+<array dataType="xsd:decimal" title="InputCoefficient" size="3">0.154329 0.535328 0.444635 </array>
+</BasisShell>
+<BasisShell ShellType="-1" NumberPrimitives="3">
+<array dataType="xsd:decimal" title="Exponent" size="3">2.94125 0.683483 0.22229 </array>
+<array dataType="xsd:decimal" title="NormalizedCoefficient" size="6">-0.160017 0.214036 0.161536 0.856045 0.538304 0.0852764 </array>
+<array dataType="xsd:decimal" title="InputCoefficient" size="6">-0.0999672 0.399513 0.700115 0.155916 0.607684 0.391957 </array>
+</BasisShell>
+<BasisShell ShellType="0" NumberPrimitives="3">
+<array dataType="xsd:decimal" title="Exponent" size="3">3.42525 0.623914 0.168855 </array>
+<array dataType="xsd:decimal" title="NormalizedCoefficient" size="3">0.276934 0.267839 0.0834737 </array>
+<array dataType="xsd:decimal" title="InputCoefficient" size="3">0.154329 0.535328 0.444635 </array>
+</BasisShell>
+<BasisShell ShellType="0" NumberPrimitives="3">
+<array dataType="xsd:decimal" title="Exponent" size="3">3.42525 0.623914 0.168855 </array>
+<array dataType="xsd:decimal" title="NormalizedCoefficient" size="3">0.276934 0.267839 0.0834737 </array>
+<array dataType="xsd:decimal" title="InputCoefficient" size="3">0.154329 0.535328 0.444635 </array>
+</BasisShell>
+<BasisShell ShellType="0" NumberPrimitives="3">
+<array dataType="xsd:decimal" title="Exponent" size="3">3.42525 0.623914 0.168855 </array>
+<array dataType="xsd:decimal" title="NormalizedCoefficient" size="3">0.276934 0.267839 0.0834737 </array>
+<array dataType="xsd:decimal" title="InputCoefficient" size="3">0.154329 0.535328 0.444635 </array>
+</BasisShell>
+<BasisShell ShellType="0" NumberPrimitives="3">
+<array dataType="xsd:decimal" title="Exponent" size="3">3.42525 0.623914 0.168855 </array>
+<array dataType="xsd:decimal" title="NormalizedCoefficient" size="3">0.276934 0.267839 0.0834737 </array>
+<array dataType="xsd:decimal" title="InputCoefficient" size="3">0.154329 0.535328 0.444635 </array>
+</BasisShell>
+<BasisShell ShellType="0" NumberPrimitives="3">
+<array dataType="xsd:decimal" title="Exponent" size="3">3.42525 0.623914 0.168855 </array>
+<array dataType="xsd:decimal" title="NormalizedCoefficient" size="3">0.276934 0.267839 0.0834737 </array>
+<array dataType="xsd:decimal" title="InputCoefficient" size="3">0.154329 0.535328 0.444635 </array>
+</BasisShell>
+<BasisShell ShellType="0" NumberPrimitives="3">
+<array dataType="xsd:decimal" title="Exponent" size="3">3.42525 0.623914 0.168855 </array>
+<array dataType="xsd:decimal" title="NormalizedCoefficient" size="3">0.276934 0.267839 0.0834737 </array>
+<array dataType="xsd:decimal" title="InputCoefficient" size="3">0.154329 0.535328 0.444635 </array>
+</BasisShell>
+<BasisShell ShellType="0" NumberPrimitives="3">
+<array dataType="xsd:decimal" title="Exponent" size="3">3.42525 0.623914 0.168855 </array>
+<array dataType="xsd:decimal" title="NormalizedCoefficient" size="3">0.276934 0.267839 0.0834737 </array>
+<array dataType="xsd:decimal" title="InputCoefficient" size="3">0.154329 0.535328 0.444635 </array>
+</BasisShell>
+<BasisShell ShellType="0" NumberPrimitives="3">
+<array dataType="xsd:decimal" title="Exponent" size="3">3.42525 0.623914 0.168855 </array>
+<array dataType="xsd:decimal" title="NormalizedCoefficient" size="3">0.276934 0.267839 0.0834737 </array>
+<array dataType="xsd:decimal" title="InputCoefficient" size="3">0.154329 0.535328 0.444635 </array>
+</BasisShell>
+<BasisShell ShellType="0" NumberPrimitives="3">
+<array dataType="xsd:decimal" title="Exponent" size="3">3.42525 0.623914 0.168855 </array>
+<array dataType="xsd:decimal" title="NormalizedCoefficient" size="3">0.276934 0.267839 0.0834737 </array>
+<array dataType="xsd:decimal" title="InputCoefficient" size="3">0.154329 0.535328 0.444635 </array>
+</BasisShell>
+<BasisShell ShellType="0" NumberPrimitives="3">
+<array dataType="xsd:decimal" title="Exponent" size="3">3.42525 0.623914 0.168855 </array>
+<array dataType="xsd:decimal" title="NormalizedCoefficient" size="3">0.276934 0.267839 0.0834737 </array>
+<array dataType="xsd:decimal" title="InputCoefficient" size="3">0.154329 0.535328 0.444635 </array>
+</BasisShell>
+<BasisShell ShellType="0" NumberPrimitives="3">
+<array dataType="xsd:decimal" title="Exponent" size="3">48.7911 8.88736 2.40527 </array>
+<array dataType="xsd:decimal" title="NormalizedCoefficient" size="3">2.03055 1.96386 0.612049 </array>
+<array dataType="xsd:decimal" title="InputCoefficient" size="3">0.154329 0.535328 0.444635 </array>
+</BasisShell>
+<BasisShell ShellType="-1" NumberPrimitives="3">
+<array dataType="xsd:decimal" title="Exponent" size="3">2.23696 0.519821 0.169062 </array>
+<array dataType="xsd:decimal" title="NormalizedCoefficient" size="6">-0.13032 0.174313 0.131557 0.608 0.382327 0.060567 </array>
+<array dataType="xsd:decimal" title="InputCoefficient" size="6">-0.0999672 0.399513 0.700115 0.155916 0.607684 0.391957 </array>
+</BasisShell>
+<BasisShell ShellType="0" NumberPrimitives="3">
+<array dataType="xsd:decimal" title="Exponent" size="3">3.42525 0.623914 0.168855 </array>
+<array dataType="xsd:decimal" title="NormalizedCoefficient" size="3">0.276934 0.267839 0.0834737 </array>
+<array dataType="xsd:decimal" title="InputCoefficient" size="3">0.154329 0.535328 0.444635 </array>
+</BasisShell>
+<BasisShell ShellType="0" NumberPrimitives="3">
+<array dataType="xsd:decimal" title="Exponent" size="3">3.42525 0.623914 0.168855 </array>
+<array dataType="xsd:decimal" title="NormalizedCoefficient" size="3">0.276934 0.267839 0.0834737 </array>
+<array dataType="xsd:decimal" title="InputCoefficient" size="3">0.154329 0.535328 0.444635 </array>
+</BasisShell>
+<BasisShell ShellType="0" NumberPrimitives="3">
+<array dataType="xsd:decimal" title="Exponent" size="3">3.42525 0.623914 0.168855 </array>
+<array dataType="xsd:decimal" title="NormalizedCoefficient" size="3">0.276934 0.267839 0.0834737 </array>
+<array dataType="xsd:decimal" title="InputCoefficient" size="3">0.154329 0.535328 0.444635 </array>
+</BasisShell>
+<array dataType="xsd:decimal" title="Map" size="40">0 1 2 3 4 5 6 7 8 9 10 11 12 12 13 13 14 14 15 15 16 16 17 17 18 18 19 19 20 20 21 21 22 23 24 24 25 25 26 26 </array>
+<array dataType="xsd:decimal" title="NuclearCharge" size="20">6 6 6 6 6 6 1 1 1 1 1 1 1 1 1 1 5 1 1 1 </array>
+</BasisSet>
+</metadata>
+<metadata name="InputOptions">
+<InputOptions>
+<ControlGroup>
+<SCFType>RHF</SCFType>
+<ExeType>RUN</ExeType>
+<CIType>NONE</CIType>
+<RunType>SADPOINT</RunType>
+<MPLevel>0</MPLevel>
+<MaxIterations>30</MaxIterations>
+<Multiplicity>1</Multiplicity>
+</ControlGroup>
+<SystemGroup>
+<TimeLimit TimeUnit="min">525600.000000</TimeLimit>
+<Memory MemoryUnit="words">1000000.000000</Memory>
+</SystemGroup>
+<BasisGroup>
+<BasisSet>STO</BasisSet>
+<NumGauss>3</NumGauss>
+</BasisGroup>
+<DataGroup>
+<Title>Title</Title>
+<PointGroup>1</PointGroup>
+<NoSym>true</NoSym>
+</DataGroup>
+<GuessGroup></GuessGroup>
+<SCFGroup>
+<DirectSCF>true</DirectSCF>
+<FockDiff>true</FockDiff>
+</SCFGroup>
+<StatPtGroup>
+<ConverganceCriteria>0.000100</ConverganceCriteria>
+<InitialTrustRadius>0.000000</InitialTrustRadius>
+<MaxTrustRadius>0.000000</MaxTrustRadius>
+<MinTrustRadius>0.050000</MinTrustRadius>
+<JumpSize>0.010000</JumpSize>
+<ModeToFollow>1</ModeToFollow>
+<RadiusUpdate>true</RadiusUpdate>
+<HessianMethod>0</HessianMethod>
+<Method>3</Method>
+<MaximumSteps>20</MaximumSteps>
+<RecalcHessianSteps>0</RecalcHessianSteps>
+</StatPtGroup>
+<DFTGroup GridBased="true">
+<GridSwitch>0.000300</GridSwitch>
+<Threshold>0.000100</Threshold>
+<Functional>SLATER</Functional>
+<GetAuxFunctions>true</GetAuxFunctions>
+</DFTGroup>
+</InputOptions>
+</metadata>
+<metadata name="Preferences">
+<MoleculeDisplayPreferences ShowToolbar="false" AutoRotationAllowed="true" AutoRotating="false" AutoRotationSpeedX="1" AutoRotationSpeedY="1" AutoRotationSpeedZ="0" AnimationDelay="20" Atom3DQuality="13" BondWidth="0.068" AtomScale="0.005" FieldOfView="30" VectorScale="0.5" GradientScaleFactor="50" FillBrightness3D="0.6" PointBrightness3D="0.8" LineWidth3D="0.004" LabelSize="10" AtomLabelSize="1" AnnotationLabelSize="1" AnimationSpeed="7" StereoOffset="3" RotateMode="true" ShaderMode="1" AnimateMode="false" ShowAngles="true" StereoActive="false" ColorBondHalves="true" WireframeMode="false" EFPWireFrameMode="false" OutlineBonds="false" UseCylinders="false" Use3DByDefault="false" Use3DHardware="false" ShowAtomicSymbols="false" ShowAtomNumbers="true" ShowSymmetryOperators="false" ShowAtomPatterns="false" DisplayGradient="false" InvertGradient="false">
+<BackgroundColor red="1" green="1" blue="1"></BackgroundColor>
+<VectorColor red="1" green="0" blue="0" pattern="0"></VectorColor>
+<GradientColor red="0" green="0.991836" blue="0"></GradientColor>
+<BondColor BondOrder="1" red="0.260853" green="0.260853" blue="0.260853" pattern="0"></BondColor>
+<BondColor BondOrder="2" red="0" green="0" blue="0" pattern="0"></BondColor>
+<BondColor BondOrder="3" red="0.00650034" green="0.0517739" blue="0.573175" pattern="0"></BondColor>
+<BondColor BondOrder="4" red="0.00839246" green="0.45536" blue="0.0945907" pattern="0"></BondColor>
+</MoleculeDisplayPreferences>
+<FileOptions SetFileCreator="true" CreateCustomIcon="true" PromptToSaveChanges="true" UseNativeEOLChars="true" SetBondOrder="true" CreateHydrogenBonds="true" ReadEverynDRCPoints="0" AutoCreateBonds="true" AutoBondTolerance="0.011" MaxBondLength="0" PreventHHBonds="true"></FileOptions>
+<AtomPreferences>
+<Atom Number="1" Size="37" Mass="1.0039" Label="H">
+<Color red="1" green="1" blue="1" pattern="0"></Color>
+</Atom>
+<Atom Number="2" Size="31" Mass="2.0005" Label="He">
+<Color red="1" green="1" blue="1" pattern="5"></Color>
+</Atom>
+<Atom Number="3" Size="152" Mass="2.6346" Label="Li">
+<Color red="0.657893" green="0.657893" blue="0.657893" pattern="0"></Color>
+</Atom>
+<Atom Number="4" Size="112" Mass="3.00203" Label="Be">
+<Color red="0.549325" green="0.549325" blue="0.549325" pattern="0"></Color>
+</Atom>
+<Atom Number="5" Size="85" Mass="3.288" Label="B">
+<Color red="0" green="0.322347" blue="0.322347" pattern="0"></Color>
+</Atom>
+<Atom Number="6" Size="77" Mass="3.46569" Label="C">
+<Color red="0.269703" green="0.269703" blue="0.269703" pattern="0"></Color>
+</Atom>
+<Atom Number="7" Size="70" Mass="3.7426" Label="N">
+<Color red="0" green="0" blue="1" pattern="8"></Color>
+</Atom>
+<Atom Number="8" Size="73" Mass="3.9999" Label="O">
+<Color red="1" green="0" blue="0" pattern="37"></Color>
+</Atom>
+<Atom Number="9" Size="72" Mass="4.3587" Label="F">
+<Color red="0" green="1" blue="0.370642" pattern="0"></Color>
+</Atom>
+<Atom Number="10" Size="71" Mass="4.4922" Label="Ne">
+<Color red="1" green="0" blue="0.370642" pattern="0"></Color>
+</Atom>
+<Atom Number="11" Size="186" Mass="4.7948" Label="Na">
+<Color red="0.269703" green="0.269703" blue="0.269703" pattern="2"></Color>
+</Atom>
+<Atom Number="12" Size="160" Mass="4.93" Label="Mg">
+<Color red="0.269703" green="0.269703" blue="0.269703" pattern="3"></Color>
+</Atom>
+<Atom Number="13" Size="143" Mass="5.19438" Label="Al">
+<Color red="0.269703" green="0.269703" blue="0.269703" pattern="4"></Color>
+</Atom>
+<Atom Number="14" Size="118" Mass="5.29958" Label="Si">
+<Color red="0" green="0.259388" blue="0.762936" pattern="6"></Color>
+</Atom>
+<Atom Number="15" Size="110" Mass="5.5654" Label="P">
+<Color red="0.269703" green="0.269703" blue="0.269703" pattern="7"></Color>
+</Atom>
+<Atom Number="16" Size="103" Mass="5.6627" Label="S">
+<Color red="1" green="1" blue="0" pattern="8"></Color>
+</Atom>
+<Atom Number="17" Size="99" Mass="5.9542" Label="Cl">
+<Color red="0" green="0.697368" blue="0" pattern="9"></Color>
+</Atom>
+<Atom Number="18" Size="98" Mass="6.3204" Label="Ar">
+<Color red="0.762936" green="0" blue="0" pattern="10"></Color>
+</Atom>
+<Atom Number="19" Size="227" Mass="6.2529" Label="K">
+<Color red="0.269703" green="0.269703" blue="0.269703" pattern="11"></Color>
+</Atom>
+<Atom Number="20" Size="197" Mass="6.3307" Label="Ca">
+<Color red="0.269703" green="0.269703" blue="0.269703" pattern="12"></Color>
+</Atom>
+<Atom Number="21" Size="163" Mass="6.7049" Label="Sc">
+<Color red="0.269703" green="0.269703" blue="0.269703" pattern="13"></Color>
+</Atom>
+<Atom Number="22" Size="147" Mass="6.9195" Label="Ti">
+<Color red="0.635935" green="1" blue="0" pattern="14"></Color>
+</Atom>
+<Atom Number="23" Size="134" Mass="7.1373" Label="V">
+<Color red="0.269703" green="0.269703" blue="0.269703" pattern="15"></Color>
+</Atom>
+<Atom Number="24" Size="130" Mass="7.2108" Label="Cr">
+<Color red="0.269703" green="0.269703" blue="0.269703" pattern="16"></Color>
+</Atom>
+<Atom Number="25" Size="130" Mass="7.4115" Label="Mn">
+<Color red="1" green="1" blue="1" pattern="17"></Color>
+</Atom>
+<Atom Number="26" Size="127" Mass="7.4731" Label="Fe">
+<Color red="0.549981" green="0" blue="0" pattern="18"></Color>
+</Atom>
+<Atom Number="27" Size="125" Mass="7.6768" Label="Co">
+<Color red="0.500008" green="0.500008" blue="0.500008" pattern="19"></Color>
+</Atom>
+<Atom Number="28" Size="124" Mass="7.6609" Label="Ni">
+<Color red="0.500008" green="0.500008" blue="0.500008" pattern="20"></Color>
+</Atom>
+<Atom Number="29" Size="128" Mass="7.9716" Label="Cu">
+<Color red="1" green="0.4" blue="0" pattern="21"></Color>
+</Atom>
+<Atom Number="30" Size="138" Mass="8.0864" Label="Zn">
+<Color red="0.457771" green="0.457771" blue="0.457771" pattern="22"></Color>
+</Atom>
+<Atom Number="31" Size="135" Mass="8.35" Label="Ga">
+<Color red="0.269703" green="0.269703" blue="0" pattern="23"></Color>
+</Atom>
+<Atom Number="32" Size="122" Mass="8.5212" Label="Ge">
+<Color red="0.269703" green="0.269703" blue="0.269703" pattern="24"></Color>
+</Atom>
+<Atom Number="33" Size="120" Mass="8.6557" Label="As">
+<Color red="0.269703" green="0.269703" blue="0.269703" pattern="25"></Color>
+</Atom>
+<Atom Number="34" Size="119" Mass="8.8859" Label="Se">
+<Color red="0.269703" green="0.269703" blue="0.269703" pattern="26"></Color>
+</Atom>
+<Atom Number="35" Size="114" Mass="8.9389" Label="Br">
+<Color red="0" green="0" blue="0.152575" pattern="27"></Color>
+</Atom>
+<Atom Number="36" Size="112" Mass="9.1542" Label="Kr">
+<Color red="0.269703" green="0" blue="0" pattern="28"></Color>
+</Atom>
+<Atom Number="37" Size="248" Mass="9.2449" Label="Rb">
+<Color red="0" green="0" blue="0" pattern="29"></Color>
+</Atom>
+<Atom Number="38" Size="215" Mass="9.3606" Label="Sr">
+<Color red="0" green="0" blue="0" pattern="30"></Color>
+</Atom>
+<Atom Number="39" Size="181" Mass="9.429" Label="Y">
+<Color red="0" green="0" blue="0" pattern="31"></Color>
+</Atom>
+<Atom Number="40" Size="160" Mass="9.5511" Label="Zr">
+<Color red="0" green="0" blue="0" pattern="32"></Color>
+</Atom>
+<Atom Number="41" Size="148" Mass="9.6388" Label="Nb">
+<Color red="0" green="0" blue="0" pattern="33"></Color>
+</Atom>
+<Atom Number="42" Size="139" Mass="9.7949" Label="Mo">
+<Color red="0" green="0" blue="0" pattern="34"></Color>
+</Atom>
+<Atom Number="43" Size="136" Mass="9.8995" Label="Tc">
+<Color red="0" green="0" blue="0" pattern="35"></Color>
+</Atom>
+<Atom Number="44" Size="134" Mass="10.0533" Label="Ru">
+<Color red="0" green="0" blue="0" pattern="36"></Color>
+</Atom>
+<Atom Number="45" Size="135" Mass="10.1442" Label="Rh">
+<Color red="0" green="0" blue="0" pattern="37"></Color>
+</Atom>
+<Atom Number="46" Size="138" Mass="10.316" Label="Pd">
+<Color red="0.269703" green="0.269703" blue="0.269703" pattern="38"></Color>
+</Atom>
+<Atom Number="47" Size="141" Mass="10.3859" Label="Ag">
+<Color red="0.457771" green="0.457771" blue="0.457771" pattern="39"></Color>
+</Atom>
+<Atom Number="48" Size="150" Mass="10.6024" Label="Cd">
+<Color red="0" green="0" blue="0" pattern="10"></Color>
+</Atom>
+<Atom Number="49" Size="167" Mass="10.7154" Label="In">
+<Color red="0" green="0" blue="0" pattern="11"></Color>
+</Atom>
+<Atom Number="50" Size="140" Mass="10.8954" Label="Sn">
+<Color red="0" green="0" blue="0" pattern="12"></Color>
+</Atom>
+<Atom Number="51" Size="140" Mass="11.034" Label="Sb">
+<Color red="0" green="0" blue="0" pattern="13"></Color>
+</Atom>
+<Atom Number="52" Size="142" Mass="11.296" Label="Te">
+<Color red="0" green="0" blue="0" pattern="14"></Color>
+</Atom>
+<Atom Number="53" Size="133" Mass="11.2652" Label="I">
+<Color red="0" green="0" blue="0" pattern="15"></Color>
+</Atom>
+<Atom Number="54" Size="131" Mass="11.4582" Label="Xe">
+<Color red="0" green="0" blue="0" pattern="16"></Color>
+</Atom>
+<Atom Number="55" Size="265" Mass="11.5285" Label="Cs">
+<Color red="0" green="0" blue="0" pattern="17"></Color>
+</Atom>
+<Atom Number="56" Size="222" Mass="11.7187" Label="Ba">
+<Color red="0" green="0" blue="0" pattern="18"></Color>
+</Atom>
+<Atom Number="57" Size="182" Mass="11.7858" Label="La">
+<Color red="0" green="0" blue="0" pattern="19"></Color>
+</Atom>
+<Atom Number="58" Size="182" Mass="11.837" Label="Ce">
+<Color red="0" green="0" blue="0" pattern="20"></Color>
+</Atom>
+<Atom Number="59" Size="182" Mass="11.8705" Label="Pr">
+<Color red="0" green="0" blue="0" pattern="21"></Color>
+</Atom>
+<Atom Number="60" Size="181" Mass="12.01" Label="Nd">
+<Color red="0" green="0" blue="0" pattern="22"></Color>
+</Atom>
+<Atom Number="61" Size="181" Mass="12.0416" Label="Pm">
+<Color red="0" green="0" blue="0" pattern="23"></Color>
+</Atom>
+<Atom Number="62" Size="181" Mass="12.2621" Label="Sm">
+<Color red="0" green="0" blue="0" pattern="24"></Color>
+</Atom>
+<Atom Number="63" Size="180" Mass="12.3274" Label="Eu">
+<Color red="0" green="0" blue="0" pattern="25"></Color>
+</Atom>
+<Atom Number="64" Size="180" Mass="12.5399" Label="Gd">
+<Color red="0" green="0" blue="0" pattern="26"></Color>
+</Atom>
+<Atom Number="65" Size="180" Mass="12.6066" Label="Tb">
+<Color red="0" green="0" blue="0" pattern="27"></Color>
+</Atom>
+<Atom Number="66" Size="179" Mass="12.7475" Label="Dy">
+<Color red="0" green="0" blue="0" pattern="28"></Color>
+</Atom>
+<Atom Number="67" Size="178" Mass="12.8425" Label="Ho">
+<Color red="0" green="0" blue="0" pattern="29"></Color>
+</Atom>
+<Atom Number="68" Size="177" Mass="12.9329" Label="Er">
+<Color red="0" green="0" blue="0" pattern="30"></Color>
+</Atom>
+<Atom Number="69" Size="176" Mass="12.9975" Label="Tm">
+<Color red="0" green="0" blue="0" pattern="31"></Color>
+</Atom>
+<Atom Number="70" Size="175" Mass="13.1544" Label="Yb">
+<Color red="0" green="0" blue="0" pattern="32"></Color>
+</Atom>
+<Atom Number="71" Size="174" Mass="13.2275" Label="Lu">
+<Color red="0" green="0" blue="0" pattern="33"></Color>
+</Atom>
+<Atom Number="72" Size="160" Mass="13.3604" Label="Hf">
+<Color red="0" green="0" blue="0" pattern="34"></Color>
+</Atom>
+<Atom Number="73" Size="148" Mass="13.4499" Label="Ta">
+<Color red="0" green="0" blue="0" pattern="35"></Color>
+</Atom>
+<Atom Number="74" Size="139" Mass="13.561" Label="W">
+<Color red="0" green="0" blue="0" pattern="36"></Color>
+</Atom>
+<Atom Number="75" Size="137" Mass="13.6455" Label="Re">
+<Color red="0" green="0" blue="0" pattern="37"></Color>
+</Atom>
+<Atom Number="76" Size="136" Mass="13.7913" Label="Os">
+<Color red="0" green="0" blue="0" pattern="38"></Color>
+</Atom>
+<Atom Number="77" Size="136" Mass="13.8636" Label="Ir">
+<Color red="0" green="0" blue="0" pattern="39"></Color>
+</Atom>
+<Atom Number="78" Size="139" Mass="13.9678" Label="Pt">
+<Color red="0" green="0" blue="0" pattern="2"></Color>
+</Atom>
+<Atom Number="79" Size="142" Mass="14.0357" Label="Au">
+<Color red="0" green="0" blue="0" pattern="3"></Color>
+</Atom>
+<Atom Number="80" Size="151" Mass="14.1633" Label="Hg">
+<Color red="0" green="0" blue="0" pattern="4"></Color>
+</Atom>
+<Atom Number="81" Size="170" Mass="14.2969" Label="Tl">
+<Color red="0" green="0" blue="0" pattern="5"></Color>
+</Atom>
+<Atom Number="82" Size="146" Mass="14.3944" Label="Pb">
+<Color red="0" green="0" blue="0" pattern="6"></Color>
+</Atom>
+<Atom Number="83" Size="150" Mass="14.4568" Label="Bi">
+<Color red="0" green="0" blue="0" pattern="7"></Color>
+</Atom>
+<Atom Number="84" Size="168" Mass="14.4914" Label="Po">
+<Color red="0" green="0" blue="0" pattern="8"></Color>
+</Atom>
+<Atom Number="85" Size="140" Mass="14.4914" Label="At">
+<Color red="0" green="0" blue="0" pattern="9"></Color>
+</Atom>
+<Atom Number="86" Size="141" Mass="14.8997" Label="Rn">
+<Color red="0" green="0" blue="0" pattern="10"></Color>
+</Atom>
+<Atom Number="87" Size="280" Mass="14.9332" Label="Fr">
+<Color red="0" green="0" blue="0" pattern="11"></Color>
+</Atom>
+<Atom Number="88" Size="230" Mass="15.0341" Label="Ra">
+<Color red="0" green="0" blue="0" pattern="12"></Color>
+</Atom>
+<Atom Number="89" Size="183" Mass="15.0674" Label="Ac">
+<Color red="0" green="0" blue="0" pattern="13"></Color>
+</Atom>
+<Atom Number="90" Size="182" Mass="15.2328" Label="Th">
+<Color red="0" green="0" blue="0" pattern="14"></Color>
+</Atom>
+<Atom Number="91" Size="182" Mass="15.1999" Label="Pa">
+<Color red="0" green="0" blue="0" pattern="15"></Color>
+</Atom>
+<Atom Number="92" Size="182" Mass="15.4282" Label="U">
+<Color red="0" green="0" blue="0" pattern="16"></Color>
+</Atom>
+<Atom Number="93" Size="182" Mass="15.3964" Label="Np">
+<Color red="0" green="0" blue="0" pattern="17"></Color>
+</Atom>
+<Atom Number="94" Size="182" Mass="15.6205" Label="Pu">
+<Color red="0" green="0" blue="0" pattern="18"></Color>
+</Atom>
+<Atom Number="95" Size="182" Mass="15.5885" Label="Am">
+<Color red="0" green="0" blue="0" pattern="19"></Color>
+</Atom>
+<Atom Number="96" Size="182" Mass="15.7162" Label="Cm">
+<Color red="0" green="0" blue="0" pattern="20"></Color>
+</Atom>
+<Atom Number="97" Size="181" Mass="15.7162" Label="Bk">
+<Color red="0" green="0" blue="0" pattern="21"></Color>
+</Atom>
+<Atom Number="98" Size="181" Mass="15.843" Label="Cf">
+<Color red="0" green="0" blue="0" pattern="22"></Color>
+</Atom>
+<Atom Number="99" Size="180" Mass="15.8745" Label="Es">
+<Color red="0" green="0" blue="0" pattern="23"></Color>
+</Atom>
+<Atom Number="100" Size="180" Mass="16.0312" Label="Fm">
+<Color red="0" green="0" blue="0" pattern="24"></Color>
+</Atom>
+<Atom Number="101" Size="179" Mass="16.0624" Label="Md">
+<Color red="0" green="0" blue="0" pattern="25"></Color>
+</Atom>
+<Atom Number="102" Size="178" Mass="16.0935" Label="No">
+<Color red="0" green="0" blue="0" pattern="26"></Color>
+</Atom>
+<Atom Number="103" Size="177" Mass="16.1245" Label="Lr">
+<Color red="0" green="0" blue="0" pattern="27"></Color>
+</Atom>
+<Atom Number="104" Size="166" Mass="16.1245" Label="Rf">
+<Color red="0" green="0" blue="0" pattern="28"></Color>
+</Atom>
+<Atom Number="105" Size="155" Mass="16.1864" Label="Db">
+<Color red="0" green="0" blue="0" pattern="29"></Color>
+</Atom>
+<Atom Number="106" Size="145" Mass="16.2173" Label="Sg">
+<Color red="0" green="0" blue="0" pattern="30"></Color>
+</Atom>
+<Atom Number="107" Size="143" Mass="16.1864" Label="Bh">
+<Color red="0" green="0" blue="0" pattern="31"></Color>
+</Atom>
+<Atom Number="108" Size="134" Mass="16.2788" Label="Hs">
+<Color red="0" green="0" blue="0" pattern="32"></Color>
+</Atom>
+<Atom Number="109" Size="129" Mass="16.3095" Label="Mt">
+<Color red="0" green="0" blue="0" pattern="33"></Color>
+</Atom>
+<Atom Number="110" Size="128" Mass="16.7631" Label="Ds">
+<Color red="0" green="0" blue="0" pattern="34"></Color>
+</Atom>
+<Atom Number="111" Size="121" Mass="16.4924" Label="Rg">
+<Color red="0" green="0" blue="0" pattern="35"></Color>
+</Atom>
+<Atom Number="112" Size="122" Mass="16.8819" Label="Cn">
+<Color red="0" green="0" blue="0" pattern="36"></Color>
+</Atom>
+<Atom Number="113" Size="130" Mass="16.911" Label="Uut">
+<Color red="0" green="0" blue="0" pattern="37"></Color>
+</Atom>
+<Atom Number="114" Size="175" Mass="17" Label="Fl">
+<Color red="0" green="0" blue="0" pattern="0"></Color>
+</Atom>
+<Atom Number="115" Size="30" Mass="0" Label="G">
+<Color red="0" green="0" blue="0" pattern="39"></Color>
+</Atom>
+<Atom Number="116" Size="25" Mass="0" Label="*C">
+<Color red="0" green="0" blue="0" pattern="36"></Color>
+</Atom>
+<Atom Number="117" Size="25" Mass="0">
+<Color red="0" green="0" blue="0" pattern="3"></Color>
+</Atom>
+<Atom Number="118" Size="25" Mass="0">
+<Color red="0" green="0" blue="0" pattern="4"></Color>
+</Atom>
+<Atom Number="119" Size="0" Mass="0">
+<Color red="0" green="0" blue="0" pattern="5"></Color>
+</Atom>
+<Atom Number="120" Size="0" Mass="0">
+<Color red="0" green="0" blue="0" pattern="0"></Color>
+</Atom>
+<Atom Number="121" Size="0" Mass="0">
+<Color red="0" green="0" blue="0" pattern="0"></Color>
+</Atom>
+<Atom Number="122" Size="0" Mass="0">
+<Color red="0" green="0" blue="0" pattern="0"></Color>
+</Atom>
+<Atom Number="123" Size="0" Mass="0">
+<Color red="0" green="0" blue="0" pattern="0"></Color>
+</Atom>
+<Atom Number="124" Size="0" Mass="0">
+<Color red="0" green="0" blue="0" pattern="0"></Color>
+</Atom>
+<Atom Number="125" Size="0" Mass="0">
+<Color red="0" green="0" blue="0" pattern="0"></Color>
+</Atom>
+<Atom Number="126" Size="0" Mass="0">
+<Color red="0" green="0" blue="0" pattern="0"></Color>
+</Atom>
+<Atom Number="127" Size="0" Mass="0">
+<Color red="0" green="0" blue="0" pattern="0"></Color>
+</Atom>
+<Atom Number="128" Size="0" Mass="0">
+<Color red="0" green="0" blue="0" pattern="0"></Color>
+</Atom>
+<Atom Number="129" Size="0" Mass="0">
+<Color red="0" green="0" blue="0" pattern="0"></Color>
+</Atom>
+<Atom Number="130" Size="0" Mass="0">
+<Color red="0" green="0" blue="0" pattern="0"></Color>
+</Atom>
+</AtomPreferences>
+<EnergyWindowPreferences y1Zero="0" y2Zero="0" YAdjustmentFactor="1" IndicatorSize="8" NumberDigits="4" PlotTotalEnergy="true" PlotMPEnergy="false" PlotKineticEnergy="false" PlotPotentialEnergy="false" UseKCal="false" PlotRMSGradient="true" PlotMaximumGradient="false" PlotBondLength="false" PlotBondAngle="false" PlotDihedralAngle="false" Atom1="0" Atom2="0" Atom3="0" Atom4="0">
+<TEColor red="0" green="0" blue="0.915526"></TEColor>
+<MPColor red="0" green="0.610361" blue="0"></MPColor>
+<KEColor red="0.686656" green="0" blue="0.793454"></KEColor>
+<PEColor red="0.915526" green="0.915526" blue="0"></PEColor>
+</EnergyWindowPreferences>
+<SurfaceWindowOptions NumberContours="25" NumberGridPoints="30" GridSize="1" MaximumContourValue="1" ShowZeroContour="true" Rotate2DMap="true" Show2DHashMarks="false">
+<PositiveContourColor red="1" green="0" blue="0"></PositiveContourColor>
+<NegativeContourColor red="0" green="0" blue="1"></NegativeContourColor>
+</SurfaceWindowOptions>
+<WindowDefaults>
+<MoleculeDisplayWindow x="10" y="30" width="453" height="464"></MoleculeDisplayWindow>
+<PreferencesWindow x="10" y="50" width="500" height="495" visible="false"></PreferencesWindow>
+</WindowDefaults>
+</metadata>
+<metadata name="WindowInformation">
+<MoleculeDisplayWindow x="-8" y="-8" width="1382" height="744"></MoleculeDisplayWindow>
+<PreferencesWindow x="10" y="50" width="500" height="495" visible="false"></PreferencesWindow>
+</metadata>
+</metadataList>
+<molecule>
+<atomArray>
+<atom id="a0" elementType="C" x3="0.938209" y3="0.214372" z3="0.847091"></atom>
+<atom id="a1" elementType="C" x3="2.164943" y3="-0.324108" z3="0.093279"></atom>
+<atom id="a2" elementType="C" x3="3.032007" y3="-1.260197" z3="0.702143"></atom>
+<atom id="a3" elementType="C" x3="4.489142" y3="-1.035687" z3="0.294950"></atom>
+<atom id="a4" elementType="C" x3="4.481766" y3="0.386143" z3="-0.327895"></atom>
+<atom id="a5" elementType="C" x3="3.020094" y3="0.633531" z3="-0.784749"></atom>
+<atom id="a6" elementType="H" x3="0.356893" y3="-0.601891" z3="1.265042"></atom>
+<atom id="a7" elementType="H" x3="0.300376" y3="0.805160" z3="0.198064"></atom>
+<atom id="a8" elementType="H" x3="1.285153" y3="0.843644" z3="1.665459"></atom>
+<atom id="a9" elementType="H" x3="2.770129" y3="-1.749614" z3="1.628764"></atom>
+<atom id="a10" elementType="H" x3="4.841962" y3="-1.775740" z3="-0.421414"></atom>
+<atom id="a11" elementType="H" x3="5.143246" y3="-1.086980" z3="1.163093"></atom>
+<atom id="a12" elementType="H" x3="5.184185" y3="0.483380" z3="-1.151389"></atom>
+<atom id="a13" elementType="H" x3="4.754936" y3="1.116092" z3="0.430528"></atom>
+<atom id="a14" elementType="H" x3="2.901868" y3="0.407857" z3="-1.840351"></atom>
+<atom id="a15" elementType="H" x3="2.709785" y3="1.664158" z3="-0.628427"></atom>
+<atom id="a16" elementType="B" x3="1.924884" y3="-2.237648" z3="-0.762529"></atom>
+<atom id="a17" elementType="H" x3="2.668775" y3="-2.485006" z3="-1.607573"></atom>
+<atom id="a18" elementType="H" x3="1.164428" y3="-2.899765" z3="-0.203657"></atom>
+<atom id="a19" elementType="H" x3="0.904615" y3="-0.678357" z3="-1.431903"></atom>
+</atomArray>
+<bondArray>
+<bond id="b0" atomRefs2="a1 a0" order="S"></bond>
+<bond id="b1" atomRefs2="a6 a0" order="S"></bond>
+<bond id="b2" atomRefs2="a7 a0" order="S"></bond>
+<bond id="b3" atomRefs2="a8 a0" order="S"></bond>
+<bond id="b4" atomRefs2="a2 a1" order="S"></bond>
+<bond id="b5" atomRefs2="a5 a1" order="S"></bond>
+<bond id="b6" atomRefs2="a3 a2" order="S"></bond>
+<bond id="b7" atomRefs2="a9 a2" order="S"></bond>
+<bond id="b8" atomRefs2="a4 a3" order="S"></bond>
+<bond id="b9" atomRefs2="a10 a3" order="S"></bond>
+<bond id="b10" atomRefs2="a11 a3" order="S"></bond>
+<bond id="b11" atomRefs2="a5 a4" order="S"></bond>
+<bond id="b12" atomRefs2="a12 a4" order="S"></bond>
+<bond id="b13" atomRefs2="a13 a4" order="S"></bond>
+<bond id="b14" atomRefs2="a14 a5" order="S"></bond>
+<bond id="b15" atomRefs2="a15 a5" order="S"></bond>
+<bond id="b16" atomRefs2="a17 a16" order="S"></bond>
+<bond id="b17" atomRefs2="a18 a16" order="S"></bond>
+</bondArray>
+<list>
+<atomArray>
+<atom id="a0" coordinationNumber="4"></atom>
+<atom id="a1" coordinationNumber="4"></atom>
+<atom id="a2" coordinationNumber="4"></atom>
+<atom id="a3" coordinationNumber="4"></atom>
+<atom id="a4" coordinationNumber="4"></atom>
+<atom id="a5" coordinationNumber="4"></atom>
+<atom id="a6" coordinationNumber="1"></atom>
+<atom id="a7" coordinationNumber="1"></atom>
+<atom id="a8" coordinationNumber="1"></atom>
+<atom id="a9" coordinationNumber="1"></atom>
+<atom id="a10" coordinationNumber="1"></atom>
+<atom id="a11" coordinationNumber="1"></atom>
+<atom id="a12" coordinationNumber="1"></atom>
+<atom id="a13" coordinationNumber="1"></atom>
+<atom id="a14" coordinationNumber="1"></atom>
+<atom id="a15" coordinationNumber="1"></atom>
+<atom id="a16" coordinationNumber="3"></atom>
+<atom id="a17" coordinationNumber="1"></atom>
+<atom id="a18" coordinationNumber="1"></atom>
+<atom id="a19" coordinationNumber="1"></atom>
+</atomArray>
+<scalar title="Energy">-2.561674134e+02</scalar>
+<Gradient>
+<scalar title="RMS Gradient">0.0239331</scalar>
+<scalar title="Maximum Gradient">0.123252</scalar>
+<matrix dataType="xsd:decimal" title="Cartesian Gradient" columns="3" rows="20">0.0001156 -1.39e-05 0.0001041 0.0032376 0.0010786 0.0041147 0.0388646 0.0340391 0.0510484 3.29e-05 7.14e-05 2.9e-05 -2.75e-05 1.5e-05 2.54e-05 8.18e-05 8.89e-05 0.0001392 4.16e-05 -5.9e-06 5.87e-05 -4.62e-05 -6.24e-05 -2.81e-05 5e-06 4.51e-05 -5.41e-05 1.96e-05 0.0001187 9.71e-05 -0.0001529 2.93e-05 -0.0001236 0.0001201 -0.0001272 -0.0001056 0.0001082 0.0001778 0.0001231 -0.0001877 -7.08e-05 0.0001401 4.1e-05 -0.0001967 2.27e-05 -7.5e-06 2.4e-05 -0.0002033 0.0193546 -0.123252 -0.0128756 -2.48e-05 2.4e-06 -2.56e-05 -4.81e-05 4.66e-05 -1.82e-05 -0.0615279 0.0879923 -0.0424684</matrix>
+</Gradient>
+<OrbitalSet Type="Optimized" wavefunction="RHF" NumberAlpha="48" AlphaOccupied="27" NumberBasisFunctions="48">
+<matrix dataType="xsd:decimal" title="Vectors" columns="48" rows="48">-0.002965 -0.005424 -0.003274 0.001425 0.001837 0.992314 0.0345 0.001533 -0.000673 0.001132 0.002426 -0.006445 0.002588 -0.003225 0.001523 -0.000528 0.000113 1.6e-05 -2.3e-05 8.2e-05 -0.000637 0.000101 6.5e-05 7.7e-05 -0.000184 -0.002987 -0.005431 0.002169 0.002407 -0.002328 3.5e-05 2.8e-05 -7.9e-05 9.2e-05 2.9e-05 -4.6e-05 -0.000104 -1.3e-05 3.4e-05 5.4e-05 0.000311 -0.001983 -4.1e-05 -0.002142 -0.000754 6.9e-05 9.4e-05 -0.001206 0.991946 0.037763 -4.2e-05 9.3e-05 0.000239 0.00393 -0.005502 0.003415 -0.001507 -0.00216 -0.000498 0.000121 -4.7e-05 1e-06 9.4e-05 -0.000186 -3.7e-05 2.8e-05 1e-06 3.4e-05 0.000152 1.7e-05 -1.8e-05 1.4e-05 2e-05 -0.002789 4.7e-05 -7.2e-05 9.6e-05 4.2e-05 -0.006983 -0.006949 -0.006999 -0.000122 8e-06 -8e-06 7e-06 9e-06 4e-05 -0.00017 -4e-06 5.5e-05 2e-06 4e-05 -1e-06 -2.1e-05 4.8e-05 -0.000194 0.002786 0.000265 3e-05 6.9e-05 -6.6e-05 0.003982 -0.005437 -0.002258 -0.00265 0.00237 -0.001111 0.00012 -2e-05 2e-06 6.7e-05 -0.004379 1.6e-05 0.000127 0.000102 7.8e-05 -0.015531 -0.006105 0.00387 -0.000759 0.001272 0.99183 0.037184 -0.00013 5e-05 -5.9e-05 -7e-05 -7.4e-05 -1.9e-05 -7.1e-05 4.4e-05 -6.6e-05 0.000231 0.000186 -0.006997 -0.007008 1e-06 4.1e-05 -4.1e-05 3e-06 0 1.1e-05 -3.4e-05 -4.4e-05 0.00021 -3.1e-05 -2.7e-05 3e-05 0 0.000543 0.0002 6.3e-05 -6e-06 7e-05 -0.005105 -0.005961 -0.00407 -0.000575 0.001111 0.98808 0.037662 -8.1e-05 0.000251 2e-06 -0.086482 -0.00881 -0.000119 0.003768 -0.001666 0.002969 0.000671 0.000379 0.000119 0.000123 -2e-05 -4e-06 6e-06 0.000141 -0.006953 -0.006992 0.000738 0.000697 -1.4e-05 -0.000126 2e-06 4.9e-05 -1.7e-05 -3.5e-05 6.1e-05 3.1e-05 -4.9e-05 1.3e-05 -9.7e-05 -1.5e-05 1e-05 1.4e-05 2.8e-05 0.00083 5.8e-05 -0.000113 -5.3e-05 -3.4e-05 -0.002493 -0.000541 -0.000344 -0.000236 0.000134 0.087413 -0.002226 -9.8e-05 -0.003791 0.001667 0.988079 0.036427 0.000133 0.000599 3.5e-05 0.016859 -0.004942 -0.003944 0.000595 -0.001183 -0 -1.4e-05 3e-06 -3.1e-05 -0.000534 -0.000488 -0.006947 -0.007016 -3.3e-05 5e-06 -3e-06 1.6e-05 1.2e-05 1e-05 -1.1e-05 -6e-06 -0 -4.3e-05 0.000539 0.000243 2.1e-05 3.7e-05 -6.7e-05 -0.001749 -0.006763 -0.002868 0.002633 -0.002341 0.992123 0.035812 -0.001014 0.001478 -0.00058 0.006278 -0.005331 0.003936 0.000543 -0.001146 0.002117 0.000114 0.000237 1.7e-05 -0.000158 0.001251 0.000151 -0.000117 0.00013 -6e-06 -2.6e-05 -0.000104 -8e-05 -0.006795 -8.5e-05 -2.6e-05 -0.000136 -3.2e-05 9e-06 -7.4e-05 0.000387 -0.002554 -0.001572 -0.000705 -0.001792 0.000306 0.000314 8e-05 3e-06 0.000126 -4.7e-05 -3.6e-05 6e-06 0.000398 -0.002211 0.000522 0.001849 0.001065 0.000459 -0.002575 0.001022 0.001684 0.001621 1.7e-05 0.00012 0.000112 -8.1e-05 3.7e-05 -6e-06 5.5e-05 -2.2e-05 -1.6e-05 -1.8e-05 1.4e-05 7.7e-05 -8.8e-05 0.000107 -0.000101 -0.000304 0.000106 -4.4e-05 -0.000165 -0.000349 -5.8e-05 1e-06 -1.7e-05 -0.000257 -5.6e-05 0.990872 0.03636 0.000527 -0.00015 0.00053 -0.006343 -0.006358 -0.002515 -0.057481 0.153991 0.036632 -0.014038 -0.018672 -0.132471 0.354071 0.062046 -0.013225 0.016622 -0.111663 0.284882 -0.011079 0.062281 -0.044581 -0.089536 0.234346 -0.044641 0.028225 -0.005694 -0.089846 0.234231 -0.042427 -0.026086 0.00836 -0.10276 0.271089 0.005748 -0.03986 0.039963 0.029773 0.028478 0.032031 0.052507 0.043572 0.042432 0.04204 0.046779 0.051547 0.051587 -0.017969 0.033704 0.007335 0.013645 0.010266 0.009102 0.00742 0.013334 -0.146353 0.409401 0.034618 -0.01622 -0.015239 -0.10108 0.28851 -0.072948 0.002492 0.062006 -0.017842 0.049885 -0.094723 0.022756 0.001387 0.098057 -0.272399 -0.011226 -0.043906 0.020979 0.115811 -0.322787 0.002637 0.029975 -0.012188 0.027965 -0.075904 -0.082176 -0.008205 0.009757 0.103792 0.099478 0.104049 0.020319 -0.066906 -0.068539 -0.081492 -0.080857 -0.020308 -0.011948 -0.012286 0.025632 -0.001863 0.011854 0.007969 0.002909 0.008654 0.017848 -0.027294 0.078322 -0.001396 0.018137 -0.011083 0.002336 -0.00532 -0.03061 0.131788 -0.081817 0.129821 -0.366609 -0.026653 -0.006637 0.005887 0.102905 -0.296306 0.046741 0.051981 -0.039412 -0.068351 0.196113 -0.058088 0.076083 -0.050067 -0.148049 0.427796 0.016345 0.025418 -0.008092 0.01238 0.031695 0.023281 -0.108081 -0.080667 -0.087053 0.059664 0.056473 0.120764 0.132845 0.018283 -0.038161 -0.012989 -0.005629 -0.016474 -0.011951 -0.012578 0.004294 -0.146309 0.427856 -0.050142 0.02443 0.032136 0.068431 -0.207884 -0.153232 0.063699 0.046829 0.071511 -0.203656 0.085224 -0.037187 0.030493 -0.085103 0.249644 0.074322 0.036408 -0.018603 -0.082528 0.243212 0.073135 -0.033864 0.029461 0.069734 -0.205505 0.063909 0.026501 -8.2e-05 0.137315 0.139301 0.138884 -0.054635 0.079963 0.090414 0.085099 0.081892 -0.067893 -0.055249 0.022883 -0.049571 -0.011451 -0.015865 -0.012453 -0.015683 -0.012873 -0.011031 0.01269 -0.039606 0.024928 -0.051718 0.018558 -0.023798 0.073202 0.015229 -0.140274 0.113864 -0.041857 0.125603 -0.16047 0.036008 0.018388 0.107668 -0.334674 -0.047417 0.132856 -0.035879 -0.12294 0.384266 0.086154 0.108867 -0.00521 0.082615 -0.25914 0.136607 -0.030529 0.064948 0.00858 -0.048701 -0.018327 0.069031 -0.162604 -0.153943 0.174575 0.187702 -0.130572 -0.126989 -0.018459 0.041288 -0.002265 0.006258 0.021624 0.004512 0.023604 -0.004755 0.026068 -0.081035 0.117734 -0.031565 -0.114351 -0.117571 0.399488 0.003114 0.05131 -0.056734 0.10129 -0.332108 -0.034725 0.166994 -0.213021 -0.028188 0.089573 0.091109 0.067443 -0.096247 -0.004767 0.016485 0.044843 -0.11244 0.061378 0.053083 -0.170288 -0.082453 -0.177487 0.134861 -0.093337 -0.045527 -0.079722 -0.309998 0.065784 0.014351 -0.012996 -0.010194 -0.121695 -0.154694 -0.005117 0.014064 -0.006712 0.031905 -0.02192 0.008731 -0.013421 0.04553 -0.005168 0.017008 -0.106198 -0.074769 -0.030045 0.015364 -0.048629 -0.082441 -0.145368 -0.097074 0.015481 -0.046904 -0.07312 -0.124945 -0.101265 0.000302 -0.000272 0.051068 -0.091408 -0.154547 -0.006923 0.022037 0.075078 -0.047952 -0.179134 -0.000876 0.00265 0.027351 -0.06698 -0.200482 0.08635 0.036548 -0.071295 -0.026628 0.135838 -0.065443 0.14179 -0.096616 0.157815 -0.074835 -0.149907 0.373672 0.015882 -0.011955 0.002359 0.20514 0.192339 0.091663 0.025915 -0.085054 0.175994 -0.093175 -0.168466 -0.049228 0.18104 -0.2367 0.069518 0.044417 0.022978 -0.073792 -0.111761 -0.106715 0.152753 -0.009835 0.029671 0.241815 -0.058023 0.140695 0.001088 -0.008633 0.184541 0.139326 0.078667 0.006012 -0.021481 -0.152504 0.191372 0.015334 -0.097334 -0.071001 -0.130714 0.115649 0.031163 0.21501 0.050388 0.153072 -0.036182 0.16635 -0.04306 0.11004 -0.040013 -0.011896 0.018209 0.030621 0.087636 0.057522 -0.005442 0.0166 -0.139763 0.12031 -0.029232 0.035578 -0.122542 0.075087 0.022 -0.117098 0.004313 -0.008105 0.115181 -0.018345 -0.089305 0.002734 -0.008573 -0.112787 0.083089 0.122681 -0.000876 0.004562 -0.121015 0.087648 0.264698 0.00047 -0.001778 -0.000776 0.059304 0.183356 -0.010726 0.140699 0.01276 -0.077092 -0.137114 0.020105 -0.221177 0.177849 -0.148398 0.073099 -0.131946 0.332008 0.008271 -0.066101 -0.031047 0.217062 0.202663 0.048494 0.002434 -0.008865 0.24612 -0.041917 0.411256 0.007024 -0.030392 0.056988 -0.039976 0.147524 0.026432 -0.094988 -0.070515 0.065478 -0.062372 -0.009972 0.032638 0.07529 -0.067634 -0.087282 0.0112 -0.038762 -0.050236 0.014759 0.001471 -0.011048 0.037638 0.044019 0.150178 0.069862 0.046524 -0.359279 0.317838 -0.097715 0.126641 -0.006173 -0.044589 -0.016231 -0.070102 0.137705 -0.053711 0.130491 0.007149 -0.058585 -0.01159 0.107029 0.101802 -0.057845 0.001585 -0.004764 0.175247 0.430309 -0.099749 -0.000117 0.002611 0.000446 0.138013 -0.021569 -0.022947 0.085549 0.03767 -0.087043 0.043516 0.012282 -0.042494 -0.065058 -0.111171 -0.158853 -0.009492 0.031415 0.082475 0.002746 -0.143153 0.018709 -0.064989 -0.041103 0.019604 0.101947 -0.394224 0.161467 0.201533 0.093942 0.120211 -0.159042 0.155413 -0.054154 -0.111086 0.023396 -0.018085 0.045263 0.040302 -0.028 -0.025197 0.07001 0.006605 -0.016015 -0.000245 0.000591 0.135855 0.181169 0.145224 -0.002425 0.01201 0.041027 0.037245 -0.05528 0.011111 -0.040964 -0.008199 0.022166 0.089614 0.006012 -0.020965 0.084693 0.193128 0.270644 -0.000975 0.0028 0.079014 -0.066469 0.032822 0.000725 -0.003813 -0.054556 -0.268474 -0.240568 -0.137488 -0.061746 0.233924 0.041338 -0.256309 0.226673 0.020438 0.000733 0.26281 -0.249768 -0.030688 0.077722 -0.011708 -0.019677 -0.032281 0.060917 0.053026 0.030011 0.005637 -0.022774 -0.159198 0.155235 0.082782 -0.009192 0.023889 0.20216 -0.254746 -0.02861 -0.028143 0.096058 -0.081045 0.117196 -0.258286 0.01014 -0.042339 0.054978 -0.165995 0.084413 0.025009 -0.1021 0.259874 0.249667 0.055563 0.016477 -0.069999 -0.157101 0.12406 -0.146658 -0.019859 0.115409 0.086873 -0.203954 0.053684 0.082992 0.09331 0.218649 0.097846 0.108861 0.031088 -0.075753 0.122255 0.112723 -0.037784 0.013314 -0.208949 -0.00596 0.008543 -0.033853 -0.125515 0.168479 -0.054729 0.008039 -0.04341 0.141314 -0.198586 0.133562 -0.000809 -0.006639 -0.19689 0.171267 -0.071366 -0.009573 0.035304 0.155101 0.162061 0.060462 0.006016 -0.018118 -0.00984 -0.179572 -0.129051 -0.004244 0.011553 0.060437 0.190046 0.014646 -0.08889 0.186506 0.00097 -0.097672 -0.093917 0.149057 0.068224 -0.226958 -0.063658 0.18058 -0.0114 0.024827 -0.203708 -0.061604 0.199731 -0.234965 0.267218 -0.038775 0.009289 -0.036267 -0.104149 0.115363 0.070496 -0.00455 0.018565 0.130003 -0.037247 -0.129525 0.02011 -0.084035 -0.267443 -0.128144 0.102493 0.016823 -0.068921 0.280734 -0.149354 -0.186958 -0.002973 0.012107 -0.146458 0.12585 0.207438 -0.021913 0.08665 0.059757 -0.228848 0.045798 -0.013139 0.062258 0.072277 0.177984 0.27528 -0.003508 -0.246201 0.208389 0.036887 -0.192298 0.019102 -0.047304 -0.097082 0.013892 0.13645 -0.190968 0.083352 -0.000685 -0.005197 0.020366 0.128766 0.031195 -0.059992 0.021418 -0.086575 -0.183886 -0.091887 0.113233 -0.013192 0.053758 0.001445 0.003044 -0.048629 -0.024694 0.101284 -0.157617 0.230808 -0.271169 -0.006202 0.025304 0.092093 -0.19389 0.343454 0.021521 -0.090656 -0.137513 0.148736 -0.30487 -0.108766 -0.006558 0.025371 -0.019021 0.019896 -0.2867 -0.215315 0.15455 0.239395 0.104832 0.009585 -0.022363 -0.048663 0.01165 0.064637 -0.092117 0.033919 0.019679 -0.017138 0.066493 0.190891 0.049607 -0.201642 -7.4e-05 -0.004158 -0.215555 -0.1571 0.267731 0.005693 -0.019094 0.009532 0.075639 -0.104951 -0.006016 0.018515 -0.022613 -0.164376 0.117407 -0.00299 0.014439 -0.324538 0.203948 -0.042222 0.001451 -0.002581 0.429221 0.030836 -0.166022 -0.205104 0.067576 -0.034739 -0.164433 0.039432 0.102728 -0.162622 0.036767 0.114104 -0.12067 -0.001155 0.003232 0.027423 0.016587 -0.018438 0.034195 -0.041871 -0.008001 0.003507 -0.014918 -0.085282 0.048735 -0.049709 0.009897 -0.045451 0.05644 -0.097349 0.10383 0.012752 -0.058204 -0.297857 0.036752 0.140917 0.00397 -0.013394 0.261463 0.223231 -0.103732 -0.008873 0.041237 -0.10044 -0.231913 0.063441 -0.008659 0.032416 0.067454 0.081046 0.032914 -0.024258 0.10932 -0.04641 0.145202 0.007134 0.062495 -0.122087 -0.123449 -0.034053 0.088016 -0.005548 0.008833 0.240315 0.051446 -0.228564 0.320465 -0.286476 -0.028346 -0.003794 0.013377 -0.07331 -0.049913 -0.103396 -0.003317 -0.003347 0.248039 0.206359 0.325108 -0.004367 0.008686 0.020632 0.371578 0.182048 0.006906 -0.03268 0.01045 -0.106573 -0.061854 0.021874 -0.091698 0.118908 0.100564 0.038216 -0.001882 0.002018 -0.093238 -0.083458 -0.105814 0.054981 0.104858 -0.173072 -0.019105 0.155477 -0.076652 0.031492 0.107913 0.165899 -0.096248 0.000424 -0.050145 -0.036518 -0.297586 -0.106578 0.168522 0.190944 -0.260838 0.021442 -0.093325 -0.066346 0.036361 0.077178 0.005473 -0.007728 0.05198 -0.063043 0.022042 0.006006 -0.043457 0.082177 0.361581 0.28214 -0.005747 0.020369 -0.037046 -0.054719 -0.03951 0.005321 -0.022619 -0.02129 0.055011 -0.025867 0.016045 -0.071117 0.044406 0.066256 -0.002745 -0.007618 0.01194 0.058435 0.058559 0.115414 -0.08143 0.012936 0.005359 -0.005849 0.028941 -0.005431 0.027301 -0.299011 0.167048 -0.26591 -0.024296 -0.022512 0.636472 -0.006471 0.029302 0.098393 -0.035016 -0.011657 0.063015 -0.313826 0.298786 0.412644 0.480263 -0.03843 0.202325 -0.120944 -0.31922 -0.307268 0.016647 -0.079247 0.091165 -0.007432 -0.02893 0.00163 -0.007452 0.04887 -0.050043 0.038391 -0.006157 0.025183 -0.012298 -0.020642 0.089068 0.074033 0.046878 -0.131324 -0.11166 -0.087827 0.081065 0.011605 -0.009432 0.137835 -0.086645 0.003825 0.012068 0.152698 -0.089398 0.132899 -0.081941 -0.067782 0.615941 -0.01828 0.09478 0.087936 0.023849 -0.034134 0.033324 -0.165662 0.184035 0.165506 0.27934 -0.005083 0.01715 0.002171 -0.266329 -0.142857 0.002206 -0.007474 0.019469 -0.058737 -0.023465 0.004797 -0.026096 0.076184 -0.063997 0.043962 -0.015051 0.073798 -0.005023 -0.04646 0.071065 0.044835 0.034619 -0.13705 0.006238 -0.086601 0.024769 0.007728 0.01315 0.081643 -0.029958 -0.085797 0.362949 -0.493653 0.606564 -0.354846 -0.084153 -0.078609 -0.459461 0.009025 -0.051204 -0.015498 0.05056 0.019193 0.033954 -0.157161 0.01393 0.242946 0.121181 0.040473 -0.175198 0.148101 0.352076 0.366385 0.002559 -0.01837 -0.010483 0.080516 0.081942 0.009338 -0.050086 -0.020198 0.049429 0.020947 0.002849 -0.017122 -0.005467 0.037199 0.047699 0.06177 0.014071 -0.04956 -0.069864 0.175731 -0.101281 0.066893 -0.038745 0.087502 -0.069834 -0.123892 0.519366 0.3856 0.556483 0.590073 -0.06583 -0.076845 -0.072294 -0.019911 0.115772 0.093835 0.165089 -0.194018 -0.047671 0.261538 0.289829 0.396837 -0.40835 -0.04228 0.233062 0.282204 0.123933 -0.230044 -0.001241 0.006117 0.370806 0.370468 -0.292356 0.03844 -0.197102 0.224755 0.299195 -0.176563 0.040953 -0.219191 0.501099 0.376488 -0.322488 0.258495 -0.25142 -0.047906 0.228955 -0.062982 0.024398 -0.264706 -0.023946 -0.064398 -0.075276 -0.004447 0.023719 0.043794 0.027908 -0.070544 -0.09164 0.067016 -0.021638 -0.057479 0.32277 0.483899 -0.301023 -0.287143 0.09528 -0.554644 0.358615 -0.267839 -0.126743 0.033451 -0.213199 0.156517 0.214128 -0.079416 0.044938 -0.266147 -0.049858 -0.147427 -0.179468 0.035926 -0.221963 0.112155 -0.288257 -0.192665 -0.000327 -0.017936 0.100993 -0.513634 -0.093908 -0.045899 0.10307 0.063184 0.314853 -0.094761 0.303581 -0.097005 0.441182 -0.241721 0.576107 -0.003538 0.001519 0.12145 0.088723 0.058649 -0.024436 0.095443 0.056776 -0.025597 0.149047 0.020703 -0.22653 -0.055072 -0.003043 0.035825 0.112918 -0.264126 -0.010319 -0.041698 0.242111 0.385147 -0.150022 0.174541 0.033319 -0.166474 0.451134 -0.129924 0.345455 0.013189 -0.059893 0.558842 -0.204139 0.444603 -0.073486 0.411768 0.517882 -0.095265 0.23838 -0.223949 0.046557 0.107033 -0.265688 0.116508 -0.518706 0.029646 -0.296463 0.065422 0.01538 0.002031 -0.001023 0.017121 -0.069644 -0.003232 -0.025241 -0.00923 0.021438 -0.043633 0.246289 0.278957 -0.218516 -0.35786 0.097289 -0.58836 0.144374 -0.17371 -0.19765 0.007348 -0.058279 -0.130079 0.126306 -0.268655 -0.00408 -0.000426 -0.084503 0.460864 0.093285 0.052487 -0.313798 -0.249147 0.456685 0.386453 -0.001662 -0.001241 -0.157434 0.063829 0.317669 -0.022392 -0.064599 0.195684 0.292848 0.408512 -0.006788 0.595206 -0.400151 0.310521 -0.168707 0.020911 -0.107355 -0.041426 0.014154 -0.051545 0.029535 0.06235 -0.00683 -0.033771 0.198288 -0.019993 -0.262914 -0.198823 0.114347 -0.682252 -0.160277 -0.011005 -0.034949 -0.147348 0.910872 -0.009848 0.081578 0.17329 0.003264 -0.006623 0.376673 0.251293 -0.122146 -0.027842 0.181139 -0.074683 0.278385 -0.349513 -0.07676 0.475622 -0.479906 -0.148769 -0.142243 -0.218153 -0.093165 0.228088 -0.589161 -0.000986 -0.093775 -0.314304 0.013572 -0.439085 -0.1976 -0.046039 0.251686 -0.075353 -0.060228 -0.04921 -0.134954 -0.188762 -0.020736 -0.006352 0.041004 0.110963 -0.46253 0.586542 -0.020462 0.13562 0.059355 -0.162263 0.142643 0.085822 -0.533001 0.14751 -0.029168 -0.089489 -0.096319 0.576409 -0.035421 0.17926 -0.269531 0.033017 -0.171464 0.251075 0.434636 -0.144903 -0.068697 0.426314 -0.037194 0.096628 0.034633 -0.539457 0.66092 -0.216449 0.373806 -0.318184 -0.042589 -0.186384 -0.133305 -0.142624 -0.301107 -0.009041 0.037013 0.062827 0.017495 0.035845 -0.017494 0.015696 0.010014 0.016873 -0.096914 -0.678607 -0.382211 -0.358628 -0.017645 0.108492 -0.139514 0.093428 0.156015 0.003807 -0.024152 0.098613 0.053211 -0.030447 0.006572 -0.047541 -0.071234 -0.067761 -0.443203 0.068361 -0.419933 0.100019 -0.137442 -0.079391 -0.007217 0.031339 0.160086 0.151512 0.38787 -0.449705 -0.330715 0.715628 0.08446 -0.301328 0.386334 0.078773 0.29684 0.389835 -0.173504 -0.010809 0.052092 -0.00181 0.026176 0.045822 0.007884 -0.028767 -0.033521 0.069567 -0.455025 0.151362 0.036874 -0.538688 0.035474 -0.226315 0.102217 -0.073559 0.030062 0.053172 -0.331464 -0.278389 0.132268 -0.068222 -0.085603 0.541853 -0.093808 -0.444521 0.075056 -0.091773 0.588819 0.334489 0.11551 0.017235 -0.05645 0.362264 -0.14093 0.144947 -0.026355 0.46254 -0.048865 0.500276 0.203528 -0.438266 -0.243329 -0.426714 -0.387362 -0.151568 -0.319761 0.0487 -0.291024 0.016166 0.173104 0.100328 0.267433 0.191271 0.030165 -0.139379 0.894032 -0.234339 0.292044 -0.087192 0.037566 -0.228347 0.029349 -0.044385 0.00123 0.061667 -0.376623 -0.309143 0.174768 -0.072118 -0.039896 0.237094 -0.329554 -0.129734 0.093757 0.024594 -0.141549 0.266159 -0.039746 0.151759 -0.097409 0.607026 0.093728 0.010826 -0.147673 -0.257079 -0.694961 -0.387537 0.262529 -0.020618 -0.00846 0.0407 -0.051936 -0.378891 -0.206752 -0.10685 0.603132 0.00908 -0.282708 -0.039491 -0.402285 -0.444715 0.051247 0.077406 -0.50167 0.103331 -0.322134 -0.108914 -0.039206 0.236294 0.201545 0.091903 -0.083401 0.039051 -0.2331 0.076 0.038355 -0.022112 -0.003937 0.032542 0.09918 -0.21032 0.102303 -0.06821 0.413956 -0.230489 -0.01232 0.073984 0.091693 -0.563152 -0.082735 0.088251 -0.116506 0.093768 0.364645 0.405246 0.160976 -0.080525 -0.137739 -0.006884 -0.173076 0.179497 0.165623 -0.16891 0.963716 0.046718 -0.436664 -0.16662 -0.725059 -0.637287 -0.097319 -0.128634 0.822291 -0.042137 -0.024989 0.123149 0.017518 -0.102195 0.177983 -0.12688 -0.141698 -0.019642 0.106258 0.299907 0.157598 -0.069289 0.076497 -0.45395 0.24704 -0.427876 -0.167325 -0.158734 0.977544 -0.173492 -0.038823 0.09498 0.083236 -0.508928 -0.371091 0.256233 0.165548 -0.423796 -0.29145 -0.391094 0.131188 -0.217231 0.19785 -0.271655 -0.423888 0.395453 -0.073909 0.022887 -0.140852 0.140115 0.113021 -0.046437 -0.010999 0.24537 0.002801 -0.016277 0.103564 0.201981 0.42182 -0.005193 0.034232 -0.211823 -0.17469 -0.252605 -0.00971 -0.014987 0.105241 -0.022034 0.060356 0.169976 -0.134014 0.846649 0.322621 -0.095634 -0.305878 0.071165 -0.436164 -0.044874 0.237964 -0.136109 0.034512 -0.244312 0.03132 -0.268386 0.566624 0.343213 -0.152183 -0.314849 -0.150179 -0.695627 -0.316738 0.118094 0.147142 0.538865 0.231686 -0.027971 0.166239 0.037984 -0.145919 -0.016501 -0.125168 -0.136589 -0.007879 -0.052199 0.346714 -0.458687 -0.196599 -0.112072 -0.038977 0.242567 0.22453 0.176015 0.141833 0.053333 -0.336088 -0.13533 -0.183009 -0.064425 -0.107311 0.676347 0.150276 0.140001 0.403946 -0.015773 0.101402 -0.180748 0.28379 -0.184692 0.10079 -0.636805 -0.010894 -0.397772 -0.259243 -0.453382 -0.356432 0.15135 0.133896 -0.010139 -0.638389 -0.082537 -0.054139 -0.030822 0.642257 0.034574 -0.208146 0.001581 0.155693 0.041144 0.163373 0.172191 0.033323 -0.026315 0.163287 0.095047 -0.135176 -0.019863 -0.000384 0.007786 0.228711 0.020076 -0.143713 0.000297 -0.001953 0.033946 0.030598 -0.030111 -0.057246 0.376196 0.410334 -0.311897 0.124369 0.077989 -0.515952 -0.584413 -0.446305 0.104214 -0.036745 0.249792 -0.150336 0.474695 -0.298641 -0.103829 0.040175 -0.007745 0.052746 -0.389174 -0.459546 0.627999 0.543997 -0.292927 -0.478307 0.020219 -0.128774 0.094536 0.104863 -0.038262 0.033754 0.185516 0.017541 0.035877 -0.227357 -0.165054 0.076592 0.026683 -0.017909 0.120355 -0.187088 0.105632 0.188779 -0.022525 0.152836 0.174131 0.03092 0.039652 0.008876 -0.04873 0.127272 -0.219691 -0.557824 0.002897 -0.016228 -0.171119 0.321615 0.742146 -0.020151 0.133776 0.06507 -0.40815 -0.489239 0.059506 -0.017908 0.074638 -0.056329 -0.43876 0.328248 0.55646 -0.555991 -0.50948 0.348163 0.003144 -0.027415 0.086542 0.084286 -0.025232 -0.013658 0.108852 0.014058 0.039395 -0.251491 -0.17154 0.389798 -0.178738 -0.04302 0.295063 -0.120767 -0.49125 0.619388 0.0643 -0.4569 0.796246 -0.061699 -0.345015 0.050347 -0.322781 0.36244 0.231591 0.093495 -0.004311 0.02591 -0.132777 -0.000164 -0.168489 -0.052562 0.338532 -0.374338 -0.108939 0.018116 0.30429 -0.232325 0.063758 0.553859 0.21062 -0.115654 -0.04775 0.115867 -0.166872 -0.134725 -0.010942 0.068285 -0.005926 -0.077641 0.044588 -0.022813 -0.099649 0.047402 -0.024206 0.160094 0.079815 -0.039036 -0.009133 -0.010395 0.074223 0.239008 -0.019681 -0.111293 0.004288 -0.034074 0.130165 -0.041801 0.036288 0.003945 -0.024836 0.057462 -0.066028 -0.119437 -0.007824 0.048711 -0.087582 0.013714 0.068098 0.022627 -0.145281 -0.000886 0.070649 -0.095825 -0.053857 -0.010932 -0.057458 -0.011048 -0.113588 0.058407 0.061324 -0.044268 0.009087 0.019881 -0.000135 -0.001485 -0.87595 -0.240507 0.841179 0.89301 -0.880277 0.007182 -0.035374 0.228613 0.099801 0.055001 -0.306744 -0.077417 0.558656 0.755093 -0.499191 0.121538 0.068464 -0.466352 0.157451 -0.704995 0.78265 -0.020117 0.121408 -0.33505 0.187629 -0.241536 0.007209 -0.047204 -0.077023 0.166769 -0.034374 0.011376 -0.066651 -0.096014 0.220129 -0.123045 0.088514 -0.190689 0.042405 -0.532673 0.007061 0.248416 0.026946 -0.036931 -0.038948 -0.128346 -0.000475 0.008893 0.1547 -0.015481 -0.076095 -0.12353 0.101462 0.045184 </matrix>
+<array dataType="xsd:decimal" title="Energies" size="48">-11.1077 -11.0643 -11.0609 -11.0528 -11.0509 -11.028 -7.3792 -1.1037 -0.9851 -0.9314 -0.8819 -0.7652 -0.6854 -0.6498 -0.62 -0.592 -0.5567 -0.5547 -0.5322 -0.4916 -0.466 -0.4551 -0.4504 -0.4426 -0.4391 -0.3406 -0.2262 0.2373 0.355 0.3926 0.5401 0.5783 0.5935 0.6251 0.6571 0.6771 0.6954 0.7162 0.7326 0.74 0.7442 0.7495 0.7646 0.7976 0.8378 0.8453 0.8906 0.9248 </array>
+<array dataType="xsd:string" title="Symmetries" size="48">A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A </array>
+</OrbitalSet>
+</list>
+</molecule>
+<molecule>
+<atomArray>
+<atom id="a0" elementType="C" x3="0.935937" y3="0.206045" z3="0.841667"></atom>
+<atom id="a1" elementType="C" x3="2.163689" y3="-0.332684" z3="0.089125"></atom>
+<atom id="a2" elementType="C" x3="3.027597" y3="-1.266939" z3="0.692849"></atom>
+<atom id="a3" elementType="C" x3="4.485871" y3="-1.042284" z3="0.290261"></atom>
+<atom id="a4" elementType="C" x3="4.479345" y3="0.382989" z3="-0.326947"></atom>
+<atom id="a5" elementType="C" x3="3.017599" y3="0.627941" z3="-0.787308"></atom>
+<atom id="a6" elementType="H" x3="0.356953" y3="-0.610271" z3="1.262679"></atom>
+<atom id="a7" elementType="H" x3="0.296481" y3="0.792920" z3="0.190644"></atom>
+<atom id="a8" elementType="H" x3="1.281214" y3="0.839163" z3="1.657689"></atom>
+<atom id="a9" elementType="H" x3="2.766365" y3="-1.759008" z3="1.618136"></atom>
+<atom id="a10" elementType="H" x3="4.840414" y3="-1.777835" z3="-0.429652"></atom>
+<atom id="a11" elementType="H" x3="5.137557" y3="-1.099433" z3="1.159850"></atom>
+<atom id="a12" elementType="H" x3="5.183313" y3="0.482809" z3="-1.148809"></atom>
+<atom id="a13" elementType="H" x3="4.750543" y3="1.111691" z3="0.433386"></atom>
+<atom id="a14" elementType="H" x3="2.904819" y3="0.402656" z3="-1.843537"></atom>
+<atom id="a15" elementType="H" x3="2.702009" y3="1.657042" z3="-0.631529"></atom>
+<atom id="a16" elementType="B" x3="1.940174" y3="-2.193745" z3="-0.737086"></atom>
+<atom id="a17" elementType="H" x3="2.679017" y3="-2.438647" z3="-1.586996"></atom>
+<atom id="a18" elementType="H" x3="1.176483" y3="-2.856147" z3="-0.183345"></atom>
+<atom id="a19" elementType="H" x3="0.936138" y3="-0.717389" z3="-1.410479"></atom>
+</atomArray>
+<bondArray>
+<bond id="b0" atomRefs2="a1 a0" order="S"></bond>
+<bond id="b1" atomRefs2="a6 a0" order="S"></bond>
+<bond id="b2" atomRefs2="a7 a0" order="S"></bond>
+<bond id="b3" atomRefs2="a8 a0" order="S"></bond>
+<bond id="b4" atomRefs2="a2 a1" order="S"></bond>
+<bond id="b5" atomRefs2="a5 a1" order="S"></bond>
+<bond id="b6" atomRefs2="a3 a2" order="S"></bond>
+<bond id="b7" atomRefs2="a9 a2" order="S"></bond>
+<bond id="b8" atomRefs2="a4 a3" order="S"></bond>
+<bond id="b9" atomRefs2="a10 a3" order="S"></bond>
+<bond id="b10" atomRefs2="a11 a3" order="S"></bond>
+<bond id="b11" atomRefs2="a5 a4" order="S"></bond>
+<bond id="b12" atomRefs2="a12 a4" order="S"></bond>
+<bond id="b13" atomRefs2="a13 a4" order="S"></bond>
+<bond id="b14" atomRefs2="a14 a5" order="S"></bond>
+<bond id="b15" atomRefs2="a15 a5" order="S"></bond>
+<bond id="b16" atomRefs2="a17 a16" order="S"></bond>
+<bond id="b17" atomRefs2="a18 a16" order="S"></bond>
+</bondArray>
+<list>
+<atomArray>
+<atom id="a0" coordinationNumber="4"></atom>
+<atom id="a1" coordinationNumber="4"></atom>
+<atom id="a2" coordinationNumber="4"></atom>
+<atom id="a3" coordinationNumber="4"></atom>
+<atom id="a4" coordinationNumber="4"></atom>
+<atom id="a5" coordinationNumber="4"></atom>
+<atom id="a6" coordinationNumber="1"></atom>
+<atom id="a7" coordinationNumber="1"></atom>
+<atom id="a8" coordinationNumber="1"></atom>
+<atom id="a9" coordinationNumber="1"></atom>
+<atom id="a10" coordinationNumber="1"></atom>
+<atom id="a11" coordinationNumber="1"></atom>
+<atom id="a12" coordinationNumber="1"></atom>
+<atom id="a13" coordinationNumber="1"></atom>
+<atom id="a14" coordinationNumber="1"></atom>
+<atom id="a15" coordinationNumber="1"></atom>
+<atom id="a16" coordinationNumber="3"></atom>
+<atom id="a17" coordinationNumber="1"></atom>
+<atom id="a18" coordinationNumber="1"></atom>
+<atom id="a19" coordinationNumber="1"></atom>
+</atomArray>
+<scalar title="Energy">-2.561907468e+02</scalar>
+<scalar title="Time">1</scalar>
+<scalar title="Reaction Coordinate">1</scalar>
+<Gradient>
+<scalar title="RMS Gradient">0.0234502</scalar>
+<scalar title="Maximum Gradient">0.117512</scalar>
+<matrix dataType="xsd:decimal" title="Cartesian Gradient" columns="3" rows="20">-0.0004042 -0.0004553 -0.0005483 0.0091962 -0.0083809 0.0074493 0.0337973 0.0389681 0.0462891 -0.0006864 -0.001141 0.0002829 0.0003013 0.0003518 9.85e-05 -0.0006936 -0.0004959 -0.0004529 -5.5e-06 3.6e-05 0.0001413 -4.66e-05 -7.19e-05 3.94e-05 9.04e-05 2.26e-05 5.4e-05 -0.0001069 -0.0005125 -0.0002765 0.0002089 0.0002005 -0.0002437 0.0001416 -0.0004406 -0.0001076 0.0001446 0.0001432 0.0001465 -3.76e-05 2.88e-05 -2.46e-05 0.000345 1.7e-05 -4.29e-05 -0.00044 -9.47e-05 -0.0002445 0.0215409 -0.117512 -0.0084315 0.0009361 0.0016012 0.0001099 -0.0004391 0.0012437 0.0012395 -0.0638426 0.0864924 -0.0454779</matrix>
+</Gradient>
+</list>
+</molecule>
+<molecule>
+<atomArray>
+<atom id="a0" elementType="C" x3="0.932614" y3="0.199263" z3="0.834819"></atom>
+<atom id="a1" elementType="C" x3="2.159646" y3="-0.342132" z3="0.082058"></atom>
+<atom id="a2" elementType="C" x3="3.020890" y3="-1.280205" z3="0.678198"></atom>
+<atom id="a3" elementType="C" x3="4.480687" y3="-1.052323" z3="0.282169"></atom>
+<atom id="a4" elementType="C" x3="4.474898" y3="0.378782" z3="-0.324508"></atom>
+<atom id="a5" elementType="C" x3="3.013810" y3="0.623053" z3="-0.790120"></atom>
+<atom id="a6" elementType="H" x3="0.356528" y3="-0.616353" z3="1.261001"></atom>
+<atom id="a7" elementType="H" x3="0.290793" y3="0.781578" z3="0.181895"></atom>
+<atom id="a8" elementType="H" x3="1.277582" y3="0.837348" z3="1.646877"></atom>
+<atom id="a9" elementType="H" x3="2.761036" y3="-1.775696" z3="1.601771"></atom>
+<atom id="a10" elementType="H" x3="4.837759" y3="-1.780479" z3="-0.443518"></atom>
+<atom id="a11" elementType="H" x3="5.129332" y3="-1.117624" z3="1.153411"></atom>
+<atom id="a12" elementType="H" x3="5.181222" y3="0.483079" z3="-1.143791"></atom>
+<atom id="a13" elementType="H" x3="4.743340" y3="1.104267" z3="0.439885"></atom>
+<atom id="a14" elementType="H" x3="2.909335" y3="0.399730" z3="-1.847526"></atom>
+<atom id="a15" elementType="H" x3="2.692195" y3="1.650225" z3="-0.633977"></atom>
+<atom id="a16" elementType="B" x3="1.966015" y3="-2.138719" z3="-0.700022"></atom>
+<atom id="a17" elementType="H" x3="2.692207" y3="-2.380918" z3="-1.560979"></atom>
+<atom id="a18" elementType="H" x3="1.195311" y3="-2.803418" z3="-0.159744"></atom>
+<atom id="a19" elementType="H" x3="0.989755" y3="-0.776235" z3="-1.371246"></atom>
+</atomArray>
+<bondArray>
+<bond id="b0" atomRefs2="a1 a0" order="S"></bond>
+<bond id="b1" atomRefs2="a6 a0" order="S"></bond>
+<bond id="b2" atomRefs2="a7 a0" order="S"></bond>
+<bond id="b3" atomRefs2="a8 a0" order="S"></bond>
+<bond id="b4" atomRefs2="a2 a1" order="S"></bond>
+<bond id="b5" atomRefs2="a5 a1" order="S"></bond>
+<bond id="b6" atomRefs2="a3 a2" order="S"></bond>
+<bond id="b7" atomRefs2="a9 a2" order="S"></bond>
+<bond id="b8" atomRefs2="a4 a3" order="S"></bond>
+<bond id="b9" atomRefs2="a10 a3" order="S"></bond>
+<bond id="b10" atomRefs2="a11 a3" order="S"></bond>
+<bond id="b11" atomRefs2="a5 a4" order="S"></bond>
+<bond id="b12" atomRefs2="a12 a4" order="S"></bond>
+<bond id="b13" atomRefs2="a13 a4" order="S"></bond>
+<bond id="b14" atomRefs2="a14 a5" order="S"></bond>
+<bond id="b15" atomRefs2="a15 a5" order="S"></bond>
+<bond id="b16" atomRefs2="a17 a16" order="S"></bond>
+<bond id="b17" atomRefs2="a18 a16" order="S"></bond>
+</bondArray>
+<list>
+<atomArray>
+<atom id="a0" coordinationNumber="4"></atom>
+<atom id="a1" coordinationNumber="4"></atom>
+<atom id="a2" coordinationNumber="4"></atom>
+<atom id="a3" coordinationNumber="4"></atom>
+<atom id="a4" coordinationNumber="4"></atom>
+<atom id="a5" coordinationNumber="4"></atom>
+<atom id="a6" coordinationNumber="1"></atom>
+<atom id="a7" coordinationNumber="1"></atom>
+<atom id="a8" coordinationNumber="1"></atom>
+<atom id="a9" coordinationNumber="1"></atom>
+<atom id="a10" coordinationNumber="1"></atom>
+<atom id="a11" coordinationNumber="1"></atom>
+<atom id="a12" coordinationNumber="1"></atom>
+<atom id="a13" coordinationNumber="1"></atom>
+<atom id="a14" coordinationNumber="1"></atom>
+<atom id="a15" coordinationNumber="1"></atom>
+<atom id="a16" coordinationNumber="3"></atom>
+<atom id="a17" coordinationNumber="1"></atom>
+<atom id="a18" coordinationNumber="1"></atom>
+<atom id="a19" coordinationNumber="1"></atom>
+</atomArray>
+<scalar title="Energy">-2.562229232e+02</scalar>
+<scalar title="Time">2</scalar>
+<scalar title="Reaction Coordinate">2</scalar>
+<Gradient>
+<scalar title="RMS Gradient">0.0224149</scalar>
+<scalar title="Maximum Gradient">0.104008</scalar>
+<matrix dataType="xsd:decimal" title="Cartesian Gradient" columns="3" rows="20">-0.0011592 -0.0009095 -0.0013428 0.0158956 -0.0206159 0.0106601 0.0285021 0.0432514 0.0412754 -0.0012929 -0.0029678 0.0001454 0.0005293 0.0007705 0.000289 -0.0017253 -0.0009464 -0.0015275 -2.39e-05 8.06e-05 0.0002199 -3.36e-05 -7.23e-05 0.0001243 0.0001526 -1.22e-05 0.0001827 -0.0003825 -0.001986 -0.0010643 0.00055 0.0003679 -0.0003347 0.0001033 -0.0008021 -0.0001024 0.0001628 -2.44e-05 0.0001606 0.0001183 0.0001766 -0.0002206 0.0008564 0.0003105 -7.69e-05 -0.0010353 -0.0002493 -0.0002976 0.0238341 -0.104008 -0.0015085 0.0020636 0.0035158 0.0005113 -0.0007027 0.0027324 0.0027277 -0.0664127 0.0813886 -0.0498211</matrix>
+</Gradient>
+</list>
+</molecule>
+<molecule>
+<atomArray>
+<atom id="a0" elementType="C" x3="0.930620" y3="0.198990" z3="0.829686"></atom>
+<atom id="a1" elementType="C" x3="2.154789" y3="-0.347924" z3="0.075594"></atom>
+<atom id="a2" elementType="C" x3="3.013934" y3="-1.295391" z3="0.663441"></atom>
+<atom id="a3" elementType="C" x3="4.475307" y3="-1.060822" z3="0.274046"></atom>
+<atom id="a4" elementType="C" x3="4.469889" y3="0.376145" z3="-0.321117"></atom>
+<atom id="a5" elementType="C" x3="3.010221" y3="0.621403" z3="-0.791544"></atom>
+<atom id="a6" elementType="H" x3="0.356579" y3="-0.614588" z3="1.262356"></atom>
+<atom id="a7" elementType="H" x3="0.286644" y3="0.777398" z3="0.175184"></atom>
+<atom id="a8" elementType="H" x3="1.277479" y3="0.842056" z3="1.636673"></atom>
+<atom id="a9" elementType="H" x3="2.755965" y3="-1.792989" z3="1.585934"></atom>
+<atom id="a10" elementType="H" x3="4.835268" y3="-1.781427" z3="-0.457200"></atom>
+<atom id="a11" elementType="H" x3="5.121434" y3="-1.132664" z3="1.146599"></atom>
+<atom id="a12" elementType="H" x3="5.178687" y3="0.485149" z3="-1.137668"></atom>
+<atom id="a13" elementType="H" x3="4.735489" y3="1.097843" z3="0.447850"></atom>
+<atom id="a14" elementType="H" x3="2.913444" y3="0.400319" z3="-1.850135"></atom>
+<atom id="a15" elementType="H" x3="2.684083" y3="1.646997" z3="-0.634660"></atom>
+<atom id="a16" elementType="B" x3="1.991375" y3="-2.099745" z3="-0.668271"></atom>
+<atom id="a17" elementType="H" x3="2.700700" y3="-2.340705" z3="-1.543159"></atom>
+<atom id="a18" elementType="H" x3="1.212080" y3="-2.768394" z3="-0.146082"></atom>
+<atom id="a19" elementType="H" x3="1.052323" y3="-0.833964" z3="-1.321370"></atom>
+</atomArray>
+<bondArray>
+<bond id="b0" atomRefs2="a1 a0" order="S"></bond>
+<bond id="b1" atomRefs2="a6 a0" order="S"></bond>
+<bond id="b2" atomRefs2="a7 a0" order="S"></bond>
+<bond id="b3" atomRefs2="a8 a0" order="S"></bond>
+<bond id="b4" atomRefs2="a2 a1" order="S"></bond>
+<bond id="b5" atomRefs2="a5 a1" order="S"></bond>
+<bond id="b6" atomRefs2="a3 a2" order="S"></bond>
+<bond id="b7" atomRefs2="a9 a2" order="S"></bond>
+<bond id="b8" atomRefs2="a4 a3" order="S"></bond>
+<bond id="b9" atomRefs2="a10 a3" order="S"></bond>
+<bond id="b10" atomRefs2="a11 a3" order="S"></bond>
+<bond id="b11" atomRefs2="a5 a4" order="S"></bond>
+<bond id="b12" atomRefs2="a12 a4" order="S"></bond>
+<bond id="b13" atomRefs2="a13 a4" order="S"></bond>
+<bond id="b14" atomRefs2="a14 a5" order="S"></bond>
+<bond id="b15" atomRefs2="a15 a5" order="S"></bond>
+<bond id="b16" atomRefs2="a17 a16" order="S"></bond>
+<bond id="b17" atomRefs2="a18 a16" order="S"></bond>
+</bondArray>
+<list>
+<atomArray>
+<atom id="a0" coordinationNumber="4"></atom>
+<atom id="a1" coordinationNumber="4"></atom>
+<atom id="a2" coordinationNumber="4"></atom>
+<atom id="a3" coordinationNumber="4"></atom>
+<atom id="a4" coordinationNumber="4"></atom>
+<atom id="a5" coordinationNumber="4"></atom>
+<atom id="a6" coordinationNumber="1"></atom>
+<atom id="a7" coordinationNumber="1"></atom>
+<atom id="a8" coordinationNumber="1"></atom>
+<atom id="a9" coordinationNumber="1"></atom>
+<atom id="a10" coordinationNumber="1"></atom>
+<atom id="a11" coordinationNumber="1"></atom>
+<atom id="a12" coordinationNumber="1"></atom>
+<atom id="a13" coordinationNumber="1"></atom>
+<atom id="a14" coordinationNumber="1"></atom>
+<atom id="a15" coordinationNumber="1"></atom>
+<atom id="a16" coordinationNumber="3"></atom>
+<atom id="a17" coordinationNumber="1"></atom>
+<atom id="a18" coordinationNumber="1"></atom>
+<atom id="a19" coordinationNumber="1"></atom>
+</atomArray>
+<scalar title="Energy">-2.562517888e+02</scalar>
+<scalar title="Time">3</scalar>
+<scalar title="Reaction Coordinate">3</scalar>
+<Gradient>
+<scalar title="RMS Gradient">0.0210399</scalar>
+<scalar title="Maximum Gradient">0.0870999</scalar>
+<matrix dataType="xsd:decimal" title="Cartesian Gradient" columns="3" rows="20">-0.0015817 -0.0009906 -0.0018374 0.0209078 -0.0302229 0.0127871 0.0242346 0.0450592 0.037616 -0.0015203 -0.0045077 -0.0006237 0.0004741 0.0011607 0.0004709 -0.0025066 -0.0010629 -0.0023968 1.2e-06 9.91e-05 0.0002406 -2.62e-05 -5.42e-05 0.0001687 0.0001184 -4.13e-05 0.0002822 -0.0007993 -0.003841 -0.0021214 0.0006778 0.0004418 -0.0003428 1.35e-05 -0.0009994 -6.22e-05 0.0001888 -0.0002684 0.0001621 0.0001926 0.0003411 -0.0003915 0.0013976 0.0005507 -0.0001028 -0.0015164 -0.0003725 -0.0003325 0.0247076 -0.0870999 0.0047608 0.0027119 0.0046244 0.0008547 -0.000789 0.0036037 0.0035816 -0.0668861 0.0735802 -0.0527136</matrix>
+</Gradient>
+</list>
+</molecule>
+<molecule>
+<atomArray>
+<atom id="a0" elementType="C" x3="0.930228" y3="0.203850" z3="0.826124"></atom>
+<atom id="a1" elementType="C" x3="2.150220" y3="-0.350646" z3="0.070706"></atom>
+<atom id="a2" elementType="C" x3="3.007558" y3="-1.310984" z3="0.649743"></atom>
+<atom id="a3" elementType="C" x3="4.470489" y3="-1.066803" z3="0.267141"></atom>
+<atom id="a4" elementType="C" x3="4.464779" y3="0.375297" z3="-0.317131"></atom>
+<atom id="a5" elementType="C" x3="3.006899" y3="0.621795" z3="-0.791871"></atom>
+<atom id="a6" elementType="H" x3="0.357761" y3="-0.606349" z3="1.267090"></atom>
+<atom id="a7" elementType="H" x3="0.284077" y3="0.777928" z3="0.169673"></atom>
+<atom id="a8" elementType="H" x3="1.280670" y3="0.852790" z3="1.626427"></atom>
+<atom id="a9" elementType="H" x3="2.752382" y3="-1.808785" z3="1.572297"></atom>
+<atom id="a10" elementType="H" x3="4.833824" y3="-1.780347" z3="-0.468856"></atom>
+<atom id="a11" elementType="H" x3="5.114650" y3="-1.142882" z3="1.140748"></atom>
+<atom id="a12" elementType="H" x3="5.175995" y3="0.488748" z3="-1.131008"></atom>
+<atom id="a13" elementType="H" x3="4.727303" y3="1.093540" z3="0.456112"></atom>
+<atom id="a14" elementType="H" x3="2.916517" y3="0.401912" z3="-1.851365"></atom>
+<atom id="a15" elementType="H" x3="2.677285" y3="1.646181" z3="-0.634867"></atom>
+<atom id="a16" elementType="B" x3="2.012669" y3="-2.076307" z3="-0.644594"></atom>
+<atom id="a17" elementType="H" x3="2.703180" y3="-2.317526" z3="-1.534328"></atom>
+<atom id="a18" elementType="H" x3="1.224903" y3="-2.750018" z3="-0.142102"></atom>
+<atom id="a19" elementType="H" x3="1.121754" y3="-0.889354" z3="-1.261797"></atom>
+</atomArray>
+<bondArray>
+<bond id="b0" atomRefs2="a1 a0" order="S"></bond>
+<bond id="b1" atomRefs2="a6 a0" order="S"></bond>
+<bond id="b2" atomRefs2="a7 a0" order="S"></bond>
+<bond id="b3" atomRefs2="a8 a0" order="S"></bond>
+<bond id="b4" atomRefs2="a2 a1" order="S"></bond>
+<bond id="b5" atomRefs2="a5 a1" order="S"></bond>
+<bond id="b6" atomRefs2="a3 a2" order="S"></bond>
+<bond id="b7" atomRefs2="a9 a2" order="S"></bond>
+<bond id="b8" atomRefs2="a4 a3" order="S"></bond>
+<bond id="b9" atomRefs2="a10 a3" order="S"></bond>
+<bond id="b10" atomRefs2="a11 a3" order="S"></bond>
+<bond id="b11" atomRefs2="a5 a4" order="S"></bond>
+<bond id="b12" atomRefs2="a12 a4" order="S"></bond>
+<bond id="b13" atomRefs2="a13 a4" order="S"></bond>
+<bond id="b14" atomRefs2="a14 a5" order="S"></bond>
+<bond id="b15" atomRefs2="a15 a5" order="S"></bond>
+<bond id="b16" atomRefs2="a17 a16" order="S"></bond>
+<bond id="b17" atomRefs2="a18 a16" order="S"></bond>
+</bondArray>
+<list>
+<atomArray>
+<atom id="a0" coordinationNumber="4"></atom>
+<atom id="a1" coordinationNumber="4"></atom>
+<atom id="a2" coordinationNumber="4"></atom>
+<atom id="a3" coordinationNumber="4"></atom>
+<atom id="a4" coordinationNumber="4"></atom>
+<atom id="a5" coordinationNumber="4"></atom>
+<atom id="a6" coordinationNumber="1"></atom>
+<atom id="a7" coordinationNumber="1"></atom>
+<atom id="a8" coordinationNumber="1"></atom>
+<atom id="a9" coordinationNumber="1"></atom>
+<atom id="a10" coordinationNumber="1"></atom>
+<atom id="a11" coordinationNumber="1"></atom>
+<atom id="a12" coordinationNumber="1"></atom>
+<atom id="a13" coordinationNumber="1"></atom>
+<atom id="a14" coordinationNumber="1"></atom>
+<atom id="a15" coordinationNumber="1"></atom>
+<atom id="a16" coordinationNumber="3"></atom>
+<atom id="a17" coordinationNumber="1"></atom>
+<atom id="a18" coordinationNumber="1"></atom>
+<atom id="a19" coordinationNumber="1"></atom>
+</atomArray>
+<scalar title="Energy">-2.562777562e+02</scalar>
+<scalar title="Time">4</scalar>
+<scalar title="Reaction Coordinate">4</scalar>
+<Gradient>
+<scalar title="RMS Gradient">0.0192718</scalar>
+<scalar title="Maximum Gradient">0.0697205</scalar>
+<matrix dataType="xsd:decimal" title="Cartesian Gradient" columns="3" rows="20">-0.0015552 -0.0006421 -0.0020355 0.0243225 -0.0356554 0.0144534 0.0205476 0.0452035 0.0348487 -0.0014525 -0.0055568 -0.0017429 0.000261 0.0014823 0.0006647 -0.0030897 -0.000905 -0.0028357 4.25e-05 9.01e-05 0.000214 -4.47e-05 -2.37e-05 0.0001891 1.19e-05 -6.84e-05 0.0003424 -0.0012641 -0.0057315 -0.00331 0.0006388 0.0004401 -0.0003004 -8.8e-05 -0.001029 6e-07 0.0002274 -0.0005461 0.0001529 0.0002024 0.0005066 -0.0005397 0.0019001 0.0007219 -0.0001503 -0.0018483 -0.0004598 -0.0003599 0.0231486 -0.0697205 0.0084032 0.0028656 0.0048656 0.00099 -0.0007937 0.0037914 0.0037747 -0.0640322 0.0632367 -0.0527593</matrix>
+</Gradient>
+</list>
+</molecule>
+<molecule>
+<atomArray>
+<atom id="a0" elementType="C" x3="0.930851" y3="0.210188" z3="0.823233"></atom>
+<atom id="a1" elementType="C" x3="2.147294" y3="-0.351914" z3="0.068513"></atom>
+<atom id="a2" elementType="C" x3="3.003240" y3="-1.324886" z3="0.638849"></atom>
+<atom id="a3" elementType="C" x3="4.467444" y3="-1.069973" z3="0.262641"></atom>
+<atom id="a4" elementType="C" x3="4.460257" y3="0.375810" z3="-0.313269"></atom>
+<atom id="a5" elementType="C" x3="3.003867" y3="0.621884" z3="-0.791795"></atom>
+<atom id="a6" elementType="H" x3="0.360535" y3="-0.595751" z3="1.274682"></atom>
+<atom id="a7" elementType="H" x3="0.282129" y3="0.777392" z3="0.163060"></atom>
+<atom id="a8" elementType="H" x3="1.284777" y3="0.867483" z3="1.614675"></atom>
+<atom id="a9" elementType="H" x3="2.752252" y3="-1.821213" z3="1.562850"></atom>
+<atom id="a10" elementType="H" x3="4.834110" y3="-1.777563" z3="-0.477097"></atom>
+<atom id="a11" elementType="H" x3="5.110322" y3="-1.148154" z3="1.136956"></atom>
+<atom id="a12" elementType="H" x3="5.173317" y3="0.492761" z3="-1.125077"></atom>
+<atom id="a13" elementType="H" x3="4.719599" y3="1.092063" z3="0.462879"></atom>
+<atom id="a14" elementType="H" x3="2.917962" y3="0.400283" z3="-1.851496"></atom>
+<atom id="a15" elementType="H" x3="2.670998" y3="1.645401" z3="-0.636770"></atom>
+<atom id="a16" elementType="B" x3="2.025788" y3="-2.061685" z3="-0.630468"></atom>
+<atom id="a17" elementType="H" x3="2.699428" y3="-2.304914" z3="-1.532786"></atom>
+<atom id="a18" elementType="H" x3="1.232755" y3="-2.741678" z3="-0.144698"></atom>
+<atom id="a19" elementType="H" x3="1.193855" y3="-0.944274" z3="-1.196498"></atom>
+</atomArray>
+<bondArray>
+<bond id="b0" atomRefs2="a1 a0" order="S"></bond>
+<bond id="b1" atomRefs2="a6 a0" order="S"></bond>
+<bond id="b2" atomRefs2="a7 a0" order="S"></bond>
+<bond id="b3" atomRefs2="a8 a0" order="S"></bond>
+<bond id="b4" atomRefs2="a2 a1" order="S"></bond>
+<bond id="b5" atomRefs2="a5 a1" order="S"></bond>
+<bond id="b6" atomRefs2="a3 a2" order="S"></bond>
+<bond id="b7" atomRefs2="a9 a2" order="S"></bond>
+<bond id="b8" atomRefs2="a16 a2" order="S"></bond>
+<bond id="b9" atomRefs2="a4 a3" order="S"></bond>
+<bond id="b10" atomRefs2="a10 a3" order="S"></bond>
+<bond id="b11" atomRefs2="a11 a3" order="S"></bond>
+<bond id="b12" atomRefs2="a5 a4" order="S"></bond>
+<bond id="b13" atomRefs2="a12 a4" order="S"></bond>
+<bond id="b14" atomRefs2="a13 a4" order="S"></bond>
+<bond id="b15" atomRefs2="a14 a5" order="S"></bond>
+<bond id="b16" atomRefs2="a15 a5" order="S"></bond>
+<bond id="b17" atomRefs2="a17 a16" order="S"></bond>
+<bond id="b18" atomRefs2="a18 a16" order="S"></bond>
+</bondArray>
+<list>
+<atomArray>
+<atom id="a0" coordinationNumber="4"></atom>
+<atom id="a1" coordinationNumber="4"></atom>
+<atom id="a2" coordinationNumber="4"></atom>
+<atom id="a3" coordinationNumber="4"></atom>
+<atom id="a4" coordinationNumber="4"></atom>
+<atom id="a5" coordinationNumber="4"></atom>
+<atom id="a6" coordinationNumber="1"></atom>
+<atom id="a7" coordinationNumber="1"></atom>
+<atom id="a8" coordinationNumber="1"></atom>
+<atom id="a9" coordinationNumber="1"></atom>
+<atom id="a10" coordinationNumber="1"></atom>
+<atom id="a11" coordinationNumber="1"></atom>
+<atom id="a12" coordinationNumber="1"></atom>
+<atom id="a13" coordinationNumber="1"></atom>
+<atom id="a14" coordinationNumber="1"></atom>
+<atom id="a15" coordinationNumber="1"></atom>
+<atom id="a16" coordinationNumber="3"></atom>
+<atom id="a17" coordinationNumber="1"></atom>
+<atom id="a18" coordinationNumber="1"></atom>
+<atom id="a19" coordinationNumber="1"></atom>
+</atomArray>
+<scalar title="Energy">-2.563008154e+02</scalar>
+<scalar title="Time">5</scalar>
+<scalar title="Reaction Coordinate">5</scalar>
+<Gradient>
+<scalar title="RMS Gradient">0.0167603</scalar>
+<scalar title="Maximum Gradient">0.0561034</scalar>
+<matrix dataType="xsd:decimal" title="Cartesian Gradient" columns="3" rows="20">-0.0010721 7.96e-05 -0.0019001 0.0248737 -0.0368225 0.0144178 0.0172694 0.0437494 0.0320493 -0.0011825 -0.0059588 -0.0025921 4.37e-05 0.001721 0.000945 -0.0034762 -0.0005531 -0.0027403 6.6e-05 6.27e-05 0.000162 -8.08e-05 1.14e-05 0.0001963 -0.0001148 -0.0001088 0.0003593 -0.0015773 -0.0070808 -0.0042041 0.0004937 0.0004172 -0.0002738 -0.0001474 -0.0009678 4.73e-05 0.0002553 -0.0008142 0.000126 0.0001992 0.0006507 -0.0006676 0.002292 0.0008086 -0.0002279 -0.0020365 -0.0005206 -0.0004003 0.0186603 -0.0531221 0.0084724 0.0025383 0.0045618 0.0007857 -0.0009005 0.0035602 0.0034137 -0.0561035 0.0503261 -0.0479687</matrix>
+</Gradient>
+</list>
+</molecule>
+<molecule>
+<atomArray>
+<atom id="a0" elementType="C" x3="0.930446" y3="0.210680" z3="0.818756"></atom>
+<atom id="a1" elementType="C" x3="2.150013" y3="-0.353284" z3="0.073850"></atom>
+<atom id="a2" elementType="C" x3="3.002934" y3="-1.332293" z3="0.634406"></atom>
+<atom id="a3" elementType="C" x3="4.467865" y3="-1.070396" z3="0.261200"></atom>
+<atom id="a4" elementType="C" x3="4.457947" y3="0.376515" z3="-0.311550"></atom>
+<atom id="a5" elementType="C" x3="3.001800" y3="0.617652" z3="-0.791568"></atom>
+<atom id="a6" elementType="H" x3="0.365101" y3="-0.591664" z3="1.282696"></atom>
+<atom id="a7" elementType="H" x3="0.278811" y3="0.762906" z3="0.148572"></atom>
+<atom id="a8" elementType="H" x3="1.281684" y3="0.882912" z3="1.598369"></atom>
+<atom id="a9" elementType="H" x3="2.756650" y3="-1.829985" z3="1.558990"></atom>
+<atom id="a10" elementType="H" x3="4.834863" y3="-1.774366" z3="-0.481667"></atom>
+<atom id="a11" elementType="H" x3="5.110824" y3="-1.150346" z3="1.135234"></atom>
+<atom id="a12" elementType="H" x3="5.170667" y3="0.493929" z3="-1.123618"></atom>
+<atom id="a13" elementType="H" x3="4.715541" y3="1.094092" z3="0.463960"></atom>
+<atom id="a14" elementType="H" x3="2.916350" y3="0.386848" z3="-1.849612"></atom>
+<atom id="a15" elementType="H" x3="2.664714" y3="1.640736" z3="-0.643913"></atom>
+<atom id="a16" elementType="B" x3="2.022888" y3="-2.041855" z3="-0.628932"></atom>
+<atom id="a17" elementType="H" x3="2.695558" y3="-2.294189" z3="-1.529614"></atom>
+<atom id="a18" elementType="H" x3="1.240061" y3="-2.734971" z3="-0.145165"></atom>
+<atom id="a19" elementType="H" x3="1.256085" y3="-1.015002" z3="-1.143679"></atom>
+</atomArray>
+<bondArray>
+<bond id="b0" atomRefs2="a1 a0" order="S"></bond>
+<bond id="b1" atomRefs2="a6 a0" order="S"></bond>
+<bond id="b2" atomRefs2="a7 a0" order="S"></bond>
+<bond id="b3" atomRefs2="a8 a0" order="S"></bond>
+<bond id="b4" atomRefs2="a2 a1" order="S"></bond>
+<bond id="b5" atomRefs2="a5 a1" order="S"></bond>
+<bond id="b6" atomRefs2="a3 a2" order="S"></bond>
+<bond id="b7" atomRefs2="a9 a2" order="S"></bond>
+<bond id="b8" atomRefs2="a16 a2" order="S"></bond>
+<bond id="b9" atomRefs2="a4 a3" order="S"></bond>
+<bond id="b10" atomRefs2="a10 a3" order="S"></bond>
+<bond id="b11" atomRefs2="a11 a3" order="S"></bond>
+<bond id="b12" atomRefs2="a5 a4" order="S"></bond>
+<bond id="b13" atomRefs2="a12 a4" order="S"></bond>
+<bond id="b14" atomRefs2="a13 a4" order="S"></bond>
+<bond id="b15" atomRefs2="a14 a5" order="S"></bond>
+<bond id="b16" atomRefs2="a15 a5" order="S"></bond>
+<bond id="b17" atomRefs2="a17 a16" order="S"></bond>
+<bond id="b18" atomRefs2="a18 a16" order="S"></bond>
+</bondArray>
+<list>
+<atomArray>
+<atom id="a0" coordinationNumber="4"></atom>
+<atom id="a1" coordinationNumber="4"></atom>
+<atom id="a2" coordinationNumber="4"></atom>
+<atom id="a3" coordinationNumber="4"></atom>
+<atom id="a4" coordinationNumber="4"></atom>
+<atom id="a5" coordinationNumber="4"></atom>
+<atom id="a6" coordinationNumber="1"></atom>
+<atom id="a7" coordinationNumber="1"></atom>
+<atom id="a8" coordinationNumber="1"></atom>
+<atom id="a9" coordinationNumber="1"></atom>
+<atom id="a10" coordinationNumber="1"></atom>
+<atom id="a11" coordinationNumber="1"></atom>
+<atom id="a12" coordinationNumber="1"></atom>
+<atom id="a13" coordinationNumber="1"></atom>
+<atom id="a14" coordinationNumber="1"></atom>
+<atom id="a15" coordinationNumber="1"></atom>
+<atom id="a16" coordinationNumber="3"></atom>
+<atom id="a17" coordinationNumber="1"></atom>
+<atom id="a18" coordinationNumber="1"></atom>
+<atom id="a19" coordinationNumber="1"></atom>
+</atomArray>
+<scalar title="Energy">-2.563185381e+02</scalar>
+<scalar title="Time">6</scalar>
+<scalar title="Reaction Coordinate">6</scalar>
+<Gradient>
+<scalar title="RMS Gradient">0.0127059</scalar>
+<scalar title="Maximum Gradient">0.0402002</scalar>
+<matrix dataType="xsd:decimal" title="Cartesian Gradient" columns="3" rows="20">0.0001442 0.0012782 -0.0008859 0.018048 -0.035386 0.0075002 0.0135916 0.0374556 0.0263698 -0.0008347 -0.0051215 -0.0023029 -0.0001987 0.0019373 0.0014064 -0.0030802 -6.93e-05 -0.0017806 2.46e-05 2.74e-05 6.86e-05 -6.96e-05 1.42e-05 0.0001392 -0.0001877 -0.0001976 0.0003552 -0.0015497 -0.0066628 -0.0039579 0.0002821 0.0005091 -0.0003942 -8.92e-05 -0.000974 1.27e-05 0.0002244 -0.0010366 5.53e-05 0.000243 0.0007818 -0.0008028 0.0025238 0.0007313 -0.0002926 -0.0021103 -0.0005704 -0.0004907 0.0132986 -0.0359013 0.0075358 0.0014946 0.0045295 -2.8e-05 -0.0015546 0.003584 0.002489 -0.0402002 0.035071 -0.0349965</matrix>
+</Gradient>
+</list>
+</molecule>
+<molecule>
+<atomArray>
+<atom id="a0" elementType="C" x3="0.928461" y3="0.213177" z3="0.815613"></atom>
+<atom id="a1" elementType="C" x3="2.152581" y3="-0.348948" z3="0.081282"></atom>
+<atom id="a2" elementType="C" x3="3.001193" y3="-1.340858" z3="0.628418"></atom>
+<atom id="a3" elementType="C" x3="4.467372" y3="-1.070879" z3="0.259353"></atom>
+<atom id="a4" elementType="C" x3="4.456280" y3="0.376276" z3="-0.310970"></atom>
+<atom id="a5" elementType="C" x3="3.000614" y3="0.616382" z3="-0.790401"></atom>
+<atom id="a6" elementType="H" x3="0.368955" y3="-0.586610" z3="1.290868"></atom>
+<atom id="a7" elementType="H" x3="0.273750" y3="0.750336" z3="0.136001"></atom>
+<atom id="a8" elementType="H" x3="1.276484" y3="0.899905" z3="1.583740"></atom>
+<atom id="a9" elementType="H" x3="2.760325" y3="-1.837213" z3="1.555251"></atom>
+<atom id="a10" elementType="H" x3="4.834672" y3="-1.772918" z3="-0.485059"></atom>
+<atom id="a11" elementType="H" x3="5.110313" y3="-1.150731" z3="1.133323"></atom>
+<atom id="a12" elementType="H" x3="5.168526" y3="0.494465" z3="-1.123340"></atom>
+<atom id="a13" elementType="H" x3="4.712947" y3="1.093835" z3="0.464876"></atom>
+<atom id="a14" elementType="H" x3="2.910296" y3="0.375948" z3="-1.846121"></atom>
+<atom id="a15" elementType="H" x3="2.664124" y3="1.640442" z3="-0.649154"></atom>
+<atom id="a16" elementType="B" x3="2.021963" y3="-2.029771" z3="-0.629442"></atom>
+<atom id="a17" elementType="H" x3="2.699488" y3="-2.296563" z3="-1.522550"></atom>
+<atom id="a18" elementType="H" x3="1.256272" y3="-2.741247" z3="-0.144612"></atom>
+<atom id="a19" elementType="H" x3="1.314490" y3="-1.086398" z3="-1.095701"></atom>
+</atomArray>
+<bondArray>
+<bond id="b0" atomRefs2="a1 a0" order="S"></bond>
+<bond id="b1" atomRefs2="a6 a0" order="S"></bond>
+<bond id="b2" atomRefs2="a7 a0" order="S"></bond>
+<bond id="b3" atomRefs2="a8 a0" order="S"></bond>
+<bond id="b4" atomRefs2="a2 a1" order="S"></bond>
+<bond id="b5" atomRefs2="a5 a1" order="S"></bond>
+<bond id="b6" atomRefs2="a3 a2" order="S"></bond>
+<bond id="b7" atomRefs2="a9 a2" order="S"></bond>
+<bond id="b8" atomRefs2="a16 a2" order="S"></bond>
+<bond id="b9" atomRefs2="a4 a3" order="S"></bond>
+<bond id="b10" atomRefs2="a10 a3" order="S"></bond>
+<bond id="b11" atomRefs2="a11 a3" order="S"></bond>
+<bond id="b12" atomRefs2="a5 a4" order="S"></bond>
+<bond id="b13" atomRefs2="a12 a4" order="S"></bond>
+<bond id="b14" atomRefs2="a13 a4" order="S"></bond>
+<bond id="b15" atomRefs2="a14 a5" order="S"></bond>
+<bond id="b16" atomRefs2="a15 a5" order="S"></bond>
+<bond id="b17" atomRefs2="a17 a16" order="S"></bond>
+<bond id="b18" atomRefs2="a18 a16" order="S"></bond>
+<bond id="b19" atomRefs2="a19 a16" order="S"></bond>
+</bondArray>
+<list>
+<atomArray>
+<atom id="a0" coordinationNumber="4"></atom>
+<atom id="a1" coordinationNumber="4"></atom>
+<atom id="a2" coordinationNumber="4"></atom>
+<atom id="a3" coordinationNumber="4"></atom>
+<atom id="a4" coordinationNumber="4"></atom>
+<atom id="a5" coordinationNumber="4"></atom>
+<atom id="a6" coordinationNumber="1"></atom>
+<atom id="a7" coordinationNumber="1"></atom>
+<atom id="a8" coordinationNumber="1"></atom>
+<atom id="a9" coordinationNumber="1"></atom>
+<atom id="a10" coordinationNumber="1"></atom>
+<atom id="a11" coordinationNumber="1"></atom>
+<atom id="a12" coordinationNumber="1"></atom>
+<atom id="a13" coordinationNumber="1"></atom>
+<atom id="a14" coordinationNumber="1"></atom>
+<atom id="a15" coordinationNumber="1"></atom>
+<atom id="a16" coordinationNumber="3"></atom>
+<atom id="a17" coordinationNumber="1"></atom>
+<atom id="a18" coordinationNumber="1"></atom>
+<atom id="a19" coordinationNumber="1"></atom>
+</atomArray>
+<scalar title="Energy">-2.563290094e+02</scalar>
+<scalar title="Time">7</scalar>
+<scalar title="Reaction Coordinate">7</scalar>
+<Gradient>
+<scalar title="RMS Gradient">0.0073263</scalar>
+<scalar title="Maximum Gradient">0.0290899</scalar>
+<matrix dataType="xsd:decimal" title="Cartesian Gradient" columns="3" rows="20">0.001419 0.002438 0.0003545 0.0094385 -0.0290899 0.0003821 0.0104037 0.0284154 0.0206565 -0.0004633 -0.0036405 -0.0019583 -0.0004055 0.0018726 0.0017816 -0.0023038 0.0005399 -0.0006976 -3.91e-05 -1.7e-06 -5.78e-05 -4.86e-05 -8.3e-06 6.19e-05 -0.0001873 -0.0002367 0.0002905 -0.0014646 -0.0060306 -0.0036452 -6.28e-05 0.0004676 -0.0004824 4.75e-05 -0.0008144 -8.6e-05 0.0001899 -0.0011471 2e-06 0.0001969 0.0007944 -0.0008005 0.0023691 0.0004927 -0.000262 -0.0018855 -0.0005279 -0.0005594 0.0001219 -0.0115089 9.54e-05 0.0008793 0.0035909 -0.000392 -0.0015875 0.0028874 0.001741 -0.0166179 0.0115072 -0.0164241</matrix>
+</Gradient>
+</list>
+</molecule>
+<molecule>
+<atomArray>
+<atom id="a0" elementType="C" x3="0.918652" y3="0.211934" z3="0.813851"></atom>
+<atom id="a1" elementType="C" x3="2.159837" y3="-0.329858" z3="0.099879"></atom>
+<atom id="a2" elementType="C" x3="2.996639" y3="-1.344935" z3="0.622280"></atom>
+<atom id="a3" elementType="C" x3="4.466021" y3="-1.071928" z3="0.257443"></atom>
+<atom id="a4" elementType="C" x3="4.459423" y3="0.371369" z3="-0.318287"></atom>
+<atom id="a5" elementType="C" x3="3.003509" y3="0.621272" z3="-0.786198"></atom>
+<atom id="a6" elementType="H" x3="0.368058" y3="-0.593948" z3="1.288980"></atom>
+<atom id="a7" elementType="H" x3="0.263593" y3="0.733471" z3="0.122391"></atom>
+<atom id="a8" elementType="H" x3="1.249672" y3="0.911059" z3="1.578667"></atom>
+<atom id="a9" elementType="H" x3="2.761802" y3="-1.834955" z3="1.554649"></atom>
+<atom id="a10" elementType="H" x3="4.832060" y3="-1.780285" z3="-0.481443"></atom>
+<atom id="a11" elementType="H" x3="5.107406" y3="-1.146165" z3="1.132987"></atom>
+<atom id="a12" elementType="H" x3="5.168777" y3="0.488383" z3="-1.133271"></atom>
+<atom id="a13" elementType="H" x3="4.720647" y3="1.087078" z3="0.457823"></atom>
+<atom id="a14" elementType="H" x3="2.890105" y3="0.371172" z3="-1.837537"></atom>
+<atom id="a15" elementType="H" x3="2.681908" y3="1.650471" z3="-0.647456"></atom>
+<atom id="a16" elementType="B" x3="2.020484" y3="-2.030217" z3="-0.636656"></atom>
+<atom id="a17" elementType="H" x3="2.724669" y3="-2.326417" z3="-1.499466"></atom>
+<atom id="a18" elementType="H" x3="1.294558" y3="-2.772174" z3="-0.136256"></atom>
+<atom id="a19" elementType="H" x3="1.332366" y3="-1.150850" z3="-1.091280"></atom>
+</atomArray>
+<bondArray>
+<bond id="b0" atomRefs2="a1 a0" order="S"></bond>
+<bond id="b1" atomRefs2="a6 a0" order="S"></bond>
+<bond id="b2" atomRefs2="a7 a0" order="S"></bond>
+<bond id="b3" atomRefs2="a8 a0" order="S"></bond>
+<bond id="b4" atomRefs2="a2 a1" order="S"></bond>
+<bond id="b5" atomRefs2="a5 a1" order="S"></bond>
+<bond id="b6" atomRefs2="a3 a2" order="S"></bond>
+<bond id="b7" atomRefs2="a9 a2" order="S"></bond>
+<bond id="b8" atomRefs2="a16 a2" order="S"></bond>
+<bond id="b9" atomRefs2="a4 a3" order="S"></bond>
+<bond id="b10" atomRefs2="a10 a3" order="S"></bond>
+<bond id="b11" atomRefs2="a11 a3" order="S"></bond>
+<bond id="b12" atomRefs2="a5 a4" order="S"></bond>
+<bond id="b13" atomRefs2="a12 a4" order="S"></bond>
+<bond id="b14" atomRefs2="a13 a4" order="S"></bond>
+<bond id="b15" atomRefs2="a14 a5" order="S"></bond>
+<bond id="b16" atomRefs2="a15 a5" order="S"></bond>
+<bond id="b17" atomRefs2="a17 a16" order="S"></bond>
+<bond id="b18" atomRefs2="a18 a16" order="S"></bond>
+<bond id="b19" atomRefs2="a19 a16" order="S"></bond>
+</bondArray>
+<list>
+<atomArray>
+<atom id="a0" coordinationNumber="4"></atom>
+<atom id="a1" coordinationNumber="4"></atom>
+<atom id="a2" coordinationNumber="4"></atom>
+<atom id="a3" coordinationNumber="4"></atom>
+<atom id="a4" coordinationNumber="4"></atom>
+<atom id="a5" coordinationNumber="4"></atom>
+<atom id="a6" coordinationNumber="1"></atom>
+<atom id="a7" coordinationNumber="1"></atom>
+<atom id="a8" coordinationNumber="1"></atom>
+<atom id="a9" coordinationNumber="1"></atom>
+<atom id="a10" coordinationNumber="1"></atom>
+<atom id="a11" coordinationNumber="1"></atom>
+<atom id="a12" coordinationNumber="1"></atom>
+<atom id="a13" coordinationNumber="1"></atom>
+<atom id="a14" coordinationNumber="1"></atom>
+<atom id="a15" coordinationNumber="1"></atom>
+<atom id="a16" coordinationNumber="3"></atom>
+<atom id="a17" coordinationNumber="1"></atom>
+<atom id="a18" coordinationNumber="1"></atom>
+<atom id="a19" coordinationNumber="1"></atom>
+</atomArray>
+<scalar title="Energy">-2.563316636e+02</scalar>
+<scalar title="Time">8</scalar>
+<scalar title="Reaction Coordinate">8</scalar>
+<Gradient>
+<scalar title="RMS Gradient">0.0035442</scalar>
+<scalar title="Maximum Gradient">0.0147435</scalar>
+<matrix dataType="xsd:decimal" title="Cartesian Gradient" columns="3" rows="20">0.00198 0.0023359 0.0013734 0.0005529 -0.0147435 -0.0040873 0.0066899 0.0130892 0.0124417 1.64e-05 -0.0006688 -0.0009776 -0.0005988 0.0011654 0.0013417 -0.0004115 0.0004212 0.0001183 -0.0001293 -7.1e-06 -0.0001831 4.66e-05 -1.74e-05 -3.05e-05 1.29e-05 -0.0002102 0.0001222 -0.0010573 -0.0039557 -0.0023989 -0.0005646 0.0002348 -0.0004691 0.0003692 -0.0004068 -0.0002902 0.0001955 -0.0007297 4.68e-05 -0.0001474 0.0004935 -0.000403 0.0013236 -5.28e-05 -3.38e-05 -0.0010027 -0.0002858 -0.0005123 -0.0073901 0.0030578 -0.0048321 0.0006265 0.0013824 0.0002201 -0.0003903 0.0013082 0.0009761 -0.0001216 -0.0024104 -0.0024225</matrix>
+</Gradient>
+</list>
+</molecule>
+<molecule>
+<atomArray>
+<atom id="a0" elementType="C" x3="0.901716" y3="0.203165" z3="0.810572"></atom>
+<atom id="a1" elementType="C" x3="2.169045" y3="-0.304799" z3="0.121958"></atom>
+<atom id="a2" elementType="C" x3="2.991095" y3="-1.341452" z3="0.618119"></atom>
+<atom id="a3" elementType="C" x3="4.464229" y3="-1.076402" z3="0.255779"></atom>
+<atom id="a4" elementType="C" x3="4.467402" y3="0.360488" z3="-0.334392"></atom>
+<atom id="a5" elementType="C" x3="3.008191" y3="0.633355" z3="-0.778004"></atom>
+<atom id="a6" elementType="H" x3="0.364023" y3="-0.617552" z3="1.274615"></atom>
+<atom id="a7" elementType="H" x3="0.247899" y3="0.709738" z3="0.106971"></atom>
+<atom id="a8" elementType="H" x3="1.200495" y3="0.910640" z3="1.581733"></atom>
+<atom id="a9" elementType="H" x3="2.762370" y3="-1.818070" z3="1.559668"></atom>
+<atom id="a10" elementType="H" x3="4.830827" y3="-1.798763" z3="-0.468967"></atom>
+<atom id="a11" elementType="H" x3="5.099833" y3="-1.139491" z3="1.136402"></atom>
+<atom id="a12" elementType="H" x3="5.168151" y3="0.470693" z3="-1.157583"></atom>
+<atom id="a13" elementType="H" x3="4.745424" y3="1.073424" z3="0.438550"></atom>
+<atom id="a14" elementType="H" x3="2.862329" y3="0.385763" z3="-1.826007"></atom>
+<atom id="a15" elementType="H" x3="2.710500" y3="1.668674" z3="-0.630073"></atom>
+<atom id="a16" elementType="B" x3="2.023673" y3="-2.036378" z3="-0.640922"></atom>
+<atom id="a17" elementType="H" x3="2.751825" y3="-2.354619" z3="-1.476149"></atom>
+<atom id="a18" elementType="H" x3="1.330058" y3="-2.800845" z3="-0.127219"></atom>
+<atom id="a19" elementType="H" x3="1.315668" y3="-1.181918" z3="-1.116835"></atom>
+</atomArray>
+<bondArray>
+<bond id="b0" atomRefs2="a1 a0" order="S"></bond>
+<bond id="b1" atomRefs2="a6 a0" order="S"></bond>
+<bond id="b2" atomRefs2="a7 a0" order="S"></bond>
+<bond id="b3" atomRefs2="a8 a0" order="S"></bond>
+<bond id="b4" atomRefs2="a2 a1" order="S"></bond>
+<bond id="b5" atomRefs2="a5 a1" order="S"></bond>
+<bond id="b6" atomRefs2="a3 a2" order="S"></bond>
+<bond id="b7" atomRefs2="a9 a2" order="S"></bond>
+<bond id="b8" atomRefs2="a16 a2" order="S"></bond>
+<bond id="b9" atomRefs2="a4 a3" order="S"></bond>
+<bond id="b10" atomRefs2="a10 a3" order="S"></bond>
+<bond id="b11" atomRefs2="a11 a3" order="S"></bond>
+<bond id="b12" atomRefs2="a5 a4" order="S"></bond>
+<bond id="b13" atomRefs2="a12 a4" order="S"></bond>
+<bond id="b14" atomRefs2="a13 a4" order="S"></bond>
+<bond id="b15" atomRefs2="a14 a5" order="S"></bond>
+<bond id="b16" atomRefs2="a15 a5" order="S"></bond>
+<bond id="b17" atomRefs2="a17 a16" order="S"></bond>
+<bond id="b18" atomRefs2="a18 a16" order="S"></bond>
+<bond id="b19" atomRefs2="a19 a16" order="S"></bond>
+</bondArray>
+<list>
+<atomArray>
+<atom id="a0" coordinationNumber="4"></atom>
+<atom id="a1" coordinationNumber="4"></atom>
+<atom id="a2" coordinationNumber="4"></atom>
+<atom id="a3" coordinationNumber="4"></atom>
+<atom id="a4" coordinationNumber="4"></atom>
+<atom id="a5" coordinationNumber="4"></atom>
+<atom id="a6" coordinationNumber="1"></atom>
+<atom id="a7" coordinationNumber="1"></atom>
+<atom id="a8" coordinationNumber="1"></atom>
+<atom id="a9" coordinationNumber="1"></atom>
+<atom id="a10" coordinationNumber="1"></atom>
+<atom id="a11" coordinationNumber="1"></atom>
+<atom id="a12" coordinationNumber="1"></atom>
+<atom id="a13" coordinationNumber="1"></atom>
+<atom id="a14" coordinationNumber="1"></atom>
+<atom id="a15" coordinationNumber="1"></atom>
+<atom id="a16" coordinationNumber="3"></atom>
+<atom id="a17" coordinationNumber="1"></atom>
+<atom id="a18" coordinationNumber="1"></atom>
+<atom id="a19" coordinationNumber="1"></atom>
+</atomArray>
+<scalar title="Energy">-2.563324970e+02</scalar>
+<scalar title="Time">9</scalar>
+<scalar title="Reaction Coordinate">9</scalar>
+<Gradient>
+<scalar title="RMS Gradient">0.0012458</scalar>
+<scalar title="Maximum Gradient">0.0040092</scalar>
+<matrix dataType="xsd:decimal" title="Cartesian Gradient" columns="3" rows="20">0.0009487 0.0007032 0.0009799 -0.0012457 -0.0037186 -0.002143 0.0023884 0.0024453 0.0040092 0.0002658 0.0006518 -0.0002431 -0.0002469 0.0002117 0.0001566 0.0004 -3.82e-05 2.43e-05 -9.76e-05 -2.7e-06 -0.0001504 9.81e-05 7.56e-05 1.76e-05 9.74e-05 -7.03e-05 9.4e-05 -0.0003744 -0.0013248 -0.0008163 -0.0006066 -3.4e-05 -0.0002597 0.0004266 -0.0001259 -0.0003137 0.000285 8.6e-05 0.0002347 -0.0005001 -2.09e-05 0.0002181 0.0003664 -0.0004555 0.000162 -0.0001795 -9.4e-06 -0.0004489 0.0003828 -0.0014882 0.000607 0.0004277 -0.0003017 0.0008053 0.0006146 5.33e-05 0.0002975 -0.0034506 0.0033633 -0.003231</matrix>
+</Gradient>
+</list>
+</molecule>
+<molecule>
+<atomArray>
+<atom id="a0" elementType="C" x3="0.887041" y3="0.193617" z3="0.804064"></atom>
+<atom id="a1" elementType="C" x3="2.172160" y3="-0.292946" z3="0.133301"></atom>
+<atom id="a2" elementType="C" x3="2.987866" y3="-1.338016" z3="0.619277"></atom>
+<atom id="a3" elementType="C" x3="4.463033" y3="-1.080249" z3="0.262635"></atom>
+<atom id="a4" elementType="C" x3="4.474852" y3="0.344587" z3="-0.359375"></atom>
+<atom id="a5" elementType="C" x3="3.008058" y3="0.650009" z3="-0.762199"></atom>
+<atom id="a6" elementType="H" x3="0.362078" y3="-0.635593" z3="1.267488"></atom>
+<atom id="a7" elementType="H" x3="0.231050" y3="0.681896" z3="0.089614"></atom>
+<atom id="a8" elementType="H" x3="1.161235" y3="0.912472" z3="1.573971"></atom>
+<atom id="a9" elementType="H" x3="2.759870" y3="-1.805911" z3="1.565757"></atom>
+<atom id="a10" elementType="H" x3="4.839054" y3="-1.819734" z3="-0.439473"></atom>
+<atom id="a11" elementType="H" x3="5.088341" y3="-1.122319" z3="1.151935"></atom>
+<atom id="a12" elementType="H" x3="5.148723" y3="0.421211" z3="-1.208324"></atom>
+<atom id="a13" elementType="H" x3="4.798716" y3="1.066733" z3="0.386641"></atom>
+<atom id="a14" elementType="H" x3="2.830282" y3="0.435761" z3="-1.812809"></atom>
+<atom id="a15" elementType="H" x3="2.732326" y3="1.685773" z3="-0.578250"></atom>
+<atom id="a16" elementType="B" x3="2.033436" y3="-2.035846" z3="-0.642609"></atom>
+<atom id="a17" elementType="H" x3="2.763789" y3="-2.346125" z3="-1.479922"></atom>
+<atom id="a18" elementType="H" x3="1.339430" y3="-2.805783" z3="-0.135908"></atom>
+<atom id="a19" elementType="H" x3="1.331052" y3="-1.198037" z3="-1.110892"></atom>
+</atomArray>
+<bondArray>
+<bond id="b0" atomRefs2="a1 a0" order="S"></bond>
+<bond id="b1" atomRefs2="a6 a0" order="S"></bond>
+<bond id="b2" atomRefs2="a7 a0" order="S"></bond>
+<bond id="b3" atomRefs2="a8 a0" order="S"></bond>
+<bond id="b4" atomRefs2="a2 a1" order="S"></bond>
+<bond id="b5" atomRefs2="a5 a1" order="S"></bond>
+<bond id="b6" atomRefs2="a3 a2" order="S"></bond>
+<bond id="b7" atomRefs2="a9 a2" order="S"></bond>
+<bond id="b8" atomRefs2="a16 a2" order="S"></bond>
+<bond id="b9" atomRefs2="a4 a3" order="S"></bond>
+<bond id="b10" atomRefs2="a10 a3" order="S"></bond>
+<bond id="b11" atomRefs2="a11 a3" order="S"></bond>
+<bond id="b12" atomRefs2="a5 a4" order="S"></bond>
+<bond id="b13" atomRefs2="a12 a4" order="S"></bond>
+<bond id="b14" atomRefs2="a13 a4" order="S"></bond>
+<bond id="b15" atomRefs2="a14 a5" order="S"></bond>
+<bond id="b16" atomRefs2="a15 a5" order="S"></bond>
+<bond id="b17" atomRefs2="a17 a16" order="S"></bond>
+<bond id="b18" atomRefs2="a18 a16" order="S"></bond>
+<bond id="b19" atomRefs2="a19 a16" order="S"></bond>
+</bondArray>
+<list>
+<atomArray>
+<atom id="a0" coordinationNumber="4"></atom>
+<atom id="a1" coordinationNumber="4"></atom>
+<atom id="a2" coordinationNumber="4"></atom>
+<atom id="a3" coordinationNumber="4"></atom>
+<atom id="a4" coordinationNumber="4"></atom>
+<atom id="a5" coordinationNumber="4"></atom>
+<atom id="a6" coordinationNumber="1"></atom>
+<atom id="a7" coordinationNumber="1"></atom>
+<atom id="a8" coordinationNumber="1"></atom>
+<atom id="a9" coordinationNumber="1"></atom>
+<atom id="a10" coordinationNumber="1"></atom>
+<atom id="a11" coordinationNumber="1"></atom>
+<atom id="a12" coordinationNumber="1"></atom>
+<atom id="a13" coordinationNumber="1"></atom>
+<atom id="a14" coordinationNumber="1"></atom>
+<atom id="a15" coordinationNumber="1"></atom>
+<atom id="a16" coordinationNumber="3"></atom>
+<atom id="a17" coordinationNumber="1"></atom>
+<atom id="a18" coordinationNumber="1"></atom>
+<atom id="a19" coordinationNumber="1"></atom>
+</atomArray>
+<scalar title="Energy">-2.563329531e+02</scalar>
+<scalar title="Time">10</scalar>
+<scalar title="Reaction Coordinate">10</scalar>
+<Gradient>
+<scalar title="RMS Gradient">0.0007058</scalar>
+<scalar title="Maximum Gradient">0.002922</scalar>
+<matrix dataType="xsd:decimal" title="Cartesian Gradient" columns="3" rows="20">0.0002762 0.0001888 0.0004311 -0.0004872 -0.0009124 -0.0008035 0.0002163 0.0013534 0.0003284 0.000165 -0.000402 -0.0002362 -5.1e-06 -9.21e-05 0.0001991 -0.0001953 0.0005723 3.57e-05 -3.11e-05 -2.03e-05 -4.38e-05 1.33e-05 8.19e-05 5.78e-05 -2.42e-05 -4.93e-05 9.2e-05 -6.2e-05 -7.29e-05 -6.67e-05 -0.0002369 3.45e-05 -0.0001695 0.0002321 -0.0002879 -0.0001982 0.0002946 0.000321 0.0002668 -0.0003134 -7.56e-05 0.0002772 0.0002054 -0.0003319 8.24e-05 -1.13e-05 3.82e-05 -0.0004675 -0.001806 0.0022288 -0.0006058 -6.35e-05 0.0001915 -0.0003581 -0.0004084 0.0001561 -7.98e-05 0.0022414 -0.002922 0.0012587</matrix>
+</Gradient>
+</list>
+</molecule>
+<molecule>
+<atomArray>
+<atom id="a0" elementType="C" x3="0.879288" y3="0.189099" z3="0.802938"></atom>
+<atom id="a1" elementType="C" x3="2.171388" y3="-0.290120" z3="0.140313"></atom>
+<atom id="a2" elementType="C" x3="2.985491" y3="-1.338828" z3="0.622708"></atom>
+<atom id="a3" elementType="C" x3="4.462364" y3="-1.077678" z3="0.278306"></atom>
+<atom id="a4" elementType="C" x3="4.477872" y3="0.328726" z3="-0.386058"></atom>
+<atom id="a5" elementType="C" x3="3.005580" y3="0.658532" z3="-0.749348"></atom>
+<atom id="a6" elementType="H" x3="0.356784" y3="-0.642766" z3="1.264333"></atom>
+<atom id="a7" elementType="H" x3="0.224782" y3="0.672010" z3="0.083513"></atom>
+<atom id="a8" elementType="H" x3="1.144153" y3="0.910991" z3="1.573239"></atom>
+<atom id="a9" elementType="H" x3="2.752801" y3="-1.811669" z3="1.565682"></atom>
+<atom id="a10" elementType="H" x3="4.854816" y3="-1.835963" z3="-0.394116"></atom>
+<atom id="a11" elementType="H" x3="5.073949" y3="-1.087841" z3="1.178178"></atom>
+<atom id="a12" elementType="H" x3="5.121339" y3="0.363793" z3="-1.260759"></atom>
+<atom id="a13" elementType="H" x3="4.845965" y3="1.065695" z3="0.323736"></atom>
+<atom id="a14" elementType="H" x3="2.800334" y3="0.475371" z3="-1.800765"></atom>
+<atom id="a15" elementType="H" x3="2.747776" y3="1.692722" z3="-0.532628"></atom>
+<atom id="a16" elementType="B" x3="2.044697" y3="-2.028967" z3="-0.652207"></atom>
+<atom id="a17" elementType="H" x3="2.781639" y3="-2.325745" z3="-1.488285"></atom>
+<atom id="a18" elementType="H" x3="1.355365" y3="-2.810295" z3="-0.156924"></atom>
+<atom id="a19" elementType="H" x3="1.334538" y3="-1.184520" z3="-1.113379"></atom>
+</atomArray>
+<bondArray>
+<bond id="b0" atomRefs2="a1 a0" order="S"></bond>
+<bond id="b1" atomRefs2="a6 a0" order="S"></bond>
+<bond id="b2" atomRefs2="a7 a0" order="S"></bond>
+<bond id="b3" atomRefs2="a8 a0" order="S"></bond>
+<bond id="b4" atomRefs2="a2 a1" order="S"></bond>
+<bond id="b5" atomRefs2="a5 a1" order="S"></bond>
+<bond id="b6" atomRefs2="a3 a2" order="S"></bond>
+<bond id="b7" atomRefs2="a9 a2" order="S"></bond>
+<bond id="b8" atomRefs2="a16 a2" order="S"></bond>
+<bond id="b9" atomRefs2="a4 a3" order="S"></bond>
+<bond id="b10" atomRefs2="a10 a3" order="S"></bond>
+<bond id="b11" atomRefs2="a11 a3" order="S"></bond>
+<bond id="b12" atomRefs2="a5 a4" order="S"></bond>
+<bond id="b13" atomRefs2="a12 a4" order="S"></bond>
+<bond id="b14" atomRefs2="a13 a4" order="S"></bond>
+<bond id="b15" atomRefs2="a14 a5" order="S"></bond>
+<bond id="b16" atomRefs2="a15 a5" order="S"></bond>
+<bond id="b17" atomRefs2="a17 a16" order="S"></bond>
+<bond id="b18" atomRefs2="a18 a16" order="S"></bond>
+<bond id="b19" atomRefs2="a19 a16" order="S"></bond>
+</bondArray>
+<list>
+<atomArray>
+<atom id="a0" coordinationNumber="4"></atom>
+<atom id="a1" coordinationNumber="4"></atom>
+<atom id="a2" coordinationNumber="4"></atom>
+<atom id="a3" coordinationNumber="4"></atom>
+<atom id="a4" coordinationNumber="4"></atom>
+<atom id="a5" coordinationNumber="4"></atom>
+<atom id="a6" coordinationNumber="1"></atom>
+<atom id="a7" coordinationNumber="1"></atom>
+<atom id="a8" coordinationNumber="1"></atom>
+<atom id="a9" coordinationNumber="1"></atom>
+<atom id="a10" coordinationNumber="1"></atom>
+<atom id="a11" coordinationNumber="1"></atom>
+<atom id="a12" coordinationNumber="1"></atom>
+<atom id="a13" coordinationNumber="1"></atom>
+<atom id="a14" coordinationNumber="1"></atom>
+<atom id="a15" coordinationNumber="1"></atom>
+<atom id="a16" coordinationNumber="3"></atom>
+<atom id="a17" coordinationNumber="1"></atom>
+<atom id="a18" coordinationNumber="1"></atom>
+<atom id="a19" coordinationNumber="1"></atom>
+</atomArray>
+<scalar title="Energy">-2.563332665e+02</scalar>
+<scalar title="Time">11</scalar>
+<scalar title="Reaction Coordinate">11</scalar>
+<Gradient>
+<scalar title="RMS Gradient">0.0001419</scalar>
+<scalar title="Maximum Gradient">0.0003917</scalar>
+<matrix dataType="xsd:decimal" title="Cartesian Gradient" columns="3" rows="20">8.09e-05 3.55e-05 0.0001191 -2.2e-05 -6.05e-05 -8e-07 5.73e-05 0.0002514 0.0001273 6.19e-05 -8.23e-05 -2.9e-05 2.67e-05 2.86e-05 -1.2e-06 -1.18e-05 9.18e-05 -6.12e-05 -1.91e-05 -4.4e-06 -2.9e-05 1.48e-05 3.11e-05 6e-06 5.7e-06 -2.65e-05 2.2e-05 -1e-06 9.54e-05 4.89e-05 -0.0002926 4.63e-05 -0.0002055 0.0002481 -0.0002472 -0.0001959 0.0002563 0.0003534 0.0002477 -0.0003504 -0.0001207 0.0002725 4.99e-05 -0.0003588 6.93e-05 -1.71e-05 5.36e-05 -0.0003917 -7.67e-05 -4.63e-05 -8.4e-06 1.1e-06 -2.79e-05 9e-06 -1.05e-05 2.05e-05 1.56e-05 -1.6e-06 -3.32e-05 -1.46e-05</matrix>
+</Gradient>
+<NormalModes Number Modes="60">
+<scalar title="Current Mode">0</scalar>
+<array dataType="xsd:string" title="Frequencies" size="60">712.49i|4.16|2.69|1.23|0.01|0.06|0.18|22.68|211.87|228.13|324.96|368.57|443.92|551.31|600.27|716.27|753.63|882.66|927.40|1001.93|1025.87|1065.61|1095.14|1132.78|1173.87|1216.08|1244.28|1269.34|1324.20|1368.95|1416.89|1454.96|1475.32|1494.45|1510.39|1529.64|1550.57|1607.79|1622.46|1636.93|1708.05|1774.69|1797.67|1800.27|1810.52|1821.46|1838.96|2894.31|3156.74|3310.13|3572.44|3618.87|3623.40|3628.85|3735.21|3738.17|3740.38|3745.24|3745.76|3770.93</array>
+<matrix dataType="xsd:decimal" title="Normal Modes" columns="3" rows="1200">-0.00255016 0.0695232 0.0520238 -0.222076 -0.0676304 -0.313729 -0.0397614 -0.300488 -0.166626 -0.018655 0.00641153 0.0238796 -0.0187777 0.0071361 0.0308951 0.00231636 0.045116 -0.0279446 0.00438463 0.0148432 0.0117616 -0.0242722 0.0464052 0.0539269 0.0441172 -0.00686913 0.0214707 0.0272912 0.124719 0.0658695 0.0310048 0.0245828 0.00214509 -0.00630096 0.0139691 0.00670895 -0.00632513 0.00424641 0.00788244 -0.00546346 0.00561207 0.00492644 0.0366152 0.050478 -0.019902 -0.00160179 0.00707651 0.0149303 0.311943 -0.0179526 0.33559 -0.149236 0.0980558 -0.148455 -0.179737 0.0947119 -0.126534 0.222112 0.409555 0.370792 0.0340438 -0.354603 0.391477 -0.0050729 -0.0986553 0.130041 0.183757 -0.0838584 -0.156402 0.104995 0.141588 -0.323085 -0.150634 0.250204 -0.0993909 -0.240391 0.141661 0.165783 0.0564205 -0.14184 0.0955884 -0.0357119 -0.0904753 0.163077 0.0175465 -0.130293 0.1366 0.107698 -0.0765034 -0.0580497 0.0282389 0.0854525 -0.144994 0.0674941 0.0193906 -0.119005 -0.0813534 0.134298 -0.054066 -0.0382793 0.0517196 -0.01001 -0.107435 0.0842037 0.0479012 -0.0946321 0.0222459 0.107829 0.0779135 0.0151676 -0.128339 -0.00076974 0.0687123 -0.0835746 0.0701781 -0.0417315 -0.0477633 -0.0233412 0.00278816 0.0300027 -0.0961569 -0.130132 -0.130354 -0.0312309 -0.0800372 -0.0400295 0.138933 0.156756 0.187956 0.0932104 0.307263 0.107238 -0.134581 0.152471 -0.225841 -0.19259 -0.153145 -0.269283 0.0115611 -0.0308124 0.0192769 -0.0526372 -0.114616 -0.0668408 -0.0571543 0.0250169 -0.0864617 0.0654884 0.0973892 0.0867485 0.0591232 0.0607796 0.0816767 0.0306626 0.178488 0.0295692 -0.0465364 0.0117687 -0.0722471 -0.0658493 0.108912 -0.118748 -0.0541883 -0.121263 -0.0649456 -0.0999313 -0.0416495 -0.143282 0.216974 -0.266081 0.340479 0.0760554 -0.103064 0.120349 0.103552 -0.0796791 0.158339 0.0261128 -0.143692 0.051313 -0.190825 -0.258806 -0.359846 -0.0214144 -0.0755079 -0.161623 -0.0083049 -0.038039 -0.103566 0.0297653 0.140154 0.190883 0.0125189 0.226477 0.374977 0.0547204 0.0821772 0.0768548 -0.0562075 -0.101116 -0.152426 -0.0305904 -0.0760945 -0.12745 -0.11703 -0.08616 -0.0725001 -0.0392371 -0.0418196 -0.0545496 0.0625929 0.0764727 0.0463533 -0.0365382 0.0230212 0.085717 0.0621288 0.122523 0.153844 -0.0725674 0.0523458 0.162046 0.0881731 0.0346252 0.00624446 -0.0326631 0.011293 0.0240637 0.275328 -0.0189072 -0.319075 0.137391 0.0348174 -0.0648383 0.0796358 -0.0371106 -0.153013 0.0855064 -0.0145276 -0.115242 0.288113 -0.169176 0.118153 0.288182 -0.168161 0.117551 0.288928 -0.167899 0.116863 0.288673 -0.16693 0.116522 0.287678 -0.166757 0.116855 0.287346 -0.16731 0.11768 0.0836341 -0.049148 0.0341674 0.0833147 -0.0490219 0.0343435 0.0834073 -0.0490579 0.0342922 0.0838548 -0.0487863 0.0338154 0.0836995 -0.0482411 0.033672 0.0836891 -0.0483111 0.0337062 0.0831936 -0.0481635 0.0337538 0.0833465 -0.0483043 0.0338409 0.0831245 -0.0483303 0.0340865 0.0831157 -0.0485344 0.0342799 0.274131 -0.159291 0.110868 0.0836719 -0.0484062 0.033746 0.0838729 -0.0488124 0.0338136 0.0835141 -0.0486959 0.0340213 0.138757 0.308793 0.0983518 0.139088 0.308285 0.0993598 0.1423 0.313 0.104212 0.141211 0.314664 0.100873 0.136927 0.310588 0.0921231 0.135541 0.305379 0.0929464 0.0409577 0.0898185 0.0300235 0.0395817 0.0878216 0.0279545 0.0399641 0.0908772 0.0272282 0.041905 0.0920368 0.0310436 0.0412486 0.0902269 0.0304602 0.0412059 0.0932216 0.0290384 0.0391351 0.0887628 0.0262497 0.0396485 0.0914671 0.0251335 0.0388439 0.0867469 0.0273029 0.038713 0.0886232 0.0254916 0.135131 0.287985 0.103666 0.0411571 0.087118 0.0318499 0.0420019 0.0882298 0.0331613 0.0404735 0.0866757 0.0305604 -0.180567 -0.0741157 0.266757 -0.154855 -0.0470183 0.29736 -0.151582 -0.0391892 0.308681 -0.146273 -0.0118383 0.351655 -0.150581 -0.0010194 0.374701 -0.14482 -0.0248778 0.33023 -0.0521399 -0.0251934 0.0707434 -0.0488214 -0.0224064 0.0734729 -0.0617206 -0.0224619 0.081441 -0.0491949 -0.0152918 0.0861327 -0.034058 0.00144873 0.101217 -0.0490879 -0.00501183 0.1064 -0.0350895 0.00754814 0.115114 -0.0550022 -0.00153443 0.11575 -0.0312778 -0.00636401 0.0934248 -0.0494415 -0.00899539 0.0952577 -0.100969 -0.0388796 0.261812 -0.0228188 -0.00619776 0.0849811 -0.0311968 -0.0164039 0.0722739 -0.0309313 -0.0137714 0.0766754 0.12579 0.106178 0.0377066 0.0320285 -0.0203197 -0.0487824 0.0417325 -0.00578167 -0.0494594 0.0131081 -0.0495057 -0.264979 -0.0442841 0.246278 0.386078 0.0281665 -0.162792 -0.219295 0.0460086 0.0538121 0.0633781 0.01513 0.00679036 0.0142251 0.06946 0.0604238 -0.0280675 0.0409863 0.0231927 0.00511814 -0.0748521 0.0673778 -0.214945 0.072165 -0.158983 -0.12552 0.129329 0.26368 0.223483 -0.215387 0.00970159 0.282162 0.118256 -0.209462 -0.0570177 -0.073412 -0.0336286 -0.227402 -0.184824 -0.105153 0.137059 -0.0852477 -0.0844419 0.0348264 -0.0501015 0.000108 0.101642 -0.0522851 -0.0409855 0.0250738 -0.169998 -0.158945 -0.291302 0.059141 0.0436264 -0.00210083 0.0712551 0.0599926 0.0585181 0.0345902 -0.0834009 -0.272527 0.0912761 0.028551 -0.0252103 0.0750359 0.242615 0.224623 -0.109242 -0.0935887 -0.239032 0.0403142 0.0310155 -0.114255 -0.141489 -0.12897 0.0244118 0.0578058 0.0614284 0.0478089 -0.0847396 -0.00292357 -0.157839 0.0884078 -0.106636 -0.133767 -0.00575936 0.0336204 -0.0300758 0.0753221 -0.0384947 0.0157613 -0.0159352 0.198071 0.0498037 0.0482152 0.0509827 0.191463 -0.120268 -0.108738 0.335389 -0.0507542 -0.253808 0.168767 -0.178172 0.135937 0.172238 0.120841 0.0192498 -0.0516282 0.0413759 0.0371672 0.0620046 -0.000993371 -0.00404713 0.00998635 0.00062677 0.0172859 0.0183352 0.00410705 0.0566554 0.0595624 -0.0336186 0.0212714 -0.0176143 -0.0294079 -0.105744 -0.12284 -0.265884 -0.0701529 -0.442615 0.248131 0.496772 0.129454 0.0636808 -0.407752 0.392894 -0.00221483 0.000822887 0.00266914 0.0206617 0.00964709 0.0360675 -0.0117423 0.0401966 0.0264696 0.00690314 0.0048554 0.00710714 -0.0388386 0.0242387 -0.00868107 0.00373845 -0.0969753 -0.0264853 -0.0258293 -0.0218788 -0.0983733 0.015116 -0.00800878 -0.0175976 0.00767887 0.0306333 -0.0146278 0.044967 -0.0330247 0.00392503 -0.0398968 -0.0285539 0.0183558 -0.0494479 0.432588 -0.208309 -0.033225 -0.129747 0.215022 0.0746215 -0.140815 0.0837947 0.0224139 -0.080639 -0.193049 -0.130541 0.00203176 -0.00280208 -0.173123 -0.0405148 0.236645 -0.172177 0.237465 -0.0371811 0.123043 0.15259 -0.168045 0.00746851 0.164496 -0.104072 0.0662595 -0.0838451 0.014393 -0.0501033 0.00450396 -0.119516 0.0769096 -0.0657538 -0.104322 -0.0682431 0.0482788 -0.020967 -0.0273211 -0.0230961 0.0181469 -0.0960125 0.0353329 0.0695932 -0.0584153 -0.0268681 0.128694 0.283514 -0.135553 -0.0323247 0.089635 0.133466 -0.0688899 0.209824 -0.182821 -0.0604721 -0.0486602 -0.0896114 0.107574 -0.281944 -0.177219 0.0169248 -0.0324712 0.179234 0.142698 0.0052658 0.193491 0.218997 -0.0287058 -0.196942 -0.171673 0.040547 -0.154095 -0.023646 0.066384 -0.120841 -0.14323 -0.0155485 -0.126416 -0.0538615 -0.0988529 -0.110965 -0.0196297 -0.213498 -0.0464351 0.044524 0.00669836 0.0615393 0.0674483 -0.157555 -0.0650576 -0.125963 0.101191 -0.140963 -0.125688 0.0457434 -0.00348801 0.019459 -0.0255527 -0.0708416 0.0401032 0.025137 -0.156354 -0.0212493 0.0530257 -0.000123209 -0.167037 0.263166 0.370367 0.0607241 0.0744806 0.291876 -0.046584 0.144111 -0.0042631 -0.0807198 -0.0206515 0.0894168 0.128473 0.11507 0.0197941 0.189241 -0.0877032 0.130698 -0.248087 -0.221665 0.223079 0.0579477 -0.251431 -0.124903 -0.0722651 -0.0329648 -0.076269 0.0472419 0.0309266 0.22234 -0.0557728 0.097154 -0.018959 0.0827828 -0.0633067 0.0609627 0.180307 0.152255 -0.0493765 0.0672704 -0.108947 0.155728 0.0502899 -0.171399 -0.0428155 -0.0678742 -0.0190962 -0.109131 -0.0594792 0.0220264 -0.0187228 0.0370362 -0.00404612 -0.0600517 0.0504152 0.0160574 0.169275 -0.0371043 0.044183 0.0547239 0.0781258 0.34322 -0.32266 -0.024586 0.223155 -0.103868 0.098614 0.151141 -0.140787 -0.00646613 0.060444 -0.182282 -0.110143 0.239803 -0.016355 -0.0541419 0.0576638 -0.198465 -0.0375191 0.0332552 0.0188578 0.287668 -0.0401019 -0.0498773 -0.000704783 -0.25463 -0.0407743 -0.0169592 -0.211714 -0.119007 -0.0257438 0.021463 0.0489296 0.0244885 0.0886764 0.0302493 -0.00803581 0.150317 -0.00448532 -0.0442649 -0.0251142 -0.0216704 0.0612702 -0.0657067 -0.0152294 -0.0298136 0.0609981 -0.00924768 -0.0495774 -0.0520933 0.0266666 0.013495 -0.119355 -0.0108916 0.0167659 -0.0729895 0.000112095 -0.00801613 -0.0792825 -0.0492467 0.0347216 0.13269 0.323611 -0.0935425 0.191226 -0.133518 0.190575 -0.242405 0.296489 -0.119769 0.307785 0.16149 -0.296152 -0.282833 0.158456 0.198199 0.00622428 0.255505 0.346534 -0.0596903 -0.181177 -0.18527 -0.0157176 0.0354906 -0.0577229 0.0716309 0.0390677 -0.0549598 0.0755604 -0.0232797 -0.0290165 -0.074635 0.0281271 0.0376994 -0.0621375 0.0162904 0.0171569 -0.149997 0.0653669 0.0656112 0.0307848 -0.0868408 -0.0581566 0.0438824 0.0224138 -0.00140688 -0.038144 0.0243349 0.00628046 -0.00229386 -0.0101782 -0.0340636 0.0465467 0.0172418 -0.0351877 0.0261062 -0.226605 0.0307028 0.0297639 0.0414352 -0.230356 0.17988 -0.226372 -0.108921 0.13731 -0.28802 0.109757 -0.191041 0.0940464 -0.112859 0.310346 0.0776882 -0.182989 0.301423 -0.0931064 -0.149994 0.389869 0.320208 0.236173 -0.0564466 -0.212491 -0.093303 -0.178427 -0.131591 0.0557238 -0.315943 -0.0774467 -0.00608551 -0.126661 0.265021 -0.144733 0.139701 -0.105678 -0.13227 0.121514 -0.107922 -0.125598 -0.101296 -0.00434481 -0.00174905 -0.0367684 0.00158607 -0.000569241 0.0495589 -0.0512165 0.0907181 -0.107367 0.0758928 0.0547722 -0.00775695 0.03697 0.0640388 -0.161176 -0.0620587 0.0742432 -0.12379 0.00992437 -0.0135893 0.00158881 0.0929914 -0.0688437 0.0561754 -0.0404646 0.0920485 -0.0440559 0.0251013 -0.0421164 0.0369245 -0.0450748 0.0104696 -0.00208513 0.0253202 0.136028 -0.224801 0.115344 0.105932 -0.108408 0.0709503 -0.0843289 0.241283 0.166096 -0.238661 0.36658 -0.231249 0.0464563 -0.164863 -0.280611 0.0469877 -0.147527 0.0328014 -0.119805 -0.0710667 0.0392116 0.0384847 -0.0777773 0.0485759 0.0492252 -0.0440365 0.0266699 0.0317194 0.0647291 -0.00689176 -0.100473 0.221743 -0.134865 0.152753 -0.0036045 0.0937347 0.0926869 0.0823704 0.140236 0.118911 -0.244947 -0.137749 0.17277 -0.110436 0.181933 -0.0530751 0.0835507 0.00868155 0.125647 0.054415 0.0727737 0.0330212 0.000423726 -0.0964174 0.0370716 0.0478221 0.0807276 0.142821 -0.000108431 -0.0496959 -0.0791151 -0.0930228 0.0417654 0.0707104 0.0742983 -0.0047106 0.0579748 0.0180541 -0.0423514 0.401861 0.179599 0.0206024 0.0660904 0.0418479 0.0215354 -0.126907 0.0498599 0.0829762 -0.21803 -0.0240267 -0.00566422 -0.00515635 -0.021691 -0.0152632 -0.00364083 -0.0918217 0.019052 0.0363329 -0.00969585 0.169331 0.214683 -0.0176162 -0.0147108 -0.00158761 0.179745 0.0525729 -0.0637242 0.154341 0.120551 0.0697033 -0.166791 0.000460379 0.0629301 -0.0969448 0.200023 -0.0745716 0.0952306 0.00764362 0.12403 -0.221709 -0.301311 -0.259446 -0.0520097 0.0615952 -0.124277 -0.198035 -0.136337 -0.318761 0.0553452 0.132455 0.0812484 0.044324 0.0140481 -0.047714 0.00543379 0.156336 -0.0838988 0.144675 0.194571 -0.0355654 0.32295 -0.16754 0.197609 -0.195762 -0.0773687 0.222241 -0.229532 0.117511 0.0964869 0.0519739 -0.0269375 -0.0279066 -0.0124424 -0.00139015 0.00595245 0.00490938 -0.00863453 0.000416669 -0.0462409 0.183843 0.0320138 -0.0445107 0.0453542 -0.132832 0.221175 -0.225328 -0.0275385 -0.277821 -0.218914 -0.10296 0.189566 0.0698305 -0.158366 0.0683235 -0.179469 0.040409 -0.14316 0.0623053 -0.19755 -0.0535199 -0.156244 -0.1563 -0.104119 -0.059019 -0.126663 -0.0676817 -0.0015376 -0.0411423 0.0209173 0.0616811 0.0532115 0.155077 -0.0194643 -0.0980096 -0.0613079 0.146593 -0.00876691 -0.0679946 0.293023 -0.108982 0.0140984 0.0279595 -0.20643 -0.00186828 -0.0697977 -0.0648317 0.00855055 -0.308974 0.416363 0.123942 -0.0706957 -0.0622565 0.00775127 -0.0302769 -0.00823248 0.0153805 -0.0270068 -0.000492383 0.0206528 0.318572 0.0939136 0.131121 -0.118332 0.156319 -0.135917 0.221521 0.034929 -0.0521815 0.228616 -0.045642 -0.0556503 -0.124934 0.115067 0.00390337 -0.197776 0.146939 -0.00897706 -0.0757609 0.0101649 -0.0711211 -0.133265 -0.0116307 0.051812 0.0987946 0.00937241 -0.099198 -0.091938 -0.185857 0.0739979 0.0745466 0.0182649 -0.0386276 -0.0456119 0.0024937 -0.0459208 -0.10044 -0.065866 -0.0432288 -0.152612 0.0265988 0.177116 -0.266296 -0.0537829 0.0855536 0.143481 -0.0244213 -0.0796863 0.334871 -0.0645554 -0.0857884 0.058872 0.0476655 0.0191352 0.0347224 0.00447726 0.0672211 -0.00218538 -0.03598 -0.038674 -0.00302527 0.027714 0.181495 -0.120705 0.0999846 -0.0566861 0.0407362 0.0645727 -0.0517905 0.0837919 -0.0669036 0.141963 -0.0310564 0.0136648 0.116783 -0.0808737 -0.0184355 -0.15337 0.10835 -0.197694 -0.184687 0.061229 0.241067 0.277459 0.289703 0.279785 -0.0147589 -0.225208 -0.251827 0.0225877 -0.0586293 -0.151835 -0.0583448 -0.0858728 0.00107526 -0.0436843 -0.161172 -0.0161551 0.0715523 0.050883 0.284601 -0.119806 -0.110811 -0.111165 0.0177532 0.0133314 -0.0855666 0.0394786 0.311906 0.0710335 -0.126474 0.0907425 0.0867755 0.035898 0.0470658 0.000438584 0.126046 -0.00246625 -0.0693139 0.0663595 -0.0246894 0.0754972 0.0361698 -0.195062 0.189467 -0.0839062 0.209452 0.00247866 -0.00830728 0.145516 -0.0316624 0.0785997 -0.17659 0.124669 0.152218 -0.180392 0.0394708 -0.0804199 0.131064 -0.262762 0.11853 -0.0289863 -0.221238 -0.225589 -0.206898 -0.232394 0.0222362 0.176982 0.202138 -0.0672273 0.0189585 0.117043 0.0458436 0.0347972 -0.0391541 -0.00310359 0.0867511 0.0157274 -0.235371 -0.0496765 -0.00897212 0.151753 -0.286721 0.156453 0.379945 0.314236 -0.200888 -0.268945 -0.0992036 0.033482 0.0906047 -0.0507844 -0.0366633 -0.0364175 -0.0130289 0.0192642 -0.0149391 -0.0139106 0.020324 -0.230503 0.0355682 -0.0152445 -0.0537743 -0.150796 0.053184 0.0193792 -0.201277 0.0709668 0.138168 0.246579 -0.0471875 -0.0171599 0.11693 -0.00361995 -0.242784 -0.0232979 0.0395459 -0.217076 -0.073062 0.0651813 0.121268 0.0493949 -0.0363751 -0.0757851 -0.124707 -0.0631244 0.0317636 0.107015 0.124243 -0.0377908 -0.0206045 0.0439718 0.0552573 -0.1385 0.142789 -0.0129206 -0.109733 0.116287 0.21632 0.248848 -0.195199 -0.243016 -0.0104368 0.0214475 0.268076 -0.0260468 0.0893796 -0.236371 0.0347766 -0.14165 -0.245415 0.118147 0.0325088 0.280148 -0.0501689 -0.203371 -0.0570586 0.0930585 -0.0594737 0.226294 0.233961 0.0558046 -0.0833948 -0.0240988 0.0295044 -0.232245 -0.160848 0.109033 0.174596 -0.155787 0.0865268 0.0998918 -0.00354197 0.0173345 -0.143743 0.0480081 -0.0380528 -0.141242 -0.018186 0.0303173 -0.0178477 -0.0538592 -0.0278441 0.0101442 0.040695 -0.0159699 -0.0659541 -0.0082366 -0.0798136 0.0742082 0.070399 0.0145206 0.0546497 -0.209329 -0.170768 -0.167453 0.0835362 0.125768 -0.0205743 0.175546 -0.080758 0.0653024 0.154828 0.1474 0.100202 -0.157741 -0.116557 -0.0573876 0.120552 0.0767357 -0.058084 0.0804246 0.116038 0.0407956 0.0964281 0.0371303 0.342021 -0.0750868 -0.148508 -0.0818821 -0.333711 -0.243437 -0.201423 0.00840186 -0.0396973 0.188582 -0.0384172 -0.0714385 0.187038 0.036698 0.082198 -0.137269 -0.0610129 0.0669865 -0.207034 -0.136114 0.0890557 0.151246 0.112699 -0.136711 -0.0386944 -0.10626 0.120864 -0.0312562 0.0903968 -0.0236769 -0.0702216 -0.0783183 -0.112952 0.0936667 0.0746783 0.0445972 0.00604056 -0.249953 0.155351 -0.0175351 0.000766472 0.049079 -0.234868 -0.089991 -0.142297 0.16156 0.00415962 0.0481597 -0.141718 0.0276337 -0.0794721 0.189453 -0.0274757 0.0404224 -0.344501 0.180033 0.113111 0.311026 -0.00454031 -0.188058 0.0576816 0.0904257 -0.126029 -0.291881 0.365952 0.103678 0.038754 0.0728743 -0.0748252 0.113344 -0.0228455 -0.027576 -0.0798715 0.0978129 -0.0459635 -0.132247 0.0807426 -0.0552498 0.0419009 -0.0054369 0.0162935 0.25283 0.0459157 -0.025136 0.0422552 0.0977381 -0.00875039 0.00275557 -0.0567417 0.018609 0.0779057 0.0395433 0.0986772 -0.0607857 -0.0547806 -0.0240662 -0.1431 -0.0598343 -0.232511 0.0559077 0.111854 0.129815 -0.0483336 -0.268544 -0.00292341 0.0319746 0.100378 -0.100543 0.119914 -0.121461 0.0978422 -0.132387 0.0241264 -0.0160758 0.059581 0.030252 0.132317 -0.215414 0.166074 0.211312 0.33725 -0.128853 -0.0898866 0.148923 0.362574 0.27331 0.169353 0.159487 -0.0804089 -0.0411916 0.034961 0.00182406 0.145453 -0.187542 0.104032 0.0349112 -0.0159378 0.0093072 -0.209509 -0.0454498 0.0357263 -0.0178071 0.0172909 -0.0162372 -0.00121492 0.138265 -0.0601767 0.013026 -0.0676607 0.0306283 0.0661028 0.0227271 0.0444961 -0.0864551 -0.0727736 -0.0266707 -0.147528 -0.0821974 -0.13123 0.102682 0.0674182 0.10046 0.199129 0.079605 -0.0367505 -0.145349 -0.257825 0.123449 -0.186172 0.26806 -0.0758763 0.213761 -0.106721 -0.0286706 -0.0310155 0.0610937 0.131469 -0.121929 0.131062 0.135451 0.257392 -0.0832159 -0.0829577 0.259059 0.00303238 0.0243109 -0.0851785 -0.121126 0.0592666 -0.209902 -0.256199 0.150158 -0.201679 0.167075 -0.12659 -0.124665 0.224075 -0.134701 0.0457767 0.0662886 -0.0186741 0.18505 -0.0225318 0.072334 -0.0296414 -0.0317942 0.00666885 -0.0287941 0.0377343 -0.0335312 -0.021412 -0.0384656 -0.0572429 0.0501912 0.046418 0.0261496 0.0474517 -0.145793 -0.0480713 -0.0899825 0.170282 0.172537 -0.2184 0.19482 0.180633 0.127232 -0.111155 -0.30278 0.0400997 0.0827492 0.275375 -0.0402387 -0.142015 -0.227392 -0.0546856 0.0423888 0.058005 0.0959687 0.0307273 -0.0347381 0.150101 -0.0193434 -0.0833292 -0.149831 -0.235337 -0.115036 0.346668 0.0304391 0.00938171 -0.130093 0.141743 0.0279796 -0.129513 -0.139032 -0.0256357 0.183397 0.0850471 -0.0679351 -0.00949928 0.177585 -0.109481 0.0217828 -0.0770305 0.143337 0.0845691 -0.069352 0.0277894 -0.0996944 -0.0380959 -0.0992766 -0.0787758 0.017993 -0.0708248 0.0337235 0.0456095 0.101374 0.202249 0.0792614 -0.00321918 -0.367894 -0.124675 -0.0138717 -0.0944578 0.0172204 0.142809 0.090954 -0.069496 -0.0582052 0.0223411 0.00845108 -0.0157258 -0.0101087 0.12499 0.0559302 0.145623 -0.105365 -0.143509 0.0536992 -0.109936 -0.0803339 -0.120113 0.0176608 0.0605113 0.255184 -0.0628427 0.0836787 0.230164 0.137202 -0.0832273 -0.197933 -0.206278 0.137091 0.0496581 -0.020925 0.0239511 -0.138604 0.172856 -0.104353 -0.192549 -0.0902423 0.0746748 0.421731 0.186291 -0.184225 0.0246048 -0.0195136 -0.0714894 0.0608612 -0.00613333 0.0265584 -0.0313014 0.0731979 0.0496563 -0.0772697 -0.0437164 0.00644568 0.152798 -0.0372293 -0.0716822 -0.341725 0.104293 0.247538 -0.154401 -0.128319 -0.101014 0.110986 0.118721 0.117989 0.0795944 -0.0521544 0.0570934 -0.10375 -0.0432271 -0.172031 0.107947 -0.0620676 -0.0519264 0.0857046 -0.0346321 -0.0671432 0.0645039 -0.022192 -0.0201413 0.38296 0.0264607 0.116147 -0.236356 -0.1422 0.0818219 0.168426 0.0142352 -0.0556368 -0.188878 0.225792 -0.131491 0.169543 -0.157532 0.0901701 0.258415 0.198405 -0.149615 0.0518791 -0.00591622 0.0331155 0.00961237 0.0717382 -0.0379372 0.0195608 -0.0987311 0.0437772 0.0320921 -0.00443816 -0.00916409 -0.0631884 -0.045678 -0.0220389 -0.00774433 -0.0220718 -0.0387798 0.0110827 0.00301259 0.0597537 -0.0603671 -0.00528147 -0.0326049 0.000731122 -0.0243715 0.00797192 0.010254 0.012718 0.0146287 -0.018699 -0.0170307 -0.0379898 -0.00186702 0.0140481 0.0257938 -0.0205387 0.0200543 0.023275 0.0318685 -0.0181635 -0.0132359 0.00403371 -2.61817e-05 -0.00728514 0.0187835 0.00375057 -0.000230777 0.0546091 0.0368225 -0.0333505 -0.0127 0.00816862 -0.0075965 0.033915 -0.0116124 0.00496599 0.0280072 0.0367102 -0.0259778 -0.00971403 -0.0115808 0.015434 -0.12426 -0.254514 -0.222782 0.389853 0.439223 0.127038 -0.00689933 0.281323 0.542542 0.12839 0.233047 0.184865 -0.00745224 -0.0509429 0.00266099 0.0188762 0.107579 0.0287703 -0.116029 0.0631454 0.0883586 0.0476429 0.0699822 0.101226 -0.00780047 -0.223459 -0.267974 0.0241146 0.0488565 0.0636094 -0.0329311 0.0193692 0.0273353 0.0357019 0.0168329 -0.0112014 0.0385912 0.00202678 -0.0288074 0.0893236 -0.0956534 0.000412914 0.254542 0.377117 -0.231048 -0.176316 -0.314596 0.158755 0.0569132 0.162209 -0.0282648 -0.153053 -0.135646 0.0623364 0.370655 0.0522279 -0.0574837 -0.372511 -0.0841375 0.0483589 0.0273443 -0.0230457 -0.00430991 -0.0041908 0.00103164 -0.0162827 -0.0396992 0.0239571 -0.0150731 -0.0180302 -0.000166497 0.0479083 -0.0569729 0.0266116 0.0142762 0.195923 -0.0663821 -0.0971887 0.0918374 -0.0349169 0.0688757 -0.0431494 0.195655 0.0280533 0.113574 -0.113792 0.098231 -0.132235 -0.0478783 -0.124446 -0.0390451 0.0291896 0.0223739 -0.060327 0.0185917 0.0476226 -0.0435563 0.00423718 0.0184096 -0.202325 -0.00039139 -0.0317545 0.0114083 0.160398 -0.0843128 -0.173841 -0.185829 0.111153 -0.329177 0.365055 -0.22242 0.278665 -0.302543 0.181711 -0.273489 -0.00927925 0.00413758 0.276241 0.066804 -0.0483152 -0.00229565 -0.0151561 0.0174384 -0.00515324 0.0386171 -0.012493 -0.0231947 0.009781 -0.00427307 0.00864627 -0.0036975 0.0020729 -0.0308839 -0.104702 0.119473 0.14146 0.26317 -0.364199 -0.158868 -0.0400383 0.0551799 -0.025761 -0.0470116 0.0658028 0.0479139 -0.0666721 0.103579 0.121409 -0.0221031 0.0263382 -0.180783 0.0761457 0.0379213 0.0989822 0.0150249 -0.0347138 -0.0445258 0.081533 -0.0562566 0.435023 -0.199284 0.0448714 0.0128082 0.0226325 -0.00993074 0.14692 0.125023 -0.0836753 -0.132558 0.100654 -0.0715797 -0.027119 0.064656 -0.0342814 -0.338112 -0.120293 0.10165 -0.167327 -0.0678742 0.0510402 0.0280537 0.00320777 -0.0373953 0.120058 -0.024889 0.0990201 -0.134443 0.0828868 -0.0696851 -0.21108 -0.107049 0.129054 0.00603273 -0.0122234 0.0210592 -0.0515058 0.018819 -0.0751768 -0.00199367 0.0168627 0.0546836 -0.0544295 -0.052164 0.0191716 0.0426053 -0.0292336 0.0197995 0.029667 -0.00277508 -0.0104223 -0.00855986 -0.0118931 -0.0211981 0.034356 -0.0196529 -0.0333298 0.0139169 0.0104704 -0.0139029 0.0441876 -0.0528258 -0.00496072 0.0840308 0.0736555 -0.0382893 0.0218102 0.0324498 -0.019379 -0.0450546 0.0604373 -0.034585 -0.0120888 0.0221793 -0.0125904 -0.0943459 -0.0273771 0.0232371 -0.0416573 -0.0147787 0.00247613 -0.206943 0.1236 -0.115065 0.0360142 -0.356386 0.20079 0.499279 -0.3723 0.0787618 0.260502 0.45319 0.156329 -0.0234987 0.016282 -0.0447874 0.0181791 -0.10664 0.0764432 0.103983 0.0615741 -0.0728515 0.0298987 0.044182 -0.0310453 -0.0455617 0.0284182 -0.0264627 -0.0132675 0.0129555 0.0020136 0.0334957 -0.0110548 0.003894 -0.0396778 0.00370162 0.0158791 0.0292602 -0.0298036 0.00502103 -0.186265 0.0171242 -0.0832516 -0.0612501 -0.0573745 0.0302551 -0.0613246 -0.0530568 0.036866 0.0421394 -0.0560587 0.0314005 0.0117369 -0.0282393 0.0158076 0.092393 0.018115 -0.0221803 0.0451927 0.0158566 0.00061275 0.0356851 0.0592439 -0.120458 0.302381 -0.302296 0.350139 -0.17859 0.0707373 -0.208914 -0.389026 0.0189475 0.55972 0.0220812 0.0543256 -0.0340244 -0.222524 -0.158852 0.197216 0.0632149 0.132404 -0.127394 -0.148486 -0.248569 0.224367 -0.167365 0.203408 -0.11161 0.35632 0.0370008 -0.130254 0.107311 -0.0639458 -0.0432201 0.00162104 -0.0426272 -0.0424525 0.0575636 -0.0414248 0.0243095 -0.00362775 0.0946009 -0.0235666 0.195758 0.239592 -0.149358 0.184986 0.116364 -0.0840108 -0.00168097 -0.00227335 0.000238557 0.228655 -0.258077 0.151927 -0.292481 -0.0492322 0.0470033 -0.149419 -0.0727281 0.0646469 0.0297433 0.00709915 0.0127925 -0.00563441 -0.000333626 -0.00759236 -0.0553157 0.035752 -0.0335523 -0.0332114 -0.0473498 -0.010158 0.0231138 0.0247342 -0.0207449 -0.0300649 -0.169208 0.10737 -0.211278 0.0268564 -0.0156797 0.330955 0.26783 -0.171692 -0.165463 -0.0863973 0.0708133 0.370444 0.152109 -0.122046 0.0151142 0.00480639 -0.000833026 -0.0379836 -0.0240165 0.0141859 -0.0195973 -0.0251296 0.0323366 0.00142482 0.023534 0.0199658 -0.207903 -0.241878 0.132463 -0.205701 -0.250186 0.15418 -0.0929582 -0.078281 -0.00412655 -0.0409412 -0.0354941 0.0182997 -0.283646 -0.0916625 0.062708 -0.319045 -0.0793144 0.0646394 0.00376193 -0.000216383 0.00279016 -0.0157417 0.00974566 -0.0179624 0.0379177 -0.00402659 0.0410768 0.0607303 0.0478986 -0.00206091 0.00652284 0.0661253 -0.0551216 -0.0588145 -0.198593 0.190442 0.0870223 0.0621036 -0.0815619 -0.167302 -0.0401846 -0.00848356 0.277579 -0.343779 0.198139 0.0841606 0.168154 -0.0860893 0.0787005 -0.0224842 -0.00598784 -0.0520538 -0.0263029 0.00297907 0.0140386 -0.0564746 0.0499337 -0.144957 0.0954249 -0.0347186 0.0195161 0.0785589 -0.0591262 0.0584039 0.202126 -0.0795919 -0.234349 0.28577 -0.16013 -0.299454 0.359378 -0.220392 -0.0345703 0.034742 -0.0156498 -0.195348 0.00496679 -0.039549 0.0251448 0.00490385 0.0140773 -0.0022751 0.0145806 -0.0079189 -0.0554074 0.0401355 -0.0239896 -0.0265175 -0.0397547 0.0045694 -0.357291 0.116843 0.234071 0.0122142 0.0848068 -0.0899234 0.115133 -0.0878601 0.0632406 -0.00371387 0.0490816 -0.0381275 0.00472093 -0.0211824 0.0141516 0.0169065 -0.0103351 0.0160603 0.282337 -0.360283 -0.201251 0.295624 -0.0594044 -0.360584 0.492486 0.0404791 -0.140874 -0.0768938 -0.00747396 0.00530074 -0.0357729 -0.0330027 0.0237762 -0.0564921 -0.0367465 0.0240387 -0.0167326 -7.68787e-05 -0.00806553 -0.0197744 0.010465 -0.00248106 -0.0374103 0.00523757 0.0122142 -0.0386058 -0.0104393 -0.0114863 -0.0150776 -0.0115009 -0.0104818 0.0216942 0.0430394 0.00290807 -0.0147894 0.0196541 0.024258 -0.0140827 -0.0261319 -0.0207814 0.17634 -0.161595 0.000690123 -0.37686 0.317307 -0.0232144 0.407582 -0.228814 0.136837 -0.0643511 0.0365069 -0.0407271 0.0213308 0.0126155 -0.00498058 0.147776 -0.0763829 0.0446872 -0.0674488 -0.043744 -0.14138 0.00603967 0.178258 0.193881 -0.131137 0.256074 -0.223065 -0.223441 0.0114889 0.00966125 -0.0300628 -0.0286256 0.028827 -0.0840281 -0.0499587 0.0275621 -0.0528108 -0.0513052 -0.0453462 -0.0723649 -0.0101416 0.052582 -0.116038 0.187351 0.00543887 -0.174769 -0.0401863 -0.15119 -0.0357274 -0.0158355 -0.0464461 0.0459036 0.0122406 0.0249745 -0.0050016 0.0151297 0.0344111 -0.0511475 -0.0376127 -0.0521961 0.0692676 -0.0425818 0.0732633 -0.0611465 0.00579287 0.0398274 0.043974 -0.0172637 0.00540495 -0.00807211 -0.00176982 -0.0011443 -0.0268181 -0.0535958 0.0153422 -0.0678674 0.166541 -0.169339 -0.114326 -0.102072 -0.298545 -0.11791 0.0275791 0.169466 0.0456652 0.238019 -0.224222 -0.0318574 0.0129365 0.000761298 -0.0145419 0.00600178 -0.0145963 -0.0158046 0.0139394 0.0081497 0.066141 0.129743 0.0610395 0.0998485 0.0459078 -0.114426 0.142826 -0.522469 0.0234034 0.114449 -0.0469014 0.537345 -0.000529171 -0.00184378 -0.0056527 0.00220965 0.0031668 -0.00269707 -0.00254792 0.00850291 0.00859124 0.00234928 -0.00522332 -0.00902447 -0.0947246 -0.0894647 -0.119958 -0.115221 0.0627419 -0.0529008 0.105335 -0.0596752 0.0437692 -0.020678 0.0148892 -0.0120367 -0.0049751 -0.0162315 0.00434483 -0.00254447 0.0682125 -0.0644823 0.395306 -0.00411804 0.48022 0.369472 0.401695 -0.103717 -0.298008 -0.0742671 0.11032 -0.0539872 -0.00263451 0.00375302 -0.000515041 -0.00921973 0.0150681 -0.0160247 -0.0222766 0.00213414 0.0146756 0.0372334 0.0135101 0.0234881 0.0140664 -0.0312776 0.0312278 -0.2332 0.0214834 0.0277637 -0.0282114 0.231924 -0.0122003 -0.00122047 -0.0142947 0.0120369 -0.00148406 0.00810009 0.00609335 0.00141083 0.0125616 -0.0127785 -0.00757198 -0.0222381 -0.0967354 -0.0971189 0.0621585 0.217744 -0.281942 0.0741119 -0.24962 0.162924 -0.100235 0.0633663 -0.0438939 0.0306735 -0.0228565 -0.00774814 0.00427507 -0.017451 -0.0228963 0.0432185 0.187325 -0.236333 -0.117221 0.0775839 0.443209 0.229258 -0.150601 0.373054 -0.311293 0.119171 0.00807291 -0.0136147 -0.029431 0.0308499 -0.0685408 0.0145161 0.0837599 0.0141788 0.0240198 0.0223845 0.0248547 0.0362669 0.00277557 -0.0254433 -0.0184547 0.18059 -0.0202285 0.0173184 0.0480314 -0.205809 0.0239192 0.0115184 0.0298302 -0.0299003 -0.0111286 -0.0131952 0.00221615 -0.0104696 -0.0263798 0.0342463 0.029334 0.0400542 0.0163154 0.00485491 -0.0131725 -0.0483639 0.0731658 -0.0277222 0.0488193 -0.0453647 0.0371799 0.159291 -0.10641 0.019367 -0.173427 -0.0988312 0.0155227 0.0411109 -0.0496776 0.0385312 -0.0218664 0.0429039 0.0414306 0.00651353 -0.0554664 -0.0416634 0.009486 -0.0619892 0.0533276 -0.0181058 -0.0121952 0.00764097 -0.333385 0.0738649 -0.324857 -0.269978 0.326461 0.216016 0.246411 0.305558 0.229688 0.337265 0.0763715 -0.299487 -0.0424939 0.0934682 0.00104365 -0.0484674 -0.00770739 -0.0922431 -0.00754392 -0.00569899 -0.0119552 0.00757671 0.00177081 0.00182358 0.00476617 0.000726121 0.011572 -0.00344077 0.00183324 -0.00483649 -0.000498713 0.00194093 0.00154223 -0.00399185 -0.00054803 -0.00625845 -0.015937 -0.00571232 0.00663482 0.162867 -0.146374 0.0519291 0.176912 0.137639 -0.0397264 -0.0440666 0.037857 -0.0301914 0.0035808 -0.00248466 -0.00117829 0.00361899 -0.00222195 -0.00463544 0.00255712 -0.00107563 0.000921952 0.020715 -0.0076612 0.00725791 -0.31148 0.0978449 -0.341374 -0.231353 0.361495 0.202655 -0.22012 -0.330124 -0.22156 -0.319359 -0.0972165 0.313907 0.0466595 -0.105463 0.00231359 0.0495422 0.00198143 0.106901 -0.00160375 -0.00297936 -0.00553729 0.00137813 0.000650577 -0.00237951 0.00425346 0.00185369 0.00897967 0.00589308 0.00681514 0.0020868 -0.00669987 -0.00554899 -0.0094562 0.0406188 -0.0094875 0.036544 -0.00392985 0.0169325 0.00461526 -8.56025e-05 -0.0013905 -0.000276008 0.000225027 -0.000900456 0.000867566 -0.00527821 -0.00403656 -0.00656682 -0.000591859 -0.00166726 0.000564563 -0.00222892 -0.00132667 0.000549414 0.00938124 -0.00308064 -0.0079154 0.00147742 -0.00502777 -0.00745664 5.24839e-05 -0.000371734 -0.000507983 -0.00022645 0.000258334 -7.68285e-05 -0.000983451 0.000214724 -0.000237212 -0.000347811 6.28542e-05 -0.000635981 -0.00301448 -0.00133612 0.0050556 -0.00286027 -0.00341629 0.00103641 0.143713 -0.126765 0.108137 0.104594 -0.0445271 -0.0873628 -0.0710584 -0.105094 0.0736093 -0.599226 0.603394 -0.426027 -0.00106213 -0.00116451 -0.00153083 0.00627224 0.00877215 0.00990227 0.00143133 0.00150505 0.00136326 0.00080508 0.00107509 0.000910922 9.01079e-06 -0.000124903 0.000223884 -0.00097067 -0.000999089 -0.00180431 0.000341677 0.000573217 -0.000488207 0.000489753 -0.000706966 0.000184617 0.00193904 -0.00119392 -0.0016029 0.000964627 -0.000601125 0.00174665 0.00057414 -0.00220276 -0.00145137 -0.000533603 0.000627749 0.00112058 -0.000259819 -0.000194084 -0.000155524 -0.000155484 8.44079e-05 1.16954e-05 0.000209082 -0.000204464 0.00325325 -0.00106151 -0.00148581 0.000549434 0.035149 -0.22959 -0.0448308 -0.433618 0.175337 0.486603 0.401751 0.46028 -0.290418 -0.110239 0.104177 -0.0810964 0.00034241 0.000398173 0.000296109 -0.00132507 5.48965e-05 0.00126404 -0.000335479 -0.000980756 0.000509907 0.0003081 0.000640633 0.00119868 -3.37212e-05 0.000116309 0.000297044 -0.000437439 -0.000147812 -0.000463987 -0.000649453 0.000464434 0.000894324 -0.000113581 -0.00011077 -5.01348e-05 -0.000683756 0.000399793 0.000568599 0.000224271 0.00264461 -0.0014807 0.00104046 -0.0025135 -0.0022578 -0.00124307 0.000655567 -0.000621133 -3.34399e-05 -0.000177409 -0.00012606 -0.000199856 -0.000398689 -0.000493728 0.000308348 -0.00123523 0.00114221 -6.37878e-05 -0.00136402 0.000327733 0.246318 0.083642 -0.230239 -0.430248 0.169265 0.47566 -0.391885 -0.447301 0.288643 0.00711544 0.000419851 -0.00499243 0.132712 -0.0785267 -0.093601 -0.00864676 0.00199697 0.00331337 -0.000452723 0.000942529 -0.000165036 -0.000276909 0.000202466 -0.000109932 -0.000240242 -0.000179384 0.000105184 -0.000455704 -5.57283e-05 0.000183508 -0.249272 -0.399953 0.218804 -0.326799 0.238476 -0.36246 0.153542 0.419925 0.449914 -0.000573177 -0.00173776 0.00296332 0.000482233 -0.000917575 -0.00088811 0.000339218 2.09213e-05 0.000820759 0.00063573 -9.71775e-06 -0.000963192 0.000210518 0.000569563 0.000540721 0.00010565 0.000177158 -0.000393459 -0.000313448 0.00112953 0.000293651 -9.58781e-05 -0.000312294 0.000489748 -0.000375529 0.000157381 0.000494511 0.000657053 0.000775282 -0.000530872 -0.00130646 0.00324267 0.00112797 -2.0101e-05 -7.2121e-05 0.000232894 0.000774235 0.00134358 -0.00127014 0.00516502 -0.00411714 0.00391197 -0.148059 0.0974798 -0.0482798 0.124455 0.0938813 -0.00694805 0.00641936 -0.027551 0.0191692 -2.04595e-05 0.00027032 -8.65362e-06 9.40152e-05 -0.000157823 -3.48855e-05 -5.80154e-05 -0.000201623 -0.000209936 0.00362142 0.00957485 -0.014908 0.162235 -0.328308 -0.296767 0.308842 0.000483639 0.46112 -0.242974 -0.00806879 0.336734 -0.15438 -0.315866 -0.307839 -0.0177663 -0.0159927 -0.0852666 -0.0239946 0.102207 0.0214674 0.000486295 0.000324854 0.0005077 0.00149074 -0.000147714 -0.00082102 -0.000114766 6.2814e-05 -0.000196905 0.000256266 -0.000111152 -0.000510875 0.000474661 0.000380983 0.000162679 0.000452134 0.0029161 -0.00316168 -0.00313825 0.00304239 -0.00402838 0.110855 -0.0856329 0.0372485 0.09837 0.0919927 -0.0106355 0.0475595 -0.106456 0.0871676 -0.000485687 -0.000683104 0.000493909 -0.000629797 0.000385508 -0.000573578 -6.7432e-05 3.7847e-06 -0.000120368 -0.00460162 -0.00875106 0.0153383 -0.129024 0.25823 0.236493 -0.233846 -0.00111322 -0.351871 -0.201763 -0.00654576 0.281337 -0.133751 -0.266391 -0.264833 -0.0722944 -0.0712107 -0.374078 -0.100857 0.416913 0.0911466 0.000538903 -0.000591117 -0.000480936 -0.00217062 0.00023687 0.00165484 0.000405997 0.000508114 -0.000129905 -0.000743027 0.00375907 -0.00144925 -4.32865e-05 0.0008283 0.000554372 0.00427223 0.00405555 -0.00442052 0.00200306 -0.0017054 0.00329552 -0.0597857 0.0488888 -0.0192663 -0.106792 -0.0852044 -0.000198723 0.0733491 -0.134513 0.121618 -0.000100691 0.000196132 7.46801e-05 0.000171536 -0.000347189 0.000500956 -0.000554584 -0.00148757 -0.00175817 0.00377441 0.009098 -0.0157855 0.0705538 -0.140304 -0.12927 0.122009 0.00135326 0.183754 0.190356 0.00462309 -0.266381 0.131173 0.271494 0.265875 -0.0939297 -0.0959675 -0.503131 -0.127088 0.525774 0.117118 0.00161507 -0.000272641 0.000167556 -0.000796153 -6.47516e-06 0.000826692 -0.000191203 0.000181515 -0.000319381 -0.000709466 0.00453103 -0.00242472 0.00033742 0.000614813 -0.000501451 -0.00146117 0.0028943 -0.00134344 -0.0110038 -0.0268425 0.0520878 -0.0211371 -0.128439 -0.249958 -0.0297632 0.0484281 0.124112 0.00196716 -0.0228297 -0.022472 -0.00126932 -0.00199647 0.00112375 0.000343886 -0.000253425 0.000332582 -2.19955e-05 -0.000302053 -0.000328817 0.0400888 0.0842879 -0.164193 -0.224291 0.440052 0.394913 0.304537 -0.00224852 0.45075 0.182565 0.0073108 -0.249193 -0.0830105 -0.166283 -0.165607 0.0106683 0.0113983 0.0608125 -0.0151324 0.0640711 0.0135533 -0.000189323 -0.000116165 -0.00161247 -0.00272265 0.000565186 0.00144411 -0.000155424 -0.000204745 0.000342842 -0.000368542 -0.000831862 -0.000306752 0.00802373 0.00655476 0.0109336 0.00687433 -0.0120027 0.00369297 0.0581429 0.135083 -0.24856 -0.0190346 -0.0292027 -0.0567451 -0.00570612 0.00231969 0.0127524 0.00122023 0.0128572 0.0183737 -0.00566402 -0.00893499 0.00514085 -0.0157006 0.011893 -0.0165091 -0.00879491 -0.0238652 -0.0255525 -0.202669 -0.413038 0.807305 -0.0472645 0.0911939 0.0809816 0.0857761 -0.000303007 0.122848 0.0203954 0.000409772 -0.0278048 -0.00619585 -0.0111516 -0.012112 -0.0102641 -0.00936112 -0.0512415 0.00901015 -0.0378205 -0.00824115 0.00381457 -0.000888648 0.0034303 -0.000232674 -0.000410856 0.00205626 -0.00265027 -0.00151732 0.00195867 0.000733971 0.00713014 0.00493348 0.00815924 0.0086541 0.00720829 0.00142911 -0.000344143 0.00117494 0.00607057 0.0136636 -0.0260947 0.00531155 0.0511092 0.0926624 -0.0402373 0.0666744 0.170374 0.00556916 -0.158336 -0.172469 -0.0102958 -0.0158933 0.00909499 -0.00979215 0.00745235 -0.0107461 -0.00802759 -0.021496 -0.022974 -0.0199539 -0.0416926 0.0804346 0.0886469 -0.175157 -0.154261 -0.111349 0.00165278 -0.166152 0.249553 0.0124097 -0.343784 -0.115747 -0.240379 -0.230957 0.0932038 0.0883093 0.489704 -0.109636 0.450001 0.0955729 -0.000544394 0.000540186 0.00047025 0.00175614 -0.000331418 -0.00123328 -0.000263313 -0.000157723 0.000325595 0.000964909 -0.00244156 0.00212552 0.120018 0.0903762 0.128041 -0.00239618 0.00168332 0.00110361 -0.00122911 -0.00231529 0.00450138 -0.0045491 -0.0302672 -0.0562093 0.0342386 -0.0650276 -0.159835 0.00125957 -0.105088 -0.119242 -0.101077 -0.16301 0.0926313 -0.195903 0.147603 -0.217948 -0.109981 -0.299076 -0.318244 0.00257719 0.0061851 -0.0132188 -0.0536257 0.106039 0.0924773 0.0689926 -0.00105664 0.102958 -0.232201 -0.0103249 0.317998 0.119788 0.237344 0.229792 0.0687599 0.0608368 0.346278 -0.0741879 0.300092 0.0642125 -0.000208624 3.71215e-05 -0.000834626 -0.000614708 -0.000115499 0.000259207 -0.000451735 -0.000313839 0.000701033 0.000434378 -0.00273168 0.000349588 -0.147874 -0.107658 -0.160907 0.00153991 -0.00218141 -0.000930295 0.0035898 0.00714126 -0.013459 -0.00454324 -0.0238254 -0.0443492 0.0251145 -0.0487951 -0.119158 0.0021148 -0.0935981 -0.104665 0.118522 0.192416 -0.109083 0.24753 -0.18627 0.275455 0.134847 0.368109 0.391573 -0.011404 -0.0222639 0.043561 -0.0415815 0.082397 0.0718599 0.0552937 -0.000796424 0.082336 -0.172708 -0.00764584 0.236489 0.0902458 0.178236 0.172544 0.0597372 0.0534466 0.303266 -0.0659865 0.267593 0.0570912 6.34584e-06 0.000550247 0.000184194 1.25989e-05 0.000397725 0.000245122 -0.000765343 -0.000502261 0.000833358 0.000320867 0.000551402 0.00275161 -0.00755579 -0.258489 0.185265 0.000354887 0.000514204 -0.000943742 -0.000899243 0.000160323 0.000961625 7.34726e-06 -7.97109e-06 -0.000338529 -6.77542e-05 1.09862e-05 -0.000106882 0.000934489 -0.00350381 -0.00402443 0.352754 0.567482 -0.310441 -0.353032 0.258869 -0.393534 0.0240959 0.0609176 0.0707802 0.000340854 0.00102501 -0.00204185 -0.000234722 0.000470679 0.00039113 0.000212556 4.35693e-06 0.000423907 7.76918e-05 3.90718e-05 -7.43689e-05 0.000276785 0.000371845 0.000376061 0.00209166 0.00205484 0.00921079 -0.00210919 0.00914094 0.00189774 0.00046706 -8.65402e-05 -1.60126e-05 0.000113451 -2.72358e-05 -0.00020339 -0.000257912 -0.000287758 8.76304e-05 -0.000964276 0.00151419 -0.000448392</matrix>
+<array dataType="xsd:decimal" title="invalid" size="60">A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A</array>
+<array dataType="xsd:decimal" title="Intensity" size="60">3.89632 0.02987 0.0987 0.04774 0 5e-05 0.00103 0.04007 0.10795 0.0064 0.10419 0.18775 0.20699 0.3046 0.62861 0.38584 0.01515 0.03125 0.04934 0.06708 0.0396 0.15911 0.04825 0.01342 0.01042 0.39693 0.82346 0.0738 0.11524 0.32901 0.30818 2.82997 0.00262 0.01805 0.02518 0.59315 0.02933 0.02762 0.07725 0.04277 0.03516 0.23237 0.00364 0.09477 0.03364 0.00748 0.0055 0.81471 0.46379 0.46071 0.00984 0.02824 0.0504 0.04038 0.01062 0.1491 0.04947 0.01568 0.01825 0.03348</array>
+<array dataType="xsd:decimal" title="Reduced Mass" size="60">1.84924 3.04532 2.86063 2.97073 4.80512 4.81277 4.80934 1.74374 1.87055 1.05021 2.1454 2.22212 2.27975 1.71905 1.9183 3.393 2.1756 1.88895 1.82476 1.87862 1.58827 1.46865 2.17218 1.67828 1.41503 1.35222 1.3657 1.57443 1.86381 1.33894 1.52579 1.16199 1.21755 1.21061 1.42669 1.10356 1.07421 1.91766 1.90341 1.61904 1.29479 2.14305 1.09235 1.08554 1.3317 1.10688 1.11744 1.05879 1.06308 1.13449 1.03885 1.0657 1.06691 1.06984 1.11233 1.0972 1.11189 1.10858 1.10833 1.11073</array>
+</NormalModes>
+<OrbitalSet Type="Optimized" wavefunction="RHF" NumberAlpha="37" AlphaOccupied="27" NumberBasisFunctions="48">
+<matrix dataType="xsd:decimal" title="Vectors" columns="37" rows="48">-0.001955 -0.005384 -0.003391 0.001337 0.001639 0.992274 0.034863 0.000955 -0.001457 3.9e-05 0.002306 -0.005932 0.00217 -0.003591 0.000808 -0.000347 0.000105 3.6e-05 -7.4e-05 6e-05 -0.00046 7.6e-05 9e-05 7.6e-05 -0.000204 -0.001882 -0.005445 0.002176 0.002428 -0.002316 7e-05 -2.2e-05 -0.000118 7.7e-05 3e-06 -2.5e-05 -0.000105 -7e-06 4.9e-05 3.3e-05 0.0003 -0.002088 -0.00012 -0.002466 -0.001088 -2e-05 -2e-06 -0.001594 -0.991939 -0.037867 -0.000138 -0.000109 -0.000103 -0.002915 0.005661 -0.003691 0.001374 0.001934 0.000217 -0.000121 0.000103 2.4e-05 -0.000148 5.2e-05 1.8e-05 -1.9e-05 6e-06 -2.9e-05 1.5e-05 1.5e-05 -9e-06 -1.9e-05 -1.5e-05 0.001379 -9.9e-05 6.2e-05 -8.9e-05 -5.6e-05 0.006952 0.006953 0.006999 0.000117 -6e-06 7e-06 -6e-06 -7e-06 -4.3e-05 0.000159 -2e-06 -0.000113 -1.7e-05 -6.7e-05 6.6e-05 4.6e-05 -6.4e-05 0.000229 0.001381 0.000221 3.3e-05 6.9e-05 -7.1e-05 0.002872 -0.005611 -0.002249 -0.0027 0.00247 -0.000913 0.000124 -2e-05 1.3e-05 4.8e-05 -0.001245 0.0001 9.6e-05 7.8e-05 5.3e-05 -0.007687 -0.005811 0.003879 -0.000947 0.001011 0.991933 0.037245 -0.000366 -5.1e-05 7.9e-05 -6.2e-05 -8.6e-05 5e-06 -6.6e-05 1.8e-05 -6.3e-05 0.000171 0.000134 -0.006987 -0.00701 2.3e-05 -2.8e-05 -8.4e-05 -8.3e-05 4.7e-05 2.8e-05 -6.3e-05 5.6e-05 -2.6e-05 3e-05 7e-06 -8e-06 -4e-05 -0.000561 -4.1e-05 0.000153 1e-06 5.9e-05 0.001976 -0.000201 -0.000134 8.8e-05 -3e-06 0.027263 0.006537 0.000129 0.003723 -0.001752 -0.991551 -0.037213 -0.000133 -0.000256 -0.000149 -0.008656 0.005289 0.003999 -0.000807 0.000936 1e-06 1.5e-05 -2e-06 4.5e-05 -0.000288 -0.000324 0.006989 0.007052 -3.4e-05 -8e-05 5e-06 -3.2e-05 -4e-06 -1.5e-05 1.5e-05 1.9e-05 3e-06 3.5e-05 5.7e-05 -3.4e-05 -2.2e-05 3.2e-05 9e-06 0.000455 0.000257 4.1e-05 -7.1e-05 6e-05 -0.013099 -0.006182 -0.004059 -0.000728 0.000904 0.991508 0.037088 -2.4e-05 -0.000197 0.000211 0.02824 -0.004526 -3.5e-05 0.003764 -0.00177 0.001532 -2e-06 -7.1e-05 0.000134 -1.4e-05 -2.1e-05 -2e-06 2e-06 0.000209 -0.006962 -0.007008 -7.1e-05 -9.8e-05 -3e-06 -8e-05 2e-05 8.5e-05 -7e-06 -8e-05 6.2e-05 -4.1e-05 -6.7e-05 2.5e-05 -0.000235 -0.000219 -6.2e-05 4.4e-05 -8e-06 0.001725 0.006708 0.002869 -0.002897 0.002192 -0.991818 -0.037435 0.00168 -0.001571 0.001056 -0.014028 0.005031 -0.003963 -0.000608 0.000944 -0.002416 -0.000114 -0.000162 -2.1e-05 9.5e-05 -0.001023 -0.000145 8.8e-05 -0.000116 -4.7e-05 4.9e-05 6.6e-05 9e-06 0.006816 8.1e-05 5.3e-05 9.5e-05 2.3e-05 -3.5e-05 6.9e-05 -0.000519 0.005042 0.002434 0.001014 0.002978 -0.000491 -0.00054 -0.000371 2.4e-05 9.7e-05 -5.9e-05 8.3e-05 4.5e-05 0.000373 -0.002967 0.000443 0.002256 0.0012 0.000479 -0.005047 0.001727 0.002231 0.002682 6e-05 -2.7e-05 0.00025 -2.3e-05 0.000213 -6e-06 9.6e-05 -3e-05 1e-06 1.7e-05 5.4e-05 -5.7e-05 -9e-05 0.000345 -3.6e-05 -0.000379 0.000108 -6.5e-05 -0.00027 -0.000304 -0.000107 5e-06 -3.6e-05 -0.00027 -0.000118 0.989604 0.043943 -0.000309 0.002818 0.000714 -0.007155 -0.007173 -0.007504 0.062531 -0.16743 -0.042339 0.014167 0.019822 0.146141 -0.390825 -0.054599 0.028588 -0.003331 0.114195 -0.289021 0.025571 -0.069489 0.044984 0.075349 -0.194532 0.042014 -0.022863 0.004502 0.076209 -0.197064 0.040698 0.018789 -0.00885 0.100026 -0.262787 0.00397 0.043162 -0.039428 -0.031433 -0.030816 -0.033142 -0.050081 -0.033554 -0.033842 -0.033904 -0.037615 -0.049223 -0.049136 0.034859 -0.048022 -0.008032 -0.025986 -0.016143 -0.01304 -0.011011 -0.032082 -0.142283 0.397881 0.03471 -0.013963 -0.014935 -0.088287 0.253371 -0.097606 -0.007411 0.054201 -0.008783 0.024729 -0.089006 0.014926 0.00248 0.097921 -0.269927 -0.005234 -0.046453 0.021348 0.123373 -0.342233 0.013816 0.025439 -0.012511 0.04684 -0.129133 -0.081616 -0.001682 0.007207 0.099104 0.09714 0.099788 0.01263 -0.062466 -0.065064 -0.082949 -0.084457 -0.030926 -0.025613 -0.01792 0.028353 -0.006742 0.017628 0.00841 0.002025 0.009512 0.030702 -0.053148 0.151921 -0.000665 0.021559 -0.010368 0.004503 -0.009437 -0.053217 0.162341 -0.072955 0.137515 -0.384173 -0.004598 -0.018391 0.014244 0.086317 -0.246062 0.051884 0.046716 -0.033986 -0.067208 0.191502 -0.051276 0.069305 -0.040021 -0.141795 0.409688 0.009981 0.024846 -0.004811 0.03073 0.05207 0.047133 -0.105374 -0.063857 -0.068174 0.055797 0.055344 0.113311 0.128192 0.035197 -0.05898 -0.019366 -0.014318 -0.027458 -0.018533 -0.019058 -0.0088 -0.141014 0.41239 -0.04398 0.020649 0.028243 0.063251 -0.192514 -0.142471 0.053368 0.070479 0.045441 -0.125027 0.095644 -0.035087 0.033941 -0.106066 0.308678 0.056899 0.030171 -0.011333 -0.07868 0.230578 0.070764 -0.048902 0.034665 0.080706 -0.237045 0.066722 0.018733 0.001055 0.128564 0.13003 0.134299 -0.026671 0.092263 0.102935 0.075021 0.075527 -0.07846 -0.066597 0.032529 -0.056124 -0.007304 -0.026872 -0.012932 -0.015611 -0.013951 -0.033916 -0.008403 0.026292 -0.014008 0.055785 -0.017661 0.019245 -0.058374 0.003135 0.159292 -0.095247 0.026245 -0.075054 0.16928 -0.028133 0.001713 -0.111209 0.344217 0.029812 -0.123704 0.052659 0.127704 -0.398104 -0.088626 -0.107062 0.027043 -0.076776 0.241036 -0.150885 0.036537 -0.041123 -0.019548 0.038774 0.02332 -0.039228 0.151196 0.153857 -0.182004 -0.186943 0.117121 0.12275 0.033101 -0.063356 0.007958 -0.019057 -0.025888 -0.009178 -0.030407 -0.027661 -0.027299 0.086681 -0.09802 0.041512 0.126949 0.098828 -0.340965 0.056777 -0.032107 0.117229 -0.109942 0.358896 0.027864 -0.105287 0.203294 0.036362 -0.115547 -0.118207 -0.043013 0.090472 0.005882 -0.019754 -0.065369 0.112796 -0.035522 -0.051978 0.168508 0.086421 0.171417 -0.076177 0.083216 0.029194 0.100201 0.284726 -0.08792 -0.035022 -0.0118 0.015246 0.078921 0.15519 0.044033 -0.094103 0.031873 -0.065372 0.042054 -0.039898 -0.012949 -0.144857 0.013404 -0.042058 0.157116 0.054734 0.023765 -0.067784 0.23577 0.109589 0.141521 0.124221 0.004523 -0.014951 0.042816 0.182287 0.07119 0.002523 -0.009074 -0.038307 0.102154 0.0837 0.000838 -0.001718 -0.044375 0.008404 0.146812 0.020009 -0.064677 -0.020639 -0.018172 0.238655 -0.097774 -0.080608 0.052243 -0.029368 -0.099805 0.029051 -0.102397 0.062468 -0.190024 0.000996 0.140591 -0.313661 0.007403 -0.032355 0.000325 -0.147664 -0.141611 -0.189828 0.027028 -0.091401 0.200883 -0.099953 -0.142782 -0.037631 0.140237 -0.264055 0.068757 0.070396 0.013386 -0.041854 -0.098419 -0.118027 0.180384 -0.011408 0.035128 0.207747 -0.051182 0.141694 1.2e-05 -0.004766 0.176484 0.133963 0.071309 0.004047 -0.014897 -0.124654 0.220305 0.015829 -0.092135 -0.088099 -0.127907 0.144144 0.030131 0.194001 0.035554 0.154618 -0.026892 0.180016 -0.022512 0.051718 -0.061614 -0.002992 0.018035 -0.010977 0.05626 0.075299 -0.004367 0.013181 -0.198281 0.122885 -0.099892 0.04056 -0.145252 0.079464 0.015387 -0.14661 -0.002768 0.011971 0.09232 -0.039269 -0.080675 0.005686 -0.018474 -0.094964 0.085813 0.139906 -0.001121 0.004945 -0.089533 0.125233 0.292369 0.002404 -0.009512 0.009572 0.079767 0.20865 -0.023652 0.203192 -0.021344 -0.048896 -0.145607 0.045012 -0.231118 0.20591 -0.172275 0.096804 -0.093081 0.218735 -0.009454 -0.005372 -0.031159 0.121369 0.112654 0.127007 0.002648 -0.008759 0.089998 0.413363 -0.243844 -0.005619 0.023725 -0.034189 0.15504 -0.070667 -0.033838 0.125639 0.052203 -0.115441 0.063213 0.017875 -0.060807 -0.075917 -0.072985 -0.100912 -0.01506 0.050389 0.101097 -0.011299 -0.143257 0.022645 -0.079093 -0.060623 -0.058223 0.04016 -0.39147 0.243395 0.1026 0.129176 0.046123 -0.13163 0.16965 -0.037181 -0.049769 -0.053124 -0.001832 0.00646 0.039459 -0.022559 -0.003922 0.029019 -0.005576 -0.02212 -0.003225 0.01184 -0.229633 -0.154341 -0.352871 -0.011331 0.045086 -0.041736 0.006303 -0.075496 -0.016347 0.056534 0.036703 0.012883 0.115532 0.004349 -0.013679 -0.031193 0.102808 0.1323 -0.006405 0.023157 0.004391 -0.036819 -0.000804 0.000193 0.000461 -0.018712 -0.166895 -0.125703 0.069511 0.268048 -0.357892 0.095256 -0.147124 0.073105 0.012261 -0.012774 0.126095 -0.164299 0.081111 -0.194084 -0.026075 0.041837 0.019281 -0.144453 -0.110774 -0.0223 0.001357 -0.005949 0.11142 0.191903 0.189205 0.006144 -0.019435 0.039555 0.012994 -0.062563 0.010817 -0.04147 -0.007314 0.008292 0.091806 0.006242 -0.022239 0.068449 0.177714 0.279014 -0.001209 0.003399 0.054622 -0.01485 0.07772 0.001115 -0.005873 -0.061445 -0.238699 -0.243155 -0.107813 -0.097997 0.259124 0.048754 -0.240988 0.231771 -0.025171 0.055699 0.255538 -0.239131 -0.029598 0.070563 -0.038195 0.011076 -0.04159 0.033261 0.040177 0.09235 -0.006036 0.023034 0.177105 -0.183745 -0.006475 0.010401 -0.023438 -0.208254 0.29532 -0.036946 0.022629 -0.069678 0.160219 -0.194734 0.22934 -0.003074 0.016602 -0.125145 0.082152 -0.068214 -0.025458 0.100946 -0.260826 -0.136177 -0.009024 -0.014237 0.062733 0.149714 -0.192717 0.146325 0.067574 -0.169711 -0.069444 0.206236 -0.04431 -0.110582 -0.095318 -0.134942 -0.098168 -0.159448 -0.041054 0.106819 -0.065329 -0.097065 -0.046899 0.085821 0.144355 0.074783 -0.002218 0.009024 -0.003586 -0.140404 0.121346 -0.016363 0.072068 0.020384 0.190837 -0.214345 -0.019673 0.080758 0.220002 -0.124427 -0.031609 0.016776 -0.064448 -0.162043 -0.257807 -0.022626 0.008259 -0.041299 0.219174 0.285748 0.094334 0.010019 -0.038371 -0.231696 -0.18004 -0.004509 0.159974 -0.142706 -0.006621 0.031394 0.105113 -0.136156 0.041993 0.316821 0.060899 -0.149037 0.028215 -0.065377 0.116747 0.035468 -0.067549 0.059852 -0.148099 -0.022346 -0.016679 0.064517 0.248237 -0.030407 -0.137788 0.017487 -0.071353 -0.312234 -0.085879 0.211188 -0.020652 0.089149 0.213046 0.071143 -0.150005 -0.025884 0.104496 -0.326174 0.121164 -0.064235 -0.006236 0.025643 -0.009968 -0.04652 0.169549 0.026265 -0.104157 0.039897 0.186923 -0.30562 -0.137674 -0.039459 -0.02983 -0.171249 -0.104916 -0.191255 -0.134027 0.092863 0.212076 0.067055 0.005109 -0.010869 0.047254 0.023852 -0.039625 0.045036 -0.072315 0.009152 0.003976 -0.015069 -0.050798 -0.091273 0.068904 0.003174 -0.009341 0.05815 0.109528 -0.061993 -0.015337 0.063754 0.214551 0.073982 -0.024207 -0.00561 0.02699 -0.199389 0.193146 0.161444 0.004116 -0.018671 0.27143 -0.199485 -0.220477 0.017676 -0.072017 -0.256341 0.162622 0.10689 0.120973 -0.062209 -0.02898 -0.061471 -0.285543 0.031741 0.337196 -0.207288 -0.120983 0.211312 -0.024104 0.061479 -0.001319 -0.023672 -0.073721 0.082658 0.028741 0.052024 -0.009655 0.037778 0.094079 -0.015928 -0.071655 -0.013375 0.054222 -0.072754 -0.035566 0.087835 0.002818 -0.007824 0.173064 0.083248 -0.106724 0.005423 -0.027508 -0.075568 -0.280908 0.337848 0.009222 -0.038198 -0.184711 0.314116 -0.311926 -0.002679 0.016242 0.324834 -0.018651 0.046321 -0.058487 -0.002985 -0.022761 -0.181233 -0.05135 0.235407 0.138092 -0.07705 -0.091258 -0.083215 -0.00833 0.021851 0.021488 0.029201 -0.066411 0.06049 -0.049764 0.047905 -0.00647 0.025658 -0.013281 -0.046614 -0.069627 -0.007208 0.024003 0.049654 0.025084 0.147283 0.008531 -0.03382 -0.15669 0.038585 0.091845 0.01734 -0.068742 0.172073 0.092899 -0.005613 -0.001437 0.008044 -0.019556 -0.066187 0.025324 -0.002804 0.012135 0.024941 -0.00144 -0.005083 0.013041 0.055584 -0.093551 0.082282 -0.00192 0.074172 -0.033698 -0.034528 0.022193 -0.002399 -0.020272 0.050362 0.354058 -0.052549 -0.284985 0.516953 -0.26331 -0.167626 -0.009159 0.038111 0.014904 -0.057858 -0.099599 -0.020558 0.072941 0.097951 0.128399 0.164604 0.001664 0.00697 -0.004699 0.06276 -0.135395 0.00396 -0.01686 -0.002862 -0.03967 0.053304 0.011269 -0.047267 0.083547 0.064109 0.007525 -0.005569 0.021652 -0.080867 -0.095726 -0.080145 0.022701 0.051366 -0.118794 -0.16339 -0.006994 0.039839 0.030749 0.065301 0.118244 -0.101436 -0.034861 0.094482 0.034272 -0.378146 0.182804 0.074743 0.416761 -0.42735 -0.011412 0.048073 0.093221 -0.022534 0.012617 0.00565 -0.030006 -0.223062 -0.024877 -0.258657 -0.013578 0.06528 -0.112406 -0.451379 -0.341557 0.002788 -0.00625 0.044496 0.123651 0.098402 -0.016736 0.070331 -0.068117 -0.094606 -0.01287 -0.009845 0.045501 0.025807 -0.015215 0.072519 -0.002711 -0.091197 0.048228 -0.039987 -0.191263 0.144631 -0.013051 -0.08333 -0.10063 0.02464 0.004442 0.013374 0.267456 0.076988 0.259585 -0.072352 -0.131655 -0.24576 0.006634 -0.030998 -0.081109 0.00402 -0.001571 -0.057519 0.286636 -0.347969 -0.49321 -0.628946 0.036698 -0.19572 0.074317 0.340205 0.271337 -0.015694 0.074079 -0.097046 0.013054 0.025869 -0.005597 0.027527 -0.067897 0.054991 -0.046035 0.008094 -0.034738 -0.001397 0.015092 -0.094949 -0.071201 -0.10254 0.19141 0.12708 0.077755 -0.062005 -0.022068 0.011084 -0.188052 0.11919 0.044212 -0.171614 0.020095 -0.161916 -0.034923 0.184452 0.172556 -0.354975 0.02643 -0.153211 -0.146674 -0.123215 0.20316 0.039843 -0.217889 -0.322937 -0.356377 0.404463 0.037967 -0.204622 -0.302797 -0.162784 0.23034 -0.005341 0.029716 -0.390868 -0.331482 0.284797 -0.041128 0.211745 -0.262025 -0.234004 0.169173 -0.034627 0.188379 -0.529058 -0.318389 0.345807 -0.241403 0.218179 0.062973 -0.275671 0.072035 -0.034966 0.249521 0.023737 0.093142 0.025646 -0.003369 0.017197 -0.101856 0.00544 0.091536 0.143842 -0.123688 -0.03423 0.055001 -0.313454 -0.367446 0.289834 0.150841 -0.050044 0.298617 -0.291452 0.418915 0.017253 0.010286 -0.026584 -0.097771 0.181234 0.290089 -0.036388 0.200431 -0.067221 0.308205 0.168752 -0.01405 0.087442 -0.206765 0.357648 0.087481 0.028886 -0.148411 -0.088921 0.454883 0.027221 0.170582 -0.111161 -0.060115 -0.214711 0.282516 -0.231735 0.155262 -0.31539 0.197493 -0.438786 -0.046404 0.202821 0.225432 0.152283 0.407598 0.071899 -0.069731 0.062463 -0.00828 0.051959 -0.139475 -0.195325 0.040642 -0.038347 0.245906 0.008056 -0.22682 0.01648 -0.035063 0.20189 0.351099 -0.22817 0.174099 0.015624 -0.06203 0.398562 -0.107628 0.357372 0.002637 0.003281 0.534048 -0.134088 0.474875 -0.068564 0.389863 0.482151 0.033043 0.236268 -0.269274 0.024517 0.131389 -0.293401 0.062324 -0.532602 0.08498 -0.423436 0.146696 -0.146928 0.006534 -0.021281 -0.001204 -0.09364 -0.00552 -0.001942 -0.025133 0.002566 -0.055766 0.31264 0.50776 -0.207034 -0.384731 0.155756 -0.922937 0.238182 -0.066615 -0.143466 0.013518 -0.078721 0.065626 0.413744 0.102597 0.035611 -0.221128 0.004547 0.236077 0.177717 0.048811 -0.294792 -0.044618 0.085961 0.218737 -0.009918 0.036722 -0.019124 -0.251339 0.237828 0.070693 -0.029372 0.129655 0.122759 0.412013 -0.069663 0.367663 -0.069752 0.145549 0.156206 -0.055601 0.24656 0.232777 0.342093 0.328881 0.000243 0.081611 -0.014188 0.027724 -0.162862 -0.047824 0.218962 0.179296 -0.034885 0.229545 -0.03303 0.183629 0.120178 0.03834 -0.210994 0.244743 0.126378 0.432596 0.039623 -0.222109 0.020133 -0.289539 0.141079 -0.01375 0.074138 0.186887 -0.528289 -0.233334 0.015991 -0.101572 0.27312 -0.28509 -0.28269 0.153295 0.077827 -0.206189 -0.200872 -0.021683 -0.045405 -0.346267 0.420785 -0.245886 0.439127 -0.063703 0.29684 0.285635 0.355086 0.424915 0.053999 0.063296 -0.033249 -0.02031 0.119307 -0.052347 -0.24478 -0.188988 0.095901 -0.57938 -0.14595 0.046244 0.00735 -0.136631 0.847452 -0.009876 0.138396 0.251225 0.000887 0.010879 0.359697 0.161844 -0.061507 -0.038482 0.247261 0.015422 0.175023 -0.386416 -0.081048 0.50562 -0.408308 -0.141375 -0.20233 -0.175931 -0.125352 0.261384 -0.602665 -0.032864 -0.13473 -0.429463 0.041632 -0.528083 -0.153781 -0.017616 0.089165 0.05404 -0.232193 0.076324 -0.084126 -0.205423 0.235483 0.003102 -0.018001 -0.26446 0.354615 -0.710364 -0.003262 0.004713 -0.016631 0.123303 -0.092682 -0.070841 0.436511 -0.185511 -0.022633 -0.001512 0.06662 -0.393233 0.008375 -0.274952 0.178683 -0.036083 0.19428 -0.192143 -0.374485 0.17936 0.070278 -0.437345 0.072957 -0.01714 0.038239 0.465696 -0.777543 0.32553 -0.266713 0.114336 0.05013 0.143988 0.079321 0.252655 0.222561 0.028688 -0.133639 -0.100054 -0.233824 -0.114273 -0.01409 -0.102444 0.102493 -0.046362 0.28298 0.509944 0.630806 0.12903 0.045255 -0.286813 0.05436 -0.1212 -0.122958 -0.026179 0.160496 -0.231133 -0.03681 -0.041567 -0.0279 0.183349 0.047909 -0.135474 0.351799 -0.06829 0.42528 0.07857 0.085189 0.162623 -0.04593 0.29383 -0.179667 -0.031772 -0.2305 0.520049 -0.012397 -0.715922 -0.099381 0.049115 -0.3754 -0.09781 -0.354251 -0.364189 -0.081101 -0.003184 0.02299 -0.256218 0.116709 -0.220408 0.046827 0.002371 -0.251553 -0.030199 0.190666 -0.256214 0.113554 -0.410643 0.048613 -0.29861 -0.089664 -0.021371 0.188055 0.055456 -0.336891 -0.21547 0.1275 0.021167 -0.084571 0.513536 -0.250266 -0.191651 -0.227678 0.044381 -0.246957 0.491903 0.007071 -0.121287 -0.127657 0.786015 0.109483 0.106184 0.233773 0.018941 -0.498527 0.186549 0.162691 -0.426636 0.064619 -0.217793 0.056929 -0.088132 -0.47657 -0.035529 0.168758 -0.201708 0.451475 0.090646 0.235052 0.04774 -0.363763 </matrix>
+<array dataType="xsd:decimal" title="Energies" size="37">-11.1404 -11.0834 -11.0768 -11.057 -11.0509 -11.0397 -7.2992 -1.125 -1.0001 -0.9478 -0.9003 -0.7752 -0.7017 -0.6781 -0.6332 -0.5961 -0.5717 -0.5655 -0.5411 -0.5034 -0.4683 -0.4619 -0.455 -0.4524 -0.385 -0.382 -0.3322 0.252 0.5232 0.5412 0.5846 0.5908 0.6303 0.6522 0.6683 0.6811 0.7025 </array>
+<array dataType="xsd:string" title="Symmetries" size="37">A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A </array>
+</OrbitalSet>
+</list>
+</molecule>
+</cml>
